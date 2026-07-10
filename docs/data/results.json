@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T14:21:42.947168+02:00",
+  "updated_at": "2026-07-10T14:27:06.671987+02:00",
   "standings": [
     {
       "ranking": 1,
@@ -3886,6 +3886,1793 @@
       "position": 10,
       "rider_number": 17,
       "rider_name": "Sepp Kuss"
+    }
+  ],
+  "prediction_counts": [
+    {
+      "player_name": "Arnout",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Arnout",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Arnout",
+      "rider_number": 32,
+      "rider_name": "Derek James Gee",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Arnout",
+      "rider_number": 12,
+      "rider_name": "Edoardo Affini",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Arnout",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Arnout",
+      "rider_number": 31,
+      "rider_name": "Juan Ayuso",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Arnout",
+      "rider_number": 33,
+      "rider_name": "Mads Pedersen",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Arnout",
+      "rider_number": 124,
+      "rider_name": "Magnus Cort Nielsen",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Arnout",
+      "rider_number": 118,
+      "rider_name": "Mauro Schmid",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Arnout",
+      "rider_number": 47,
+      "rider_name": "Michael Valgren",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Arnout",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Arnout",
+      "rider_number": 51,
+      "rider_name": "Paul Seixas",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Arnout",
+      "rider_number": 174,
+      "rider_name": "Quinten Hermans",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Arnout",
+      "rider_number": 82,
+      "rider_name": "Thymen Arensman",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Arnout",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Arnout",
+      "rider_number": 171,
+      "rider_name": "Tom Pidcock",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
+      "rider_number": 2,
+      "rider_name": "Isaac del Toro",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
+      "rider_number": 33,
+      "rider_name": "Mads Pedersen",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
+      "rider_number": 101,
+      "rider_name": "Mathieu van der Poel",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
+      "rider_number": 43,
+      "rider_name": "Alex Baudin",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
+      "rider_number": 88,
+      "rider_name": "Kévin Vauquelin",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
+      "rider_number": 37,
+      "rider_name": "Mathias Vacek",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
+      "rider_number": 16,
+      "rider_name": "Matteo Jorgenson",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
+      "rider_number": 118,
+      "rider_name": "Mauro Schmid",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
+      "rider_number": 64,
+      "rider_name": "Max Kanter",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
+      "rider_number": 51,
+      "rider_name": "Paul Seixas",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
+      "rider_number": 181,
+      "rider_name": "Romain Gregoire",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
+      "rider_number": 171,
+      "rider_name": "Tom Pidcock",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Ernst",
+      "rider_number": 44,
+      "rider_name": "Ben Healy",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Ernst",
+      "rider_number": 115,
+      "rider_name": "Michael Matthews",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Ernst",
+      "rider_number": 51,
+      "rider_name": "Paul Seixas",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Ernst",
+      "rider_number": 34,
+      "rider_name": "Quinn Simmons",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Ernst",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Ernst",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Ernst",
+      "rider_number": 131,
+      "rider_name": "Biniam Girmay",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Ernst",
+      "rider_number": 54,
+      "rider_name": "Daan Hoole",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Ernst",
+      "rider_number": 161,
+      "rider_name": "Ion Izagirre",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Ernst",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Ernst",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Ernst",
+      "rider_number": 117,
+      "rider_name": "Luke Plapp",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Ernst",
+      "rider_number": 75,
+      "rider_name": "Matej Mohoric",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Ernst",
+      "rider_number": 101,
+      "rider_name": "Mathieu van der Poel",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Ernst",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
+      "rider_number": 44,
+      "rider_name": "Ben Healy",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
+      "rider_number": 101,
+      "rider_name": "Mathieu van der Poel",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
+      "rider_number": 108,
+      "rider_name": "Emiel Verstrynge",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
+      "rider_number": 31,
+      "rider_name": "Juan Ayuso",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
+      "rider_number": 156,
+      "rider_name": "Lennert van Eetvelt",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
+      "rider_number": 33,
+      "rider_name": "Mads Pedersen",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
+      "rider_number": 51,
+      "rider_name": "Paul Seixas",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
+      "rider_number": 34,
+      "rider_name": "Quinn Simmons",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
+      "rider_number": 181,
+      "rider_name": "Romain Gregoire",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
+      "rider_number": 71,
+      "rider_name": "Lenny Martinez",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
+      "rider_number": 101,
+      "rider_name": "Mathieu van der Poel",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
+      "rider_number": 64,
+      "rider_name": "Max Kanter",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
+      "rider_number": 82,
+      "rider_name": "Thymen Arensman",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
+      "rider_number": 43,
+      "rider_name": "Alex Baudin",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
+      "rider_number": 152,
+      "rider_name": "Huub Artz",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
+      "rider_number": 31,
+      "rider_name": "Juan Ayuso",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
+      "rider_number": 88,
+      "rider_name": "Kévin Vauquelin",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
+      "rider_number": 34,
+      "rider_name": "Quinn Simmons",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
+      "rider_number": 93,
+      "rider_name": "Valentin Paret Peintre",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Matthijs",
+      "rider_number": 2,
+      "rider_name": "Isaac del Toro",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Matthijs",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Matthijs",
+      "rider_number": 101,
+      "rider_name": "Mathieu van der Poel",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Matthijs",
+      "rider_number": 8,
+      "rider_name": "Adam Yates",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Matthijs",
+      "rider_number": 43,
+      "rider_name": "Alex Baudin",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Matthijs",
+      "rider_number": 111,
+      "rider_name": "Ben O'connor",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Matthijs",
+      "rider_number": 88,
+      "rider_name": "Kévin Vauquelin",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Matthijs",
+      "rider_number": 33,
+      "rider_name": "Mads Pedersen",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Matthijs",
+      "rider_number": 37,
+      "rider_name": "Mathias Vacek",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Matthijs",
+      "rider_number": 16,
+      "rider_name": "Matteo Jorgenson",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Matthijs",
+      "rider_number": 118,
+      "rider_name": "Mauro Schmid",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Matthijs",
+      "rider_number": 51,
+      "rider_name": "Paul Seixas",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Matthijs",
+      "rider_number": 34,
+      "rider_name": "Quinn Simmons",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Matthijs",
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Matthijs",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Matthijs",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Matthijs",
+      "rider_number": 171,
+      "rider_name": "Tom Pidcock",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Michiel",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Michiel",
+      "rider_number": 37,
+      "rider_name": "Mathias Vacek",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Michiel",
+      "rider_number": 101,
+      "rider_name": "Mathieu van der Poel",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Michiel",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Michiel",
+      "rider_number": 8,
+      "rider_name": "Adam Yates",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Michiel",
+      "rider_number": 131,
+      "rider_name": "Biniam Girmay",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Michiel",
+      "rider_number": 81,
+      "rider_name": "Egan Bernal",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Michiel",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Michiel",
+      "rider_number": 33,
+      "rider_name": "Mads Pedersen",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Michiel",
+      "rider_number": 28,
+      "rider_name": "Maxim van Gils",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Michiel",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Michiel",
+      "rider_number": 51,
+      "rider_name": "Paul Seixas",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Michiel",
+      "rider_number": 181,
+      "rider_name": "Romain Gregoire",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Michiel",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Michiel",
+      "rider_number": 211,
+      "rider_name": "Warren Barguil",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Niels",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Niels",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Niels",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Niels",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Niels",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Niels",
+      "rider_number": 88,
+      "rider_name": "Kévin Vauquelin",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Niels",
+      "rider_number": 117,
+      "rider_name": "Luke Plapp",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Niels",
+      "rider_number": 33,
+      "rider_name": "Mads Pedersen",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Niels",
+      "rider_number": 37,
+      "rider_name": "Mathias Vacek",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Niels",
+      "rider_number": 101,
+      "rider_name": "Mathieu van der Poel",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Niels",
+      "rider_number": 51,
+      "rider_name": "Paul Seixas",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Niels",
+      "rider_number": 34,
+      "rider_name": "Quinn Simmons",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Niels",
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Niels",
+      "rider_number": 181,
+      "rider_name": "Romain Gregoire",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Niels",
+      "rider_number": 171,
+      "rider_name": "Tom Pidcock",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Peter",
+      "rider_number": 2,
+      "rider_name": "Isaac del Toro",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Peter",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Peter",
+      "rider_number": 37,
+      "rider_name": "Mathias Vacek",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Peter",
+      "rider_number": 101,
+      "rider_name": "Mathieu van der Poel",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Peter",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Peter",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Peter",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Peter",
+      "rider_number": 85,
+      "rider_name": "Dorian Godon",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Peter",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Peter",
+      "rider_number": 88,
+      "rider_name": "Kévin Vauquelin",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Peter",
+      "rider_number": 33,
+      "rider_name": "Mads Pedersen",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Peter",
+      "rider_number": 28,
+      "rider_name": "Maxim van Gils",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Peter",
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Peter",
+      "rider_number": 181,
+      "rider_name": "Romain Gregoire",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Rogier",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Rogier",
+      "rider_number": 33,
+      "rider_name": "Mads Pedersen",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Rogier",
+      "rider_number": 101,
+      "rider_name": "Mathieu van der Poel",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Rogier",
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Rogier",
+      "rider_number": 181,
+      "rider_name": "Romain Gregoire",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Rogier",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Sander",
+      "rider_number": 43,
+      "rider_name": "Alex Baudin",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Sander",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Sander",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Sander",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Sander",
+      "rider_number": 25,
+      "rider_name": "Florian Lipowitz",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Sander",
+      "rider_number": 2,
+      "rider_name": "Isaac del Toro",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Sander",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Sander",
+      "rider_number": 117,
+      "rider_name": "Luke Plapp",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Sander",
+      "rider_number": 33,
+      "rider_name": "Mads Pedersen",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Sander",
+      "rider_number": 124,
+      "rider_name": "Magnus Cort Nielsen",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Sander",
+      "rider_number": 101,
+      "rider_name": "Mathieu van der Poel",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Sander",
+      "rider_number": 51,
+      "rider_name": "Paul Seixas",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Sander",
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Sander",
+      "rider_number": 41,
+      "rider_name": "Richard Carapaz",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Sander",
+      "rider_number": 181,
+      "rider_name": "Romain Gregoire",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Sander",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Sander",
+      "rider_number": 171,
+      "rider_name": "Tom Pidcock",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Theo",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Theo",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Theo",
+      "rider_number": 101,
+      "rider_name": "Mathieu van der Poel",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Theo",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Theo",
+      "rider_number": 181,
+      "rider_name": "Romain Gregoire",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Theo",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Theo",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Theo",
+      "rider_number": 111,
+      "rider_name": "Ben O'connor",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Theo",
+      "rider_number": 84,
+      "rider_name": "Filippo Ganna",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Theo",
+      "rider_number": 88,
+      "rider_name": "Kévin Vauquelin",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Theo",
+      "rider_number": 117,
+      "rider_name": "Luke Plapp",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Theo",
+      "rider_number": 33,
+      "rider_name": "Mads Pedersen",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Theo",
+      "rider_number": 37,
+      "rider_name": "Mathias Vacek",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Theo",
+      "rider_number": 51,
+      "rider_name": "Paul Seixas",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Thomas",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Thomas",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Thomas",
+      "rider_number": 33,
+      "rider_name": "Mads Pedersen",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Thomas",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Thomas",
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Thomas",
+      "rider_number": 181,
+      "rider_name": "Romain Gregoire",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Thomas",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Thomas",
+      "rider_number": 163,
+      "rider_name": "Alex Aranburu",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Thomas",
+      "rider_number": 25,
+      "rider_name": "Florian Lipowitz",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Thomas",
+      "rider_number": 2,
+      "rider_name": "Isaac del Toro",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Thomas",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Thomas",
+      "rider_number": 82,
+      "rider_name": "Thymen Arensman",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Thomas",
+      "rider_number": 171,
+      "rider_name": "Tom Pidcock",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Trystan",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Trystan",
+      "rider_number": 51,
+      "rider_name": "Paul Seixas",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Trystan",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Trystan",
+      "rider_number": 6,
+      "rider_name": "Florian Vermeersch",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Trystan",
+      "rider_number": 2,
+      "rider_name": "Isaac del Toro",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Trystan",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Trystan",
+      "rider_number": 31,
+      "rider_name": "Juan Ayuso",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Trystan",
+      "rider_number": 33,
+      "rider_name": "Mads Pedersen",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Trystan",
+      "rider_number": 101,
+      "rider_name": "Mathieu van der Poel",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Trystan",
+      "rider_number": 35,
+      "rider_name": "Mattias Skjelmose",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Trystan",
+      "rider_number": 28,
+      "rider_name": "Maxim van Gils",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Trystan",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Trystan",
+      "rider_number": 181,
+      "rider_name": "Romain Gregoire",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Trystan",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Trystan",
+      "rider_number": 172,
+      "rider_name": "Xabier Azparren Irurzun",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wim",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wim",
+      "rider_number": 37,
+      "rider_name": "Mathias Vacek",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wim",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wim",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wim",
+      "rider_number": 43,
+      "rider_name": "Alex Baudin",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wim",
+      "rider_number": 44,
+      "rider_name": "Ben Healy",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wim",
+      "rider_number": 131,
+      "rider_name": "Biniam Girmay",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wim",
+      "rider_number": 18,
+      "rider_name": "Davide Piganzoli",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wim",
+      "rider_number": 2,
+      "rider_name": "Isaac del Toro",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wim",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wim",
+      "rider_number": 88,
+      "rider_name": "Kévin Vauquelin",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wim",
+      "rider_number": 101,
+      "rider_name": "Mathieu van der Poel",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wim",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wim",
+      "rider_number": 51,
+      "rider_name": "Paul Seixas",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wim",
+      "rider_number": 34,
+      "rider_name": "Quinn Simmons",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wim",
+      "rider_number": 82,
+      "rider_name": "Thymen Arensman",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wim",
+      "rider_number": 171,
+      "rider_name": "Tom Pidcock",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 82,
+      "rider_name": "Thymen Arensman",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 43,
+      "rider_name": "Alex Baudin",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 131,
+      "rider_name": "Biniam Girmay",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 65,
+      "rider_name": "Harold Tejada",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 122,
+      "rider_name": "Jonas Abrahamsen",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 201,
+      "rider_name": "Jordan Jegat",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 31,
+      "rider_name": "Juan Ayuso",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 156,
+      "rider_name": "Lennert van Eetvelt",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 101,
+      "rider_name": "Mathieu van der Poel",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 64,
+      "rider_name": "Max Kanter",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 51,
+      "rider_name": "Paul Seixas",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 171,
+      "rider_name": "Tom Pidcock",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 211,
+      "rider_name": "Warren Barguil",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Yvo",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Yvo",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Yvo",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Yvo",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Yvo",
+      "rider_number": 44,
+      "rider_name": "Ben Healy",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Yvo",
+      "rider_number": 35,
+      "rider_name": "Mattias Skjelmose",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Yvo",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Yvo",
+      "rider_number": 171,
+      "rider_name": "Tom Pidcock",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Yvo",
+      "rider_number": 31,
+      "rider_name": "Juan Ayuso",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Yvo",
+      "rider_number": 156,
+      "rider_name": "Lennert van Eetvelt",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Yvo",
+      "rider_number": 134,
+      "rider_name": "Marco Frigo",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Yvo",
+      "rider_number": 101,
+      "rider_name": "Mathieu van der Poel",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Yvo",
+      "rider_number": 16,
+      "rider_name": "Matteo Jorgenson",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Yvo",
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Yvo",
+      "rider_number": 181,
+      "rider_name": "Romain Gregoire",
+      "times_predicted": 1,
+      "exceeds_maximum": false
     }
   ]
 }

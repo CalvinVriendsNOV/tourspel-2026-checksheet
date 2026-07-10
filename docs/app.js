@@ -67,6 +67,7 @@ async function loadResults() {
     }));
   }
   const players = [...new Set((data.predictions || []).map(row => row.player_name))].sort();
+  const predictionCounts = data.prediction_counts || [];
   const stages = [...new Set([...stagePoints.map(row => row.stage_number), ...data.stage_results.map(row => row.stage_number)])].sort((a, b) => a - b);
   const playerSelect = document.querySelector('#player-select');
   const stageSelect = document.querySelector('#stage-select');
@@ -79,7 +80,10 @@ async function loadResults() {
     const scores = stagePoints.filter(row => row.player_name === player);
     const total = scores.reduce((sum, row) => sum + Number(row.total_points || 0), 0);
     const categories = scores.reduce((result, row) => { ['points_1a', 'points_1b', 'points_1c', 'points_1d'].forEach(key => result[key] += Number(row[key] || 0)); return result; }, {points_1a: 0, points_1b: 0, points_1c: 0, points_1d: 0});
-    document.querySelector('#player-view').innerHTML = `<article class="card detail"><h3>${text(player)}'s voorspelling en scores <span class="score-pill">${total} points</span></h3><div class="mini-bars">${Object.entries(categories).map(([key, value]) => `<div><span>${key.replace('points_', '').toUpperCase()}</span><div class="bar-track"><div class="bar" style="width:${total ? value / total * 100 : 0}%"></div></div><strong>${value}</strong></div>`).join('')}</div><table><thead><tr><th>Etappe</th><th>Voorspelling</th><th>1A</th><th>1B</th><th>1C</th><th>1D</th><th>Totaal</th></tr></thead><tbody>${predictions.map(row => {
+    const counts = predictionCounts.filter(row => row.player_name === player);
+    const maxCount = Math.max(...counts.map(row => Number(row.times_predicted)), 5);
+    const countView = counts.length ? `<div class="prediction-counts"><div class="count-header"><strong>Voorspellingsfrequentie</strong><span>Maximum: 5 keer per renner</span></div>${counts.map(row => `<div class="count-row ${row.exceeds_maximum ? 'over-limit' : ''}"><span>${text(row.rider_name || `Rider ${row.rider_number}`)}</span><div class="bar-track"><div class="bar" style="width:${Number(row.times_predicted) / maxCount * 100}%"></div></div><strong>${row.times_predicted}×</strong></div>`).join('')}</div>` : '<p class="muted">Geen voorspellingen gevonden.</p>';
+    document.querySelector('#player-view').innerHTML = `<article class="card detail"><h3>${text(player)}'s voorspelling en scores <span class="score-pill">${total} points</span></h3><div class="mini-bars">${Object.entries(categories).map(([key, value]) => `<div><span>${key.replace('points_', '').toUpperCase()}</span><div class="bar-track"><div class="bar" style="width:${total ? value / total * 100 : 0}%"></div></div><strong>${value}</strong></div>`).join('')}</div>${countView}<table><thead><tr><th>Etappe</th><th>Voorspelling</th><th>1A</th><th>1B</th><th>1C</th><th>1D</th><th>Totaal</th></tr></thead><tbody>${predictions.map(row => {
       const score = scores.find(item => item.stage_number === row.stage_number);
       const names = [row.first_place_name || row.first_place, row.second_place_name || row.second_place, row.third_place_name || row.third_place].map(text).join(' · ');
       return `<tr><td>Etappe ${row.stage_number}</td><td>${names}</td><td>${score ? score.points_1a : '—'}</td><td>${score ? score.points_1b : '—'}</td><td>${score ? score.points_1c : '—'}</td><td>${score ? score.points_1d : '—'}</td><td class="total">${score ? score.total_points : '—'}</td></tr>`;
