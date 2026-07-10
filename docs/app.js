@@ -16,7 +16,7 @@ async function loadResults() {
     <article class="stat"><span>Spelers</span><strong>${standings.length}</strong></article>
     <article class="stat"><span>Voltooide etappes</span><strong>${completedStages}</strong></article>
     <article class="stat"><span>Uitgereikte punten</span><strong>${totalPoints}</strong></article>`;
-  document.querySelector('#podium').innerHTML = standings.length ? `<div class="podium-card second"><span>2</span><strong>${text(standings[1]?.player_name || '—')}</strong><small>${standings[1]?.total_points || 0} points</small></div><div class="podium-card first"><span>1</span><strong>${text(standings[0].player_name)}</strong><small>${standings[0].total_points} points</small></div><div class="podium-card third"><span>3</span><strong>${text(standings[2]?.player_name || '—')}</strong><small>${standings[2]?.total_points || 0} points</small></div>` : '';
+  document.querySelector('#podium').innerHTML = standings.length ? `<div class="podium-card second"><span>2</span><strong>${text(standings[1]?.player_name || '—')}</strong><small>${standings[1]?.total_points || 0} punten</small></div><div class="podium-card first"><span>1</span><strong>${text(standings[0].player_name)}</strong><small>${standings[0].total_points} punten</small></div><div class="podium-card third"><span>3</span><strong>${text(standings[2]?.player_name || '—')}</strong><small>${standings[2]?.total_points || 0} punten</small></div>` : '';
   document.querySelector('#standings').innerHTML = data.standings.map(row => `
     <tr><td>${row.ranking}</td><td class="name">${text(row.player_name)}</td>
     <td>${row.points_1a}</td><td>${row.points_1b}</td><td>${row.points_1c}</td>
