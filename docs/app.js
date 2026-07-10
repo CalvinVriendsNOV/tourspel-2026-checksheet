@@ -29,8 +29,12 @@ async function loadResults() {
   document.querySelector('#stage-chart').innerHTML = chartStages.length ? chartStages.map(stage => `<div class="bar-row"><span>Stage ${stage}</span><div class="bar-track"><div class="bar" style="width:${byStage[stage] / maxStagePoints * 100}%"></div></div><strong>${byStage[stage]}</strong></div>`).join('') : '<p class="muted">Stage points will appear after results are published.</p>';
   const cumulative = data.cumulative_points || [];
   const graphStages = [...new Set(cumulative.map(row => Number(row.stage_number)))].sort((a, b) => a - b);
-  const graphPlayers = [...new Set(cumulative.map(row => row.player_name))];
-  const graphWidth = 900, graphHeight = 330, left = 48, right = 18, top = 20, bottom = 38;
+  const graphPlayers = [...new Set(cumulative.map(row => row.player_name))].sort((a, b) => {
+    const finalA = Math.max(...cumulative.filter(row => row.player_name === a).map(row => Number(row.cumulative_total_points || 0)), 0);
+    const finalB = Math.max(...cumulative.filter(row => row.player_name === b).map(row => Number(row.cumulative_total_points || 0)), 0);
+    return finalB - finalA;
+  }).slice(0, 8);
+  const graphWidth = 900, graphHeight = 390, left = 54, right = 20, top = 24, bottom = 48;
   const graphMax = Math.max(...cumulative.map(row => Number(row.cumulative_total_points || 0)), 1);
   const x = stage => left + (graphStages.length > 1 ? (stage - graphStages[0]) / (graphStages.at(-1) - graphStages[0]) : .5) * (graphWidth - left - right);
   const y = points => graphHeight - bottom - Number(points || 0) / graphMax * (graphHeight - top - bottom);
@@ -41,9 +45,14 @@ async function loadResults() {
     const dots = rows.map(row => `<circle class="graph-point" cx="${x(Number(row.stage_number)).toFixed(1)}" cy="${y(row.cumulative_total_points).toFixed(1)}" r="5" fill="${colors[index % colors.length]}" data-player="${text(player)}" data-stage="${row.stage_number}" data-points="${row.cumulative_total_points}"/>`).join('');
     return `<g class="graph-series" data-player="${text(player)}"><polyline points="${points}" fill="none" stroke="${colors[index % colors.length]}" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>${dots}</g>`;
   }).join('');
-  const labels = graphStages.map(stage => `<text x="${x(stage)}" y="${graphHeight - 12}" text-anchor="middle">${stage}</text>`).join('');
+  const grid = Array.from({length: 5}, (_, index) => {
+    const value = Math.round(graphMax * index / 4);
+    const lineY = y(value);
+    return `<line class="grid-line" x1="${left}" y1="${lineY}" x2="${graphWidth - right}" y2="${lineY}"/><text class="y-label" x="${left - 8}" y="${lineY + 4}" text-anchor="end">${value}</text>`;
+  }).join('');
+  const labels = graphStages.map(stage => `<text x="${x(stage)}" y="${graphHeight - 15}" text-anchor="middle">${stage}</text>`).join('');
   const legend = graphPlayers.map((player, index) => `<button class="legend-item" data-player="${text(player)}"><i style="background:${colors[index % colors.length]}"></i>${text(player)}</button>`).join('');
-  document.querySelector('#progression-chart').innerHTML = graphStages.length ? `<div class="graph-wrap"><svg class="line-graph" viewBox="0 0 ${graphWidth} ${graphHeight}" role="img" aria-label="Cumulative points progression"><line class="axis" x1="${left}" y1="${top}" x2="${left}" y2="${graphHeight - bottom}"/><line class="axis" x1="${left}" y1="${graphHeight - bottom}" x2="${graphWidth - right}" y2="${graphHeight - bottom}"/><line class="hover-line" x1="0" y1="${top}" x2="0" y2="${graphHeight - bottom}"/>${lines}${labels}</svg><div class="graph-tooltip" role="status"></div></div><div class="legend">${legend}</div>` : '<p class="muted">The progression graph will appear after results are published.</p>';
+  document.querySelector('#progression-chart').innerHTML = graphStages.length ? `<p class="chart-note">Top 8 spelers op basis van de huidige stand</p><div class="graph-wrap"><svg class="line-graph" viewBox="0 0 ${graphWidth} ${graphHeight}" role="img" aria-label="Cumulative points progression">${grid}<line class="axis" x1="${left}" y1="${top}" x2="${left}" y2="${graphHeight - bottom}"/><line class="axis" x1="${left}" y1="${graphHeight - bottom}" x2="${graphWidth - right}" y2="${graphHeight - bottom}"/><line class="hover-line" x1="0" y1="${top}" x2="0" y2="${graphHeight - bottom}"/>${lines}${labels}</svg><div class="graph-tooltip" role="status"></div></div><div class="legend">${legend}</div>` : '<p class="muted">The progression graph will appear after results are published.</p>';
   if (graphStages.length) {
     const chart = document.querySelector('#progression-chart');
     const tooltip = chart.querySelector('.graph-tooltip');
@@ -83,11 +92,11 @@ async function loadResults() {
     const counts = predictionCounts.filter(row => row.player_name === player);
     const maxCount = Math.max(...counts.map(row => Number(row.times_predicted)), 5);
     const countView = counts.length ? `<div class="prediction-counts"><div class="count-header"><strong>Voorspellingsfrequentie</strong><span>Maximum: 5 keer per renner</span></div>${counts.map(row => `<div class="count-row ${row.exceeds_maximum ? 'over-limit' : ''}"><span>${text(row.rider_name || `Rider ${row.rider_number}`)}</span><div class="bar-track"><div class="bar" style="width:${Number(row.times_predicted) / maxCount * 100}%"></div></div><strong>${row.times_predicted}×</strong></div>`).join('')}</div>` : '<p class="muted">Geen voorspellingen gevonden.</p>';
-    document.querySelector('#player-view').innerHTML = `<article class="card detail"><h3>${text(player)}'s voorspelling en scores <span class="score-pill">${total} points</span></h3><div class="mini-bars">${Object.entries(categories).map(([key, value]) => `<div><span>${key.replace('points_', '').toUpperCase()}</span><div class="bar-track"><div class="bar" style="width:${total ? value / total * 100 : 0}%"></div></div><strong>${value}</strong></div>`).join('')}</div>${countView}<table><thead><tr><th>Etappe</th><th>Voorspelling</th><th>1A</th><th>1B</th><th>1C</th><th>1D</th><th>Totaal</th></tr></thead><tbody>${predictions.map(row => {
+    document.querySelector('#player-view').innerHTML = `<article class="card detail"><div class="detail-heading"><h3>${text(player)}'s voorspelling en scores</h3><span class="score-pill">${total} points</span></div><div class="mini-bars">${Object.entries(categories).map(([key, value]) => `<div><span>${key.replace('points_', '').toUpperCase()}</span><div class="bar-track"><div class="bar" style="width:${total ? value / total * 100 : 0}%"></div></div><strong>${value}</strong></div>`).join('')}</div>${countView}<div class="detail-table-scroll"><table class="detail-score-table"><thead><tr><th>Etappe</th><th>Voorspelling</th><th>1A</th><th>1B</th><th>1C</th><th>1D</th><th>Totaal</th></tr></thead><tbody>${predictions.map(row => {
       const score = scores.find(item => item.stage_number === row.stage_number);
       const names = [row.first_place_name || row.first_place, row.second_place_name || row.second_place, row.third_place_name || row.third_place].map(text).join(' · ');
-      return `<tr><td>Etappe ${row.stage_number}</td><td>${names}</td><td>${score ? score.points_1a : '—'}</td><td>${score ? score.points_1b : '—'}</td><td>${score ? score.points_1c : '—'}</td><td>${score ? score.points_1d : '—'}</td><td class="total">${score ? score.total_points : '—'}</td></tr>`;
-    }).join('')}</tbody></table></article>`;
+      return `<tr><td>${row.stage_number}</td><td>${names}</td><td>${score ? score.points_1a : '—'}</td><td>${score ? score.points_1b : '—'}</td><td>${score ? score.points_1c : '—'}</td><td>${score ? score.points_1d : '—'}</td><td class="total">${score ? score.total_points : '—'}</td></tr>`;
+    }).join('')}</tbody></table></div></article>`;
   };
   const renderStage = stage => {
     if (!stage) { document.querySelector('#stage-view').innerHTML = ''; return; }
