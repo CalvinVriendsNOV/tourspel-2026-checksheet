@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T15:22:53.524491+00:00",
+  "updated_at": "2026-07-10T18:15:11.432289+00:00",
   "standings": [
     {
       "ranking": 1,
@@ -1830,7 +1830,7 @@
       "stage_number": 1,
       "stage_name": "Etappe 1 - 4 juli - Barcelona - Barcelona",
       "latest_import_status": "success",
-      "latest_imported_at": "2026-07-10T11:38:00.697510+00:00",
+      "latest_imported_at": "2026-07-10T18:10:01.963204+00:00",
       "has_stage_results": true,
       "has_gc_results": true,
       "has_combativity_result": false
@@ -1839,7 +1839,7 @@
       "stage_number": 2,
       "stage_name": "Etappe 2 - 5 juli - Tarragona - Barcelona",
       "latest_import_status": "success",
-      "latest_imported_at": "2026-07-10T11:38:13.230918+00:00",
+      "latest_imported_at": "2026-07-10T18:10:02.027474+00:00",
       "has_stage_results": true,
       "has_gc_results": true,
       "has_combativity_result": true
@@ -1848,7 +1848,7 @@
       "stage_number": 3,
       "stage_name": "Etappe 3 - 6 juli - Granollers - Les Angles",
       "latest_import_status": "success",
-      "latest_imported_at": "2026-07-10T11:38:23.062407+00:00",
+      "latest_imported_at": "2026-07-10T18:10:02.156687+00:00",
       "has_stage_results": true,
       "has_gc_results": true,
       "has_combativity_result": true
@@ -1857,7 +1857,7 @@
       "stage_number": 4,
       "stage_name": "Etappe 4 - 7 juli - Carcassonne - Foix",
       "latest_import_status": "success",
-      "latest_imported_at": "2026-07-10T11:39:43.554370+00:00",
+      "latest_imported_at": "2026-07-10T18:10:02.352629+00:00",
       "has_stage_results": true,
       "has_gc_results": true,
       "has_combativity_result": true
@@ -1866,7 +1866,7 @@
       "stage_number": 5,
       "stage_name": "Etappe 5 - 8 juli - Lannemezan - Pau",
       "latest_import_status": "success",
-      "latest_imported_at": "2026-07-10T11:40:25.420537+00:00",
+      "latest_imported_at": "2026-07-10T18:10:02.609425+00:00",
       "has_stage_results": true,
       "has_gc_results": true,
       "has_combativity_result": true
@@ -1875,7 +1875,7 @@
       "stage_number": 6,
       "stage_name": "Etappe 6 - 9 juli - Pau - Gavarnie-Gèdre",
       "latest_import_status": "success",
-      "latest_imported_at": "2026-07-10T11:40:32.734089+00:00",
+      "latest_imported_at": "2026-07-10T18:10:02.847453+00:00",
       "has_stage_results": true,
       "has_gc_results": true,
       "has_combativity_result": true
@@ -1884,7 +1884,7 @@
       "stage_number": 7,
       "stage_name": "Etappe 7 - 10 juli - Hagetmau - Bordeaux",
       "latest_import_status": "success",
-      "latest_imported_at": "2026-07-10T15:22:31.554946+00:00",
+      "latest_imported_at": "2026-07-10T18:10:03.128728+00:00",
       "has_stage_results": true,
       "has_gc_results": true,
       "has_combativity_result": true
@@ -2472,6 +2472,30 @@
       "second_place_name": "Tim Merlier",
       "third_place": 152,
       "third_place_name": "Huub Artz"
+    },
+    {
+      "player_name": "Loïc",
+      "prediction_type": "stage",
+      "stage_number": 8,
+      "stage_name": "Etappe 8 - 11 juli - Périgueux - Bergerac",
+      "first_place": 131,
+      "first_place_name": "Biniam Girmay",
+      "second_place": 91,
+      "second_place_name": "Tim Merlier",
+      "third_place": 165,
+      "third_place_name": "Milan Fretin"
+    },
+    {
+      "player_name": "Loïc",
+      "prediction_type": "stage",
+      "stage_number": 9,
+      "stage_name": "Etappe 9 - 12 juli - Malemort - Ussel",
+      "first_place": 101,
+      "first_place_name": "Mathieu van der Poel",
+      "second_place": 117,
+      "second_place_name": "Luke Plapp",
+      "third_place": 183,
+      "third_place_name": "Clément Braz Afonso"
     },
     {
       "player_name": "Matthijs",
@@ -4661,6 +4685,13 @@
     },
     {
       "player_name": "Loïc",
+      "rider_number": 101,
+      "rider_name": "Mathieu van der Poel",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
       "rider_number": 55,
       "rider_name": "Olav Kooij",
       "times_predicted": 3,
@@ -4670,13 +4701,6 @@
       "player_name": "Loïc",
       "rider_number": 71,
       "rider_name": "Lenny Martinez",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Loïc",
-      "rider_number": 101,
-      "rider_name": "Mathieu van der Poel",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -4696,8 +4720,29 @@
     },
     {
       "player_name": "Loïc",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
       "rider_number": 43,
       "rider_name": "Alex Baudin",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
+      "rider_number": 131,
+      "rider_name": "Biniam Girmay",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
+      "rider_number": 183,
+      "rider_name": "Clément Braz Afonso",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
@@ -4738,6 +4783,20 @@
     },
     {
       "player_name": "Loïc",
+      "rider_number": 117,
+      "rider_name": "Luke Plapp",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
+      "rider_number": 165,
+      "rider_name": "Milan Fretin",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
       "rider_number": 34,
       "rider_name": "Quinn Simmons",
       "times_predicted": 1,
@@ -4747,13 +4806,6 @@
       "player_name": "Loïc",
       "rider_number": 1,
       "rider_name": "Tadej Pogacar",
-      "times_predicted": 1,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Loïc",
-      "rider_number": 91,
-      "rider_name": "Tim Merlier",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
