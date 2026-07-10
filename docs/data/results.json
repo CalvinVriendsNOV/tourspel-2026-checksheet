@@ -1,0 +1,3891 @@
+{
+  "updated_at": "2026-07-10T14:10:47.325982+02:00",
+  "standings": [
+    {
+      "ranking": 1,
+      "player_name": "Thomas",
+      "points_1a": 175,
+      "points_1b": 29,
+      "points_1c": 13,
+      "points_1d": 20,
+      "total_points": 237
+    },
+    {
+      "ranking": 2,
+      "player_name": "Niels",
+      "points_1a": 182,
+      "points_1b": 22,
+      "points_1c": 11,
+      "points_1d": 20,
+      "total_points": 235
+    },
+    {
+      "ranking": 3,
+      "player_name": "Yvo",
+      "points_1a": 145,
+      "points_1b": 25,
+      "points_1c": 13,
+      "points_1d": 20,
+      "total_points": 203
+    },
+    {
+      "ranking": 4,
+      "player_name": "Sander",
+      "points_1a": 123,
+      "points_1b": 25,
+      "points_1c": 5,
+      "points_1d": 40,
+      "total_points": 193
+    },
+    {
+      "ranking": 5,
+      "player_name": "Calvin",
+      "points_1a": 122,
+      "points_1b": 25,
+      "points_1c": 5,
+      "points_1d": 40,
+      "total_points": 192
+    },
+    {
+      "ranking": 6,
+      "player_name": "Theo",
+      "points_1a": 142,
+      "points_1b": 15,
+      "points_1c": 12,
+      "points_1d": 20,
+      "total_points": 189
+    },
+    {
+      "ranking": 7,
+      "player_name": "Peter",
+      "points_1a": 142,
+      "points_1b": 17,
+      "points_1c": 8,
+      "points_1d": 20,
+      "total_points": 187
+    },
+    {
+      "ranking": 8,
+      "player_name": "Hugo",
+      "points_1a": 146,
+      "points_1b": 30,
+      "points_1c": 10,
+      "points_1d": 0,
+      "total_points": 186
+    },
+    {
+      "ranking": 9,
+      "player_name": "Wim",
+      "points_1a": 104,
+      "points_1b": 20,
+      "points_1c": 8,
+      "points_1d": 40,
+      "total_points": 172
+    },
+    {
+      "ranking": 10,
+      "player_name": "Ernst",
+      "points_1a": 113,
+      "points_1b": 15,
+      "points_1c": 6,
+      "points_1d": 20,
+      "total_points": 154
+    },
+    {
+      "ranking": 11,
+      "player_name": "Wouter",
+      "points_1a": 97,
+      "points_1b": 10,
+      "points_1c": 5,
+      "points_1d": 40,
+      "total_points": 152
+    },
+    {
+      "ranking": 12,
+      "player_name": "Matthijs",
+      "points_1a": 86,
+      "points_1b": 10,
+      "points_1c": 4,
+      "points_1d": 40,
+      "total_points": 140
+    },
+    {
+      "ranking": 13,
+      "player_name": "Arnout",
+      "points_1a": 80,
+      "points_1b": 15,
+      "points_1c": 7,
+      "points_1d": 20,
+      "total_points": 122
+    },
+    {
+      "ranking": 14,
+      "player_name": "Michiel",
+      "points_1a": 82,
+      "points_1b": 10,
+      "points_1c": 7,
+      "points_1d": 20,
+      "total_points": 119
+    },
+    {
+      "ranking": 15,
+      "player_name": "Trystan",
+      "points_1a": 73,
+      "points_1b": 10,
+      "points_1c": 6,
+      "points_1d": 20,
+      "total_points": 109
+    },
+    {
+      "ranking": 16,
+      "player_name": "Loïc",
+      "points_1a": 85,
+      "points_1b": 10,
+      "points_1c": 4,
+      "points_1d": 0,
+      "total_points": 99
+    },
+    {
+      "ranking": 17,
+      "player_name": "Rogier",
+      "points_1a": 66,
+      "points_1b": 0,
+      "points_1c": 4,
+      "points_1d": 0,
+      "total_points": 70
+    }
+  ],
+  "stage_points": [
+    {
+      "player_name": "Theo",
+      "stage_number": 1,
+      "points_1a": 50,
+      "points_1b": 0,
+      "points_1c": 6,
+      "points_1d": 0,
+      "total_points": 56
+    },
+    {
+      "player_name": "Hugo",
+      "stage_number": 1,
+      "points_1a": 39,
+      "points_1b": 10,
+      "points_1c": 3,
+      "points_1d": 0,
+      "total_points": 52
+    },
+    {
+      "player_name": "Thomas",
+      "stage_number": 1,
+      "points_1a": 35,
+      "points_1b": 12,
+      "points_1c": 4,
+      "points_1d": 0,
+      "total_points": 51
+    },
+    {
+      "player_name": "Rogier",
+      "stage_number": 1,
+      "points_1a": 41,
+      "points_1b": 0,
+      "points_1c": 4,
+      "points_1d": 0,
+      "total_points": 45
+    },
+    {
+      "player_name": "Yvo",
+      "stage_number": 1,
+      "points_1a": 31,
+      "points_1b": 10,
+      "points_1c": 3,
+      "points_1d": 0,
+      "total_points": 44
+    },
+    {
+      "player_name": "Niels",
+      "stage_number": 1,
+      "points_1a": 35,
+      "points_1b": 2,
+      "points_1c": 4,
+      "points_1d": 0,
+      "total_points": 41
+    },
+    {
+      "player_name": "Loïc",
+      "stage_number": 1,
+      "points_1a": 35,
+      "points_1b": 0,
+      "points_1c": 4,
+      "points_1d": 0,
+      "total_points": 39
+    },
+    {
+      "player_name": "Sander",
+      "stage_number": 1,
+      "points_1a": 14,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 14
+    },
+    {
+      "player_name": "Wouter",
+      "stage_number": 1,
+      "points_1a": 14,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 14
+    },
+    {
+      "player_name": "Ernst",
+      "stage_number": 1,
+      "points_1a": 11,
+      "points_1b": 0,
+      "points_1c": 1,
+      "points_1d": 0,
+      "total_points": 12
+    },
+    {
+      "player_name": "Peter",
+      "stage_number": 1,
+      "points_1a": 11,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 11
+    },
+    {
+      "player_name": "Arnout",
+      "stage_number": 1,
+      "points_1a": 8,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 8
+    },
+    {
+      "player_name": "Calvin",
+      "stage_number": 1,
+      "points_1a": 5,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 5
+    },
+    {
+      "player_name": "Matthijs",
+      "stage_number": 1,
+      "points_1a": 5,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 5
+    },
+    {
+      "player_name": "Wim",
+      "stage_number": 1,
+      "points_1a": 5,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 5
+    },
+    {
+      "player_name": "Trystan",
+      "stage_number": 1,
+      "points_1a": 1,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 1
+    },
+    {
+      "player_name": "Michiel",
+      "stage_number": 1,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Thomas",
+      "stage_number": 2,
+      "points_1a": 26,
+      "points_1b": 2,
+      "points_1c": 3,
+      "points_1d": 0,
+      "total_points": 31
+    },
+    {
+      "player_name": "Yvo",
+      "stage_number": 2,
+      "points_1a": 24,
+      "points_1b": 0,
+      "points_1c": 5,
+      "points_1d": 0,
+      "total_points": 29
+    },
+    {
+      "player_name": "Calvin",
+      "stage_number": 2,
+      "points_1a": 26,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 26
+    },
+    {
+      "player_name": "Matthijs",
+      "stage_number": 2,
+      "points_1a": 26,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 26
+    },
+    {
+      "player_name": "Hugo",
+      "stage_number": 2,
+      "points_1a": 17,
+      "points_1b": 5,
+      "points_1c": 2,
+      "points_1d": 0,
+      "total_points": 24
+    },
+    {
+      "player_name": "Niels",
+      "stage_number": 2,
+      "points_1a": 18,
+      "points_1b": 0,
+      "points_1c": 2,
+      "points_1d": 0,
+      "total_points": 20
+    },
+    {
+      "player_name": "Arnout",
+      "stage_number": 2,
+      "points_1a": 16,
+      "points_1b": 0,
+      "points_1c": 2,
+      "points_1d": 0,
+      "total_points": 18
+    },
+    {
+      "player_name": "Wim",
+      "stage_number": 2,
+      "points_1a": 16,
+      "points_1b": 0,
+      "points_1c": 2,
+      "points_1d": 0,
+      "total_points": 18
+    },
+    {
+      "player_name": "Peter",
+      "stage_number": 2,
+      "points_1a": 15,
+      "points_1b": 0,
+      "points_1c": 2,
+      "points_1d": 0,
+      "total_points": 17
+    },
+    {
+      "player_name": "Michiel",
+      "stage_number": 2,
+      "points_1a": 10,
+      "points_1b": 0,
+      "points_1c": 3,
+      "points_1d": 0,
+      "total_points": 13
+    },
+    {
+      "player_name": "Theo",
+      "stage_number": 2,
+      "points_1a": 4,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 4
+    },
+    {
+      "player_name": "Loïc",
+      "stage_number": 2,
+      "points_1a": 3,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 3
+    },
+    {
+      "player_name": "Sander",
+      "stage_number": 2,
+      "points_1a": 3,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 3
+    },
+    {
+      "player_name": "Trystan",
+      "stage_number": 2,
+      "points_1a": 2,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 2
+    },
+    {
+      "player_name": "Wouter",
+      "stage_number": 2,
+      "points_1a": 1,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 1
+    },
+    {
+      "player_name": "Ernst",
+      "stage_number": 2,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Rogier",
+      "stage_number": 2,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Hugo",
+      "stage_number": 3,
+      "points_1a": 40,
+      "points_1b": 15,
+      "points_1c": 5,
+      "points_1d": 0,
+      "total_points": 60
+    },
+    {
+      "player_name": "Calvin",
+      "stage_number": 3,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 20,
+      "total_points": 20
+    },
+    {
+      "player_name": "Matthijs",
+      "stage_number": 3,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 20,
+      "total_points": 20
+    },
+    {
+      "player_name": "Sander",
+      "stage_number": 3,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 20,
+      "total_points": 20
+    },
+    {
+      "player_name": "Wim",
+      "stage_number": 3,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 20,
+      "total_points": 20
+    },
+    {
+      "player_name": "Wouter",
+      "stage_number": 3,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 20,
+      "total_points": 20
+    },
+    {
+      "player_name": "Thomas",
+      "stage_number": 3,
+      "points_1a": 5,
+      "points_1b": 0,
+      "points_1c": 1,
+      "points_1d": 0,
+      "total_points": 6
+    },
+    {
+      "player_name": "Yvo",
+      "stage_number": 3,
+      "points_1a": 5,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 5
+    },
+    {
+      "player_name": "Loïc",
+      "stage_number": 3,
+      "points_1a": 1,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 1
+    },
+    {
+      "player_name": "Arnout",
+      "stage_number": 3,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Ernst",
+      "stage_number": 3,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Michiel",
+      "stage_number": 3,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Niels",
+      "stage_number": 3,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Peter",
+      "stage_number": 3,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Rogier",
+      "stage_number": 3,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Theo",
+      "stage_number": 3,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Trystan",
+      "stage_number": 3,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Niels",
+      "stage_number": 4,
+      "points_1a": 40,
+      "points_1b": 5,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 45
+    },
+    {
+      "player_name": "Calvin",
+      "stage_number": 4,
+      "points_1a": 25,
+      "points_1b": 10,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 35
+    },
+    {
+      "player_name": "Sander",
+      "stage_number": 4,
+      "points_1a": 25,
+      "points_1b": 10,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 35
+    },
+    {
+      "player_name": "Michiel",
+      "stage_number": 4,
+      "points_1a": 26,
+      "points_1b": 0,
+      "points_1c": 1,
+      "points_1d": 0,
+      "total_points": 27
+    },
+    {
+      "player_name": "Peter",
+      "stage_number": 4,
+      "points_1a": 25,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 25
+    },
+    {
+      "player_name": "Rogier",
+      "stage_number": 4,
+      "points_1a": 25,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 25
+    },
+    {
+      "player_name": "Thomas",
+      "stage_number": 4,
+      "points_1a": 25,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 25
+    },
+    {
+      "player_name": "Wim",
+      "stage_number": 4,
+      "points_1a": 16,
+      "points_1b": 5,
+      "points_1c": 1,
+      "points_1d": 0,
+      "total_points": 22
+    },
+    {
+      "player_name": "Ernst",
+      "stage_number": 4,
+      "points_1a": 15,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 15
+    },
+    {
+      "player_name": "Hugo",
+      "stage_number": 4,
+      "points_1a": 15,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 15
+    },
+    {
+      "player_name": "Theo",
+      "stage_number": 4,
+      "points_1a": 1,
+      "points_1b": 0,
+      "points_1c": 1,
+      "points_1d": 0,
+      "total_points": 2
+    },
+    {
+      "player_name": "Arnout",
+      "stage_number": 4,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Loïc",
+      "stage_number": 4,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Matthijs",
+      "stage_number": 4,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Trystan",
+      "stage_number": 4,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Wouter",
+      "stage_number": 4,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Yvo",
+      "stage_number": 4,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Loïc",
+      "stage_number": 5,
+      "points_1a": 46,
+      "points_1b": 10,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 56
+    },
+    {
+      "player_name": "Ernst",
+      "stage_number": 5,
+      "points_1a": 41,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 41
+    },
+    {
+      "player_name": "Niels",
+      "stage_number": 5,
+      "points_1a": 41,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 41
+    },
+    {
+      "player_name": "Peter",
+      "stage_number": 5,
+      "points_1a": 41,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 41
+    },
+    {
+      "player_name": "Sander",
+      "stage_number": 5,
+      "points_1a": 41,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 41
+    },
+    {
+      "player_name": "Theo",
+      "stage_number": 5,
+      "points_1a": 41,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 41
+    },
+    {
+      "player_name": "Yvo",
+      "stage_number": 5,
+      "points_1a": 41,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 41
+    },
+    {
+      "player_name": "Thomas",
+      "stage_number": 5,
+      "points_1a": 39,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 39
+    },
+    {
+      "player_name": "Wouter",
+      "stage_number": 5,
+      "points_1a": 36,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 36
+    },
+    {
+      "player_name": "Hugo",
+      "stage_number": 5,
+      "points_1a": 35,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 35
+    },
+    {
+      "player_name": "Michiel",
+      "stage_number": 5,
+      "points_1a": 21,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 21
+    },
+    {
+      "player_name": "Wim",
+      "stage_number": 5,
+      "points_1a": 21,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 21
+    },
+    {
+      "player_name": "Calvin",
+      "stage_number": 5,
+      "points_1a": 20,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 20
+    },
+    {
+      "player_name": "Matthijs",
+      "stage_number": 5,
+      "points_1a": 20,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 20
+    },
+    {
+      "player_name": "Trystan",
+      "stage_number": 5,
+      "points_1a": 20,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 20
+    },
+    {
+      "player_name": "Arnout",
+      "stage_number": 5,
+      "points_1a": 10,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 10
+    },
+    {
+      "player_name": "Rogier",
+      "stage_number": 5,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Peter",
+      "stage_number": 6,
+      "points_1a": 50,
+      "points_1b": 17,
+      "points_1c": 6,
+      "points_1d": 20,
+      "total_points": 93
+    },
+    {
+      "player_name": "Niels",
+      "stage_number": 6,
+      "points_1a": 48,
+      "points_1b": 15,
+      "points_1c": 5,
+      "points_1d": 20,
+      "total_points": 88
+    },
+    {
+      "player_name": "Arnout",
+      "stage_number": 6,
+      "points_1a": 46,
+      "points_1b": 15,
+      "points_1c": 5,
+      "points_1d": 20,
+      "total_points": 86
+    },
+    {
+      "player_name": "Calvin",
+      "stage_number": 6,
+      "points_1a": 46,
+      "points_1b": 15,
+      "points_1c": 5,
+      "points_1d": 20,
+      "total_points": 86
+    },
+    {
+      "player_name": "Ernst",
+      "stage_number": 6,
+      "points_1a": 46,
+      "points_1b": 15,
+      "points_1c": 5,
+      "points_1d": 20,
+      "total_points": 86
+    },
+    {
+      "player_name": "Theo",
+      "stage_number": 6,
+      "points_1a": 46,
+      "points_1b": 15,
+      "points_1c": 5,
+      "points_1d": 20,
+      "total_points": 86
+    },
+    {
+      "player_name": "Trystan",
+      "stage_number": 6,
+      "points_1a": 50,
+      "points_1b": 10,
+      "points_1c": 6,
+      "points_1d": 20,
+      "total_points": 86
+    },
+    {
+      "player_name": "Wim",
+      "stage_number": 6,
+      "points_1a": 46,
+      "points_1b": 15,
+      "points_1c": 5,
+      "points_1d": 20,
+      "total_points": 86
+    },
+    {
+      "player_name": "Thomas",
+      "stage_number": 6,
+      "points_1a": 45,
+      "points_1b": 15,
+      "points_1c": 5,
+      "points_1d": 20,
+      "total_points": 85
+    },
+    {
+      "player_name": "Yvo",
+      "stage_number": 6,
+      "points_1a": 44,
+      "points_1b": 15,
+      "points_1c": 5,
+      "points_1d": 20,
+      "total_points": 84
+    },
+    {
+      "player_name": "Wouter",
+      "stage_number": 6,
+      "points_1a": 46,
+      "points_1b": 10,
+      "points_1c": 5,
+      "points_1d": 20,
+      "total_points": 81
+    },
+    {
+      "player_name": "Sander",
+      "stage_number": 6,
+      "points_1a": 40,
+      "points_1b": 15,
+      "points_1c": 5,
+      "points_1d": 20,
+      "total_points": 80
+    },
+    {
+      "player_name": "Matthijs",
+      "stage_number": 6,
+      "points_1a": 35,
+      "points_1b": 10,
+      "points_1c": 4,
+      "points_1d": 20,
+      "total_points": 69
+    },
+    {
+      "player_name": "Michiel",
+      "stage_number": 6,
+      "points_1a": 25,
+      "points_1b": 10,
+      "points_1c": 3,
+      "points_1d": 20,
+      "total_points": 58
+    },
+    {
+      "player_name": "Hugo",
+      "stage_number": 6,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Loïc",
+      "stage_number": 6,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Rogier",
+      "stage_number": 6,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    }
+  ],
+  "cumulative_points": [
+    {
+      "player_name": "Arnout",
+      "stage_number": 1,
+      "cumulative_total_points": 8
+    },
+    {
+      "player_name": "Calvin",
+      "stage_number": 1,
+      "cumulative_total_points": 5
+    },
+    {
+      "player_name": "Ernst",
+      "stage_number": 1,
+      "cumulative_total_points": 12
+    },
+    {
+      "player_name": "Hugo",
+      "stage_number": 1,
+      "cumulative_total_points": 52
+    },
+    {
+      "player_name": "Loïc",
+      "stage_number": 1,
+      "cumulative_total_points": 39
+    },
+    {
+      "player_name": "Matthijs",
+      "stage_number": 1,
+      "cumulative_total_points": 5
+    },
+    {
+      "player_name": "Michiel",
+      "stage_number": 1,
+      "cumulative_total_points": 0
+    },
+    {
+      "player_name": "Niels",
+      "stage_number": 1,
+      "cumulative_total_points": 41
+    },
+    {
+      "player_name": "Peter",
+      "stage_number": 1,
+      "cumulative_total_points": 11
+    },
+    {
+      "player_name": "Rogier",
+      "stage_number": 1,
+      "cumulative_total_points": 45
+    },
+    {
+      "player_name": "Sander",
+      "stage_number": 1,
+      "cumulative_total_points": 14
+    },
+    {
+      "player_name": "Theo",
+      "stage_number": 1,
+      "cumulative_total_points": 56
+    },
+    {
+      "player_name": "Thomas",
+      "stage_number": 1,
+      "cumulative_total_points": 51
+    },
+    {
+      "player_name": "Trystan",
+      "stage_number": 1,
+      "cumulative_total_points": 1
+    },
+    {
+      "player_name": "Wim",
+      "stage_number": 1,
+      "cumulative_total_points": 5
+    },
+    {
+      "player_name": "Wouter",
+      "stage_number": 1,
+      "cumulative_total_points": 14
+    },
+    {
+      "player_name": "Yvo",
+      "stage_number": 1,
+      "cumulative_total_points": 44
+    },
+    {
+      "player_name": "Arnout",
+      "stage_number": 2,
+      "cumulative_total_points": 26
+    },
+    {
+      "player_name": "Calvin",
+      "stage_number": 2,
+      "cumulative_total_points": 31
+    },
+    {
+      "player_name": "Ernst",
+      "stage_number": 2,
+      "cumulative_total_points": 12
+    },
+    {
+      "player_name": "Hugo",
+      "stage_number": 2,
+      "cumulative_total_points": 76
+    },
+    {
+      "player_name": "Loïc",
+      "stage_number": 2,
+      "cumulative_total_points": 42
+    },
+    {
+      "player_name": "Matthijs",
+      "stage_number": 2,
+      "cumulative_total_points": 31
+    },
+    {
+      "player_name": "Michiel",
+      "stage_number": 2,
+      "cumulative_total_points": 13
+    },
+    {
+      "player_name": "Niels",
+      "stage_number": 2,
+      "cumulative_total_points": 61
+    },
+    {
+      "player_name": "Peter",
+      "stage_number": 2,
+      "cumulative_total_points": 28
+    },
+    {
+      "player_name": "Rogier",
+      "stage_number": 2,
+      "cumulative_total_points": 45
+    },
+    {
+      "player_name": "Sander",
+      "stage_number": 2,
+      "cumulative_total_points": 17
+    },
+    {
+      "player_name": "Theo",
+      "stage_number": 2,
+      "cumulative_total_points": 60
+    },
+    {
+      "player_name": "Thomas",
+      "stage_number": 2,
+      "cumulative_total_points": 82
+    },
+    {
+      "player_name": "Trystan",
+      "stage_number": 2,
+      "cumulative_total_points": 3
+    },
+    {
+      "player_name": "Wim",
+      "stage_number": 2,
+      "cumulative_total_points": 23
+    },
+    {
+      "player_name": "Wouter",
+      "stage_number": 2,
+      "cumulative_total_points": 15
+    },
+    {
+      "player_name": "Yvo",
+      "stage_number": 2,
+      "cumulative_total_points": 73
+    },
+    {
+      "player_name": "Arnout",
+      "stage_number": 3,
+      "cumulative_total_points": 26
+    },
+    {
+      "player_name": "Calvin",
+      "stage_number": 3,
+      "cumulative_total_points": 51
+    },
+    {
+      "player_name": "Ernst",
+      "stage_number": 3,
+      "cumulative_total_points": 12
+    },
+    {
+      "player_name": "Hugo",
+      "stage_number": 3,
+      "cumulative_total_points": 136
+    },
+    {
+      "player_name": "Loïc",
+      "stage_number": 3,
+      "cumulative_total_points": 43
+    },
+    {
+      "player_name": "Matthijs",
+      "stage_number": 3,
+      "cumulative_total_points": 51
+    },
+    {
+      "player_name": "Michiel",
+      "stage_number": 3,
+      "cumulative_total_points": 13
+    },
+    {
+      "player_name": "Niels",
+      "stage_number": 3,
+      "cumulative_total_points": 61
+    },
+    {
+      "player_name": "Peter",
+      "stage_number": 3,
+      "cumulative_total_points": 28
+    },
+    {
+      "player_name": "Rogier",
+      "stage_number": 3,
+      "cumulative_total_points": 45
+    },
+    {
+      "player_name": "Sander",
+      "stage_number": 3,
+      "cumulative_total_points": 37
+    },
+    {
+      "player_name": "Theo",
+      "stage_number": 3,
+      "cumulative_total_points": 60
+    },
+    {
+      "player_name": "Thomas",
+      "stage_number": 3,
+      "cumulative_total_points": 88
+    },
+    {
+      "player_name": "Trystan",
+      "stage_number": 3,
+      "cumulative_total_points": 3
+    },
+    {
+      "player_name": "Wim",
+      "stage_number": 3,
+      "cumulative_total_points": 43
+    },
+    {
+      "player_name": "Wouter",
+      "stage_number": 3,
+      "cumulative_total_points": 35
+    },
+    {
+      "player_name": "Yvo",
+      "stage_number": 3,
+      "cumulative_total_points": 78
+    },
+    {
+      "player_name": "Arnout",
+      "stage_number": 4,
+      "cumulative_total_points": 26
+    },
+    {
+      "player_name": "Calvin",
+      "stage_number": 4,
+      "cumulative_total_points": 86
+    },
+    {
+      "player_name": "Ernst",
+      "stage_number": 4,
+      "cumulative_total_points": 27
+    },
+    {
+      "player_name": "Hugo",
+      "stage_number": 4,
+      "cumulative_total_points": 151
+    },
+    {
+      "player_name": "Loïc",
+      "stage_number": 4,
+      "cumulative_total_points": 43
+    },
+    {
+      "player_name": "Matthijs",
+      "stage_number": 4,
+      "cumulative_total_points": 51
+    },
+    {
+      "player_name": "Michiel",
+      "stage_number": 4,
+      "cumulative_total_points": 40
+    },
+    {
+      "player_name": "Niels",
+      "stage_number": 4,
+      "cumulative_total_points": 106
+    },
+    {
+      "player_name": "Peter",
+      "stage_number": 4,
+      "cumulative_total_points": 53
+    },
+    {
+      "player_name": "Rogier",
+      "stage_number": 4,
+      "cumulative_total_points": 70
+    },
+    {
+      "player_name": "Sander",
+      "stage_number": 4,
+      "cumulative_total_points": 72
+    },
+    {
+      "player_name": "Theo",
+      "stage_number": 4,
+      "cumulative_total_points": 62
+    },
+    {
+      "player_name": "Thomas",
+      "stage_number": 4,
+      "cumulative_total_points": 113
+    },
+    {
+      "player_name": "Trystan",
+      "stage_number": 4,
+      "cumulative_total_points": 3
+    },
+    {
+      "player_name": "Wim",
+      "stage_number": 4,
+      "cumulative_total_points": 65
+    },
+    {
+      "player_name": "Wouter",
+      "stage_number": 4,
+      "cumulative_total_points": 35
+    },
+    {
+      "player_name": "Yvo",
+      "stage_number": 4,
+      "cumulative_total_points": 78
+    },
+    {
+      "player_name": "Arnout",
+      "stage_number": 5,
+      "cumulative_total_points": 36
+    },
+    {
+      "player_name": "Calvin",
+      "stage_number": 5,
+      "cumulative_total_points": 106
+    },
+    {
+      "player_name": "Ernst",
+      "stage_number": 5,
+      "cumulative_total_points": 68
+    },
+    {
+      "player_name": "Hugo",
+      "stage_number": 5,
+      "cumulative_total_points": 186
+    },
+    {
+      "player_name": "Loïc",
+      "stage_number": 5,
+      "cumulative_total_points": 99
+    },
+    {
+      "player_name": "Matthijs",
+      "stage_number": 5,
+      "cumulative_total_points": 71
+    },
+    {
+      "player_name": "Michiel",
+      "stage_number": 5,
+      "cumulative_total_points": 61
+    },
+    {
+      "player_name": "Niels",
+      "stage_number": 5,
+      "cumulative_total_points": 147
+    },
+    {
+      "player_name": "Peter",
+      "stage_number": 5,
+      "cumulative_total_points": 94
+    },
+    {
+      "player_name": "Rogier",
+      "stage_number": 5,
+      "cumulative_total_points": 70
+    },
+    {
+      "player_name": "Sander",
+      "stage_number": 5,
+      "cumulative_total_points": 113
+    },
+    {
+      "player_name": "Theo",
+      "stage_number": 5,
+      "cumulative_total_points": 103
+    },
+    {
+      "player_name": "Thomas",
+      "stage_number": 5,
+      "cumulative_total_points": 152
+    },
+    {
+      "player_name": "Trystan",
+      "stage_number": 5,
+      "cumulative_total_points": 23
+    },
+    {
+      "player_name": "Wim",
+      "stage_number": 5,
+      "cumulative_total_points": 86
+    },
+    {
+      "player_name": "Wouter",
+      "stage_number": 5,
+      "cumulative_total_points": 71
+    },
+    {
+      "player_name": "Yvo",
+      "stage_number": 5,
+      "cumulative_total_points": 119
+    },
+    {
+      "player_name": "Arnout",
+      "stage_number": 6,
+      "cumulative_total_points": 122
+    },
+    {
+      "player_name": "Calvin",
+      "stage_number": 6,
+      "cumulative_total_points": 192
+    },
+    {
+      "player_name": "Ernst",
+      "stage_number": 6,
+      "cumulative_total_points": 154
+    },
+    {
+      "player_name": "Hugo",
+      "stage_number": 6,
+      "cumulative_total_points": 186
+    },
+    {
+      "player_name": "Loïc",
+      "stage_number": 6,
+      "cumulative_total_points": 99
+    },
+    {
+      "player_name": "Matthijs",
+      "stage_number": 6,
+      "cumulative_total_points": 140
+    },
+    {
+      "player_name": "Michiel",
+      "stage_number": 6,
+      "cumulative_total_points": 119
+    },
+    {
+      "player_name": "Niels",
+      "stage_number": 6,
+      "cumulative_total_points": 235
+    },
+    {
+      "player_name": "Peter",
+      "stage_number": 6,
+      "cumulative_total_points": 187
+    },
+    {
+      "player_name": "Rogier",
+      "stage_number": 6,
+      "cumulative_total_points": 70
+    },
+    {
+      "player_name": "Sander",
+      "stage_number": 6,
+      "cumulative_total_points": 193
+    },
+    {
+      "player_name": "Theo",
+      "stage_number": 6,
+      "cumulative_total_points": 189
+    },
+    {
+      "player_name": "Thomas",
+      "stage_number": 6,
+      "cumulative_total_points": 237
+    },
+    {
+      "player_name": "Trystan",
+      "stage_number": 6,
+      "cumulative_total_points": 109
+    },
+    {
+      "player_name": "Wim",
+      "stage_number": 6,
+      "cumulative_total_points": 172
+    },
+    {
+      "player_name": "Wouter",
+      "stage_number": 6,
+      "cumulative_total_points": 152
+    },
+    {
+      "player_name": "Yvo",
+      "stage_number": 6,
+      "cumulative_total_points": 203
+    }
+  ],
+  "stage_status": [
+    {
+      "stage_number": 1,
+      "stage_name": "Etappe 1 - 4 juli - Barcelona - Barcelona",
+      "latest_import_status": "success",
+      "latest_imported_at": "2026-07-10T11:38:00.697510+00:00",
+      "has_stage_results": true,
+      "has_gc_results": true,
+      "has_combativity_result": false
+    },
+    {
+      "stage_number": 2,
+      "stage_name": "Etappe 2 - 5 juli - Tarragona - Barcelona",
+      "latest_import_status": "success",
+      "latest_imported_at": "2026-07-10T11:38:13.230918+00:00",
+      "has_stage_results": true,
+      "has_gc_results": true,
+      "has_combativity_result": true
+    },
+    {
+      "stage_number": 3,
+      "stage_name": "Etappe 3 - 6 juli - Granollers - Les Angles",
+      "latest_import_status": "success",
+      "latest_imported_at": "2026-07-10T11:38:23.062407+00:00",
+      "has_stage_results": true,
+      "has_gc_results": true,
+      "has_combativity_result": true
+    },
+    {
+      "stage_number": 4,
+      "stage_name": "Etappe 4 - 7 juli - Carcassonne - Foix",
+      "latest_import_status": "success",
+      "latest_imported_at": "2026-07-10T11:39:43.554370+00:00",
+      "has_stage_results": true,
+      "has_gc_results": true,
+      "has_combativity_result": true
+    },
+    {
+      "stage_number": 5,
+      "stage_name": "Etappe 5 - 8 juli - Lannemezan - Pau",
+      "latest_import_status": "success",
+      "latest_imported_at": "2026-07-10T11:40:25.420537+00:00",
+      "has_stage_results": true,
+      "has_gc_results": true,
+      "has_combativity_result": true
+    },
+    {
+      "stage_number": 6,
+      "stage_name": "Etappe 6 - 9 juli - Pau - Gavarnie-Gèdre",
+      "latest_import_status": "success",
+      "latest_imported_at": "2026-07-10T11:40:32.734089+00:00",
+      "has_stage_results": true,
+      "has_gc_results": true,
+      "has_combativity_result": true
+    },
+    {
+      "stage_number": 7,
+      "stage_name": "Etappe 7 - 10 juli - Hagetmau - Bordeaux",
+      "latest_import_status": null,
+      "latest_imported_at": null,
+      "has_stage_results": false,
+      "has_gc_results": false,
+      "has_combativity_result": false
+    },
+    {
+      "stage_number": 8,
+      "stage_name": "Etappe 8 - 11 juli - Périgueux - Bergerac",
+      "latest_import_status": null,
+      "latest_imported_at": null,
+      "has_stage_results": false,
+      "has_gc_results": false,
+      "has_combativity_result": false
+    },
+    {
+      "stage_number": 9,
+      "stage_name": "Etappe 9 - 12 juli - Malemort - Ussel",
+      "latest_import_status": null,
+      "latest_imported_at": null,
+      "has_stage_results": false,
+      "has_gc_results": false,
+      "has_combativity_result": false
+    },
+    {
+      "stage_number": 10,
+      "stage_name": "Etappe 10 - 14 juli - Aurillac - Le Lioran",
+      "latest_import_status": null,
+      "latest_imported_at": null,
+      "has_stage_results": false,
+      "has_gc_results": false,
+      "has_combativity_result": false
+    },
+    {
+      "stage_number": 11,
+      "stage_name": "Etappe 11 - 15 juli - Vichy - Nevers",
+      "latest_import_status": null,
+      "latest_imported_at": null,
+      "has_stage_results": false,
+      "has_gc_results": false,
+      "has_combativity_result": false
+    },
+    {
+      "stage_number": 12,
+      "stage_name": "Etappe 12 - 16 juli - Magny-Cours - Châlon-sur-Saône",
+      "latest_import_status": null,
+      "latest_imported_at": null,
+      "has_stage_results": false,
+      "has_gc_results": false,
+      "has_combativity_result": false
+    },
+    {
+      "stage_number": 13,
+      "stage_name": "Etappe 13 - 17 juli - Dole - Belfort",
+      "latest_import_status": null,
+      "latest_imported_at": null,
+      "has_stage_results": false,
+      "has_gc_results": false,
+      "has_combativity_result": false
+    },
+    {
+      "stage_number": 14,
+      "stage_name": "Etappe 14 - 18 juli - Mulhouse - Le Markstein",
+      "latest_import_status": null,
+      "latest_imported_at": null,
+      "has_stage_results": false,
+      "has_gc_results": false,
+      "has_combativity_result": false
+    },
+    {
+      "stage_number": 15,
+      "stage_name": "Etappe 15 - 19 juli - Champagnole - Plateau de Solaison",
+      "latest_import_status": null,
+      "latest_imported_at": null,
+      "has_stage_results": false,
+      "has_gc_results": false,
+      "has_combativity_result": false
+    },
+    {
+      "stage_number": 16,
+      "stage_name": "Etappe 16 - 21 juli - Evian-les-Bains - Thonon-les-Bains",
+      "latest_import_status": null,
+      "latest_imported_at": null,
+      "has_stage_results": false,
+      "has_gc_results": false,
+      "has_combativity_result": false
+    },
+    {
+      "stage_number": 17,
+      "stage_name": "Etappe 17 - 22 juli - Chambéry - Voiron",
+      "latest_import_status": null,
+      "latest_imported_at": null,
+      "has_stage_results": false,
+      "has_gc_results": false,
+      "has_combativity_result": false
+    },
+    {
+      "stage_number": 18,
+      "stage_name": "Etappe 18 - 23 juli - Voiron - Orcières-Merlette",
+      "latest_import_status": null,
+      "latest_imported_at": null,
+      "has_stage_results": false,
+      "has_gc_results": false,
+      "has_combativity_result": false
+    },
+    {
+      "stage_number": 19,
+      "stage_name": "Etappe 19 - 24 juli - Gap - Alpe d'Huez",
+      "latest_import_status": null,
+      "latest_imported_at": null,
+      "has_stage_results": false,
+      "has_gc_results": false,
+      "has_combativity_result": false
+    },
+    {
+      "stage_number": 20,
+      "stage_name": "Etappe 20 - 25 juli - Bourg d'Oissans - Alpe d'Huez",
+      "latest_import_status": null,
+      "latest_imported_at": null,
+      "has_stage_results": false,
+      "has_gc_results": false,
+      "has_combativity_result": false
+    },
+    {
+      "stage_number": 21,
+      "stage_name": "Etappe 21 - 26 juli - Thoiry - Parijs",
+      "latest_import_status": null,
+      "latest_imported_at": null,
+      "has_stage_results": false,
+      "has_gc_results": false,
+      "has_combativity_result": false
+    }
+  ],
+  "predictions": [
+    {
+      "player_name": "Arnout",
+      "prediction_type": "stage",
+      "stage_number": 1,
+      "stage_name": "Etappe 1 - 4 juli - Barcelona - Barcelona",
+      "first_place": 12,
+      "first_place_name": "Edoardo Affini",
+      "second_place": 31,
+      "second_place_name": "Juan Ayuso",
+      "third_place": 82,
+      "third_place_name": "Thymen Arensman"
+    },
+    {
+      "player_name": "Arnout",
+      "prediction_type": "stage",
+      "stage_number": 2,
+      "stage_name": "Etappe 2 - 5 juli - Tarragona - Barcelona",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 171,
+      "second_place_name": "Tom Pidcock",
+      "third_place": 118,
+      "third_place_name": "Mauro Schmid"
+    },
+    {
+      "player_name": "Arnout",
+      "prediction_type": "stage",
+      "stage_number": 4,
+      "stage_name": "Etappe 4 - 7 juli - Carcassonne - Foix",
+      "first_place": 32,
+      "first_place_name": "Derek James Gee",
+      "second_place": 47,
+      "second_place_name": "Michael Valgren",
+      "third_place": 124,
+      "third_place_name": "Magnus Cort Nielsen"
+    },
+    {
+      "player_name": "Arnout",
+      "prediction_type": "stage",
+      "stage_number": 5,
+      "stage_name": "Etappe 5 - 8 juli - Lannemezan - Pau",
+      "first_place": 105,
+      "first_place_name": "Jasper Philipsen",
+      "second_place": 33,
+      "second_place_name": "Mads Pedersen",
+      "third_place": 174,
+      "third_place_name": "Quinten Hermans"
+    },
+    {
+      "player_name": "Arnout",
+      "prediction_type": "stage",
+      "stage_number": 6,
+      "stage_name": "Etappe 6 - 9 juli - Pau - Gavarnie-Gèdre",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 51,
+      "third_place_name": "Paul Seixas"
+    },
+    {
+      "player_name": "Arnout",
+      "prediction_type": "stage",
+      "stage_number": 7,
+      "stage_name": "Etappe 7 - 10 juli - Hagetmau - Bordeaux",
+      "first_place": 55,
+      "first_place_name": "Olav Kooij",
+      "second_place": 91,
+      "second_place_name": "Tim Merlier",
+      "third_place": 105,
+      "third_place_name": "Jasper Philipsen"
+    },
+    {
+      "player_name": "Calvin",
+      "prediction_type": "podium",
+      "stage_number": null,
+      "stage_name": null,
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 2,
+      "third_place_name": "Isaac del Toro"
+    },
+    {
+      "player_name": "Calvin",
+      "prediction_type": "stage",
+      "stage_number": 1,
+      "stage_name": "Etappe 1 - 4 juli - Barcelona - Barcelona",
+      "first_place": 88,
+      "first_place_name": "Kévin Vauquelin",
+      "second_place": 2,
+      "second_place_name": "Isaac del Toro",
+      "third_place": 16,
+      "third_place_name": "Matteo Jorgenson"
+    },
+    {
+      "player_name": "Calvin",
+      "prediction_type": "stage",
+      "stage_number": 2,
+      "stage_name": "Etappe 2 - 5 juli - Tarragona - Barcelona",
+      "first_place": 101,
+      "first_place_name": "Mathieu van der Poel",
+      "second_place": 171,
+      "second_place_name": "Tom Pidcock",
+      "third_place": 2,
+      "third_place_name": "Isaac del Toro"
+    },
+    {
+      "player_name": "Calvin",
+      "prediction_type": "stage",
+      "stage_number": 3,
+      "stage_name": "Etappe 3 - 6 juli - Granollers - Les Angles",
+      "first_place": 37,
+      "first_place_name": "Mathias Vacek",
+      "second_place": 43,
+      "second_place_name": "Alex Baudin",
+      "third_place": 118,
+      "third_place_name": "Mauro Schmid"
+    },
+    {
+      "player_name": "Calvin",
+      "prediction_type": "stage",
+      "stage_number": 4,
+      "stage_name": "Etappe 4 - 7 juli - Carcassonne - Foix",
+      "first_place": 33,
+      "first_place_name": "Mads Pedersen",
+      "second_place": 101,
+      "second_place_name": "Mathieu van der Poel",
+      "third_place": 181,
+      "third_place_name": "Romain Gregoire"
+    },
+    {
+      "player_name": "Calvin",
+      "prediction_type": "stage",
+      "stage_number": 5,
+      "stage_name": "Etappe 5 - 8 juli - Lannemezan - Pau",
+      "first_place": 105,
+      "first_place_name": "Jasper Philipsen",
+      "second_place": 91,
+      "second_place_name": "Tim Merlier",
+      "third_place": 33,
+      "third_place_name": "Mads Pedersen"
+    },
+    {
+      "player_name": "Calvin",
+      "prediction_type": "stage",
+      "stage_number": 6,
+      "stage_name": "Etappe 6 - 9 juli - Pau - Gavarnie-Gèdre",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 51,
+      "third_place_name": "Paul Seixas"
+    },
+    {
+      "player_name": "Calvin",
+      "prediction_type": "stage",
+      "stage_number": 7,
+      "stage_name": "Etappe 7 - 10 juli - Hagetmau - Bordeaux",
+      "first_place": 91,
+      "first_place_name": "Tim Merlier",
+      "second_place": 55,
+      "second_place_name": "Olav Kooij",
+      "third_place": 64,
+      "third_place_name": "Max Kanter"
+    },
+    {
+      "player_name": "Ernst",
+      "prediction_type": "podium",
+      "stage_number": null,
+      "stage_name": null,
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 51,
+      "third_place_name": "Paul Seixas"
+    },
+    {
+      "player_name": "Ernst",
+      "prediction_type": "stage",
+      "stage_number": 1,
+      "stage_name": "Etappe 1 - 4 juli - Barcelona - Barcelona",
+      "first_place": 101,
+      "first_place_name": "Mathieu van der Poel",
+      "second_place": 1,
+      "second_place_name": "Tadej Pogacar",
+      "third_place": 51,
+      "third_place_name": "Paul Seixas"
+    },
+    {
+      "player_name": "Ernst",
+      "prediction_type": "stage",
+      "stage_number": 2,
+      "stage_name": "Etappe 2 - 5 juli - Tarragona - Barcelona",
+      "first_place": 34,
+      "first_place_name": "Quinn Simmons",
+      "second_place": 115,
+      "second_place_name": "Michael Matthews",
+      "third_place": 44,
+      "third_place_name": "Ben Healy"
+    },
+    {
+      "player_name": "Ernst",
+      "prediction_type": "stage",
+      "stage_number": 3,
+      "stage_name": "Etappe 3 - 6 juli - Granollers - Les Angles",
+      "first_place": 117,
+      "first_place_name": "Luke Plapp",
+      "second_place": 161,
+      "second_place_name": "Ion Izagirre",
+      "third_place": 44,
+      "third_place_name": "Ben Healy"
+    },
+    {
+      "player_name": "Ernst",
+      "prediction_type": "stage",
+      "stage_number": 4,
+      "stage_name": "Etappe 4 - 7 juli - Carcassonne - Foix",
+      "first_place": 75,
+      "first_place_name": "Matej Mohoric",
+      "second_place": 115,
+      "second_place_name": "Michael Matthews",
+      "third_place": 34,
+      "third_place_name": "Quinn Simmons"
+    },
+    {
+      "player_name": "Ernst",
+      "prediction_type": "stage",
+      "stage_number": 5,
+      "stage_name": "Etappe 5 - 8 juli - Lannemezan - Pau",
+      "first_place": 105,
+      "first_place_name": "Jasper Philipsen",
+      "second_place": 91,
+      "second_place_name": "Tim Merlier",
+      "third_place": 55,
+      "third_place_name": "Olav Kooij"
+    },
+    {
+      "player_name": "Ernst",
+      "prediction_type": "stage",
+      "stage_number": 6,
+      "stage_name": "Etappe 6 - 9 juli - Pau - Gavarnie-Gèdre",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 51,
+      "third_place_name": "Paul Seixas"
+    },
+    {
+      "player_name": "Ernst",
+      "prediction_type": "stage",
+      "stage_number": 7,
+      "stage_name": "Etappe 7 - 10 juli - Hagetmau - Bordeaux",
+      "first_place": 54,
+      "first_place_name": "Daan Hoole",
+      "second_place": 91,
+      "second_place_name": "Tim Merlier",
+      "third_place": 131,
+      "third_place_name": "Biniam Girmay"
+    },
+    {
+      "player_name": "Hugo",
+      "prediction_type": "podium",
+      "stage_number": null,
+      "stage_name": null,
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 2,
+      "third_place_name": "Isaac del Toro"
+    },
+    {
+      "player_name": "Hugo",
+      "prediction_type": "stage",
+      "stage_number": 1,
+      "stage_name": "Etappe 1 - 4 juli - Barcelona - Barcelona",
+      "first_place": 11,
+      "first_place_name": "Jonas Vingegaard",
+      "second_place": 21,
+      "second_place_name": "Remco Evenepoel",
+      "third_place": 31,
+      "third_place_name": "Juan Ayuso"
+    },
+    {
+      "player_name": "Hugo",
+      "prediction_type": "stage",
+      "stage_number": 2,
+      "stage_name": "Etappe 2 - 5 juli - Tarragona - Barcelona",
+      "first_place": 101,
+      "first_place_name": "Mathieu van der Poel",
+      "second_place": 1,
+      "second_place_name": "Tadej Pogacar",
+      "third_place": 51,
+      "third_place_name": "Paul Seixas"
+    },
+    {
+      "player_name": "Hugo",
+      "prediction_type": "stage",
+      "stage_number": 3,
+      "stage_name": "Etappe 3 - 6 juli - Granollers - Les Angles",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 181,
+      "third_place_name": "Romain Gregoire"
+    },
+    {
+      "player_name": "Hugo",
+      "prediction_type": "stage",
+      "stage_number": 4,
+      "stage_name": "Etappe 4 - 7 juli - Carcassonne - Foix",
+      "first_place": 34,
+      "first_place_name": "Quinn Simmons",
+      "second_place": 44,
+      "second_place_name": "Ben Healy",
+      "third_place": 101,
+      "third_place_name": "Mathieu van der Poel"
+    },
+    {
+      "player_name": "Hugo",
+      "prediction_type": "stage",
+      "stage_number": 5,
+      "stage_name": "Etappe 5 - 8 juli - Lannemezan - Pau",
+      "first_place": 105,
+      "first_place_name": "Jasper Philipsen",
+      "second_place": 55,
+      "second_place_name": "Olav Kooij",
+      "third_place": 33,
+      "third_place_name": "Mads Pedersen"
+    },
+    {
+      "player_name": "Hugo",
+      "prediction_type": "stage",
+      "stage_number": 6,
+      "stage_name": "Etappe 6 - 9 juli - Pau - Gavarnie-Gèdre",
+      "first_place": 44,
+      "first_place_name": "Ben Healy",
+      "second_place": 108,
+      "second_place_name": "Emiel Verstrynge",
+      "third_place": 156,
+      "third_place_name": "Lennert van Eetvelt"
+    },
+    {
+      "player_name": "Hugo",
+      "prediction_type": "stage",
+      "stage_number": 7,
+      "stage_name": "Etappe 7 - 10 juli - Hagetmau - Bordeaux",
+      "first_place": 91,
+      "first_place_name": "Tim Merlier",
+      "second_place": 105,
+      "second_place_name": "Jasper Philipsen",
+      "third_place": 55,
+      "third_place_name": "Olav Kooij"
+    },
+    {
+      "player_name": "Loïc",
+      "prediction_type": "podium",
+      "stage_number": null,
+      "stage_name": null,
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 51,
+      "third_place_name": "Paul Seixas"
+    },
+    {
+      "player_name": "Loïc",
+      "prediction_type": "stage",
+      "stage_number": 1,
+      "stage_name": "Etappe 1 - 4 juli - Barcelona - Barcelona",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 88,
+      "second_place_name": "Kévin Vauquelin",
+      "third_place": 11,
+      "third_place_name": "Jonas Vingegaard"
+    },
+    {
+      "player_name": "Loïc",
+      "prediction_type": "stage",
+      "stage_number": 2,
+      "stage_name": "Etappe 2 - 5 juli - Tarragona - Barcelona",
+      "first_place": 71,
+      "first_place_name": "Lenny Martinez",
+      "second_place": 82,
+      "second_place_name": "Thymen Arensman",
+      "third_place": 101,
+      "third_place_name": "Mathieu van der Poel"
+    },
+    {
+      "player_name": "Loïc",
+      "prediction_type": "stage",
+      "stage_number": 3,
+      "stage_name": "Etappe 3 - 6 juli - Granollers - Les Angles",
+      "first_place": 31,
+      "first_place_name": "Juan Ayuso",
+      "second_place": 71,
+      "second_place_name": "Lenny Martinez",
+      "third_place": 82,
+      "third_place_name": "Thymen Arensman"
+    },
+    {
+      "player_name": "Loïc",
+      "prediction_type": "stage",
+      "stage_number": 4,
+      "stage_name": "Etappe 4 - 7 juli - Carcassonne - Foix",
+      "first_place": 55,
+      "first_place_name": "Olav Kooij",
+      "second_place": 64,
+      "second_place_name": "Max Kanter",
+      "third_place": 101,
+      "third_place_name": "Mathieu van der Poel"
+    },
+    {
+      "player_name": "Loïc",
+      "prediction_type": "stage",
+      "stage_number": 5,
+      "stage_name": "Etappe 5 - 8 juli - Lannemezan - Pau",
+      "first_place": 55,
+      "first_place_name": "Olav Kooij",
+      "second_place": 105,
+      "second_place_name": "Jasper Philipsen",
+      "third_place": 64,
+      "third_place_name": "Max Kanter"
+    },
+    {
+      "player_name": "Loïc",
+      "prediction_type": "stage",
+      "stage_number": 6,
+      "stage_name": "Etappe 6 - 9 juli - Pau - Gavarnie-Gèdre",
+      "first_place": 43,
+      "first_place_name": "Alex Baudin",
+      "second_place": 93,
+      "second_place_name": "Valentin Paret Peintre",
+      "third_place": 34,
+      "third_place_name": "Quinn Simmons"
+    },
+    {
+      "player_name": "Loïc",
+      "prediction_type": "stage",
+      "stage_number": 7,
+      "stage_name": "Etappe 7 - 10 juli - Hagetmau - Bordeaux",
+      "first_place": 55,
+      "first_place_name": "Olav Kooij",
+      "second_place": 91,
+      "second_place_name": "Tim Merlier",
+      "third_place": 152,
+      "third_place_name": "Huub Artz"
+    },
+    {
+      "player_name": "Matthijs",
+      "prediction_type": "podium",
+      "stage_number": null,
+      "stage_name": null,
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 21,
+      "third_place_name": "Remco Evenepoel"
+    },
+    {
+      "player_name": "Matthijs",
+      "prediction_type": "stage",
+      "stage_number": 1,
+      "stage_name": "Etappe 1 - 4 juli - Barcelona - Barcelona",
+      "first_place": 88,
+      "first_place_name": "Kévin Vauquelin",
+      "second_place": 2,
+      "second_place_name": "Isaac del Toro",
+      "third_place": 16,
+      "third_place_name": "Matteo Jorgenson"
+    },
+    {
+      "player_name": "Matthijs",
+      "prediction_type": "stage",
+      "stage_number": 2,
+      "stage_name": "Etappe 2 - 5 juli - Tarragona - Barcelona",
+      "first_place": 101,
+      "first_place_name": "Mathieu van der Poel",
+      "second_place": 171,
+      "second_place_name": "Tom Pidcock",
+      "third_place": 2,
+      "third_place_name": "Isaac del Toro"
+    },
+    {
+      "player_name": "Matthijs",
+      "prediction_type": "stage",
+      "stage_number": 3,
+      "stage_name": "Etappe 3 - 6 juli - Granollers - Les Angles",
+      "first_place": 37,
+      "first_place_name": "Mathias Vacek",
+      "second_place": 43,
+      "second_place_name": "Alex Baudin",
+      "third_place": 118,
+      "third_place_name": "Mauro Schmid"
+    },
+    {
+      "player_name": "Matthijs",
+      "prediction_type": "stage",
+      "stage_number": 4,
+      "stage_name": "Etappe 4 - 7 juli - Carcassonne - Foix",
+      "first_place": 21,
+      "first_place_name": "Remco Evenepoel",
+      "second_place": 101,
+      "second_place_name": "Mathieu van der Poel",
+      "third_place": 8,
+      "third_place_name": "Adam Yates"
+    },
+    {
+      "player_name": "Matthijs",
+      "prediction_type": "stage",
+      "stage_number": 5,
+      "stage_name": "Etappe 5 - 8 juli - Lannemezan - Pau",
+      "first_place": 105,
+      "first_place_name": "Jasper Philipsen",
+      "second_place": 91,
+      "second_place_name": "Tim Merlier",
+      "third_place": 33,
+      "third_place_name": "Mads Pedersen"
+    },
+    {
+      "player_name": "Matthijs",
+      "prediction_type": "stage",
+      "stage_number": 6,
+      "stage_name": "Etappe 6 - 9 juli - Pau - Gavarnie-Gèdre",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 2,
+      "second_place_name": "Isaac del Toro",
+      "third_place": 105,
+      "third_place_name": "Jasper Philipsen"
+    },
+    {
+      "player_name": "Matthijs",
+      "prediction_type": "stage",
+      "stage_number": 7,
+      "stage_name": "Etappe 7 - 10 juli - Hagetmau - Bordeaux",
+      "first_place": 51,
+      "first_place_name": "Paul Seixas",
+      "second_place": 111,
+      "second_place_name": "Ben O'connor",
+      "third_place": 34,
+      "third_place_name": "Quinn Simmons"
+    },
+    {
+      "player_name": "Michiel",
+      "prediction_type": "podium",
+      "stage_number": null,
+      "stage_name": null,
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 21,
+      "third_place_name": "Remco Evenepoel"
+    },
+    {
+      "player_name": "Michiel",
+      "prediction_type": "stage",
+      "stage_number": 1,
+      "stage_name": "Etappe 1 - 4 juli - Barcelona - Barcelona",
+      "first_place": 81,
+      "first_place_name": "Egan Bernal",
+      "second_place": 8,
+      "second_place_name": "Adam Yates",
+      "third_place": 28,
+      "third_place_name": "Maxim van Gils"
+    },
+    {
+      "player_name": "Michiel",
+      "prediction_type": "stage",
+      "stage_number": 2,
+      "stage_name": "Etappe 2 - 5 juli - Tarragona - Barcelona",
+      "first_place": 11,
+      "first_place_name": "Jonas Vingegaard",
+      "second_place": 101,
+      "second_place_name": "Mathieu van der Poel",
+      "third_place": 51,
+      "third_place_name": "Paul Seixas"
+    },
+    {
+      "player_name": "Michiel",
+      "prediction_type": "stage",
+      "stage_number": 3,
+      "stage_name": "Etappe 3 - 6 juli - Granollers - Les Angles",
+      "first_place": 37,
+      "first_place_name": "Mathias Vacek",
+      "second_place": 181,
+      "second_place_name": "Romain Gregoire",
+      "third_place": 211,
+      "third_place_name": "Warren Barguil"
+    },
+    {
+      "player_name": "Michiel",
+      "prediction_type": "stage",
+      "stage_number": 4,
+      "stage_name": "Etappe 4 - 7 juli - Carcassonne - Foix",
+      "first_place": 105,
+      "first_place_name": "Jasper Philipsen",
+      "second_place": 33,
+      "second_place_name": "Mads Pedersen",
+      "third_place": 37,
+      "third_place_name": "Mathias Vacek"
+    },
+    {
+      "player_name": "Michiel",
+      "prediction_type": "stage",
+      "stage_number": 5,
+      "stage_name": "Etappe 5 - 8 juli - Lannemezan - Pau",
+      "first_place": 91,
+      "first_place_name": "Tim Merlier",
+      "second_place": 105,
+      "second_place_name": "Jasper Philipsen",
+      "third_place": 131,
+      "third_place_name": "Biniam Girmay"
+    },
+    {
+      "player_name": "Michiel",
+      "prediction_type": "stage",
+      "stage_number": 6,
+      "stage_name": "Etappe 6 - 9 juli - Pau - Gavarnie-Gèdre",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 37,
+      "second_place_name": "Mathias Vacek",
+      "third_place": 101,
+      "third_place_name": "Mathieu van der Poel"
+    },
+    {
+      "player_name": "Michiel",
+      "prediction_type": "stage",
+      "stage_number": 7,
+      "stage_name": "Etappe 7 - 10 juli - Hagetmau - Bordeaux",
+      "first_place": 91,
+      "first_place_name": "Tim Merlier",
+      "second_place": 55,
+      "second_place_name": "Olav Kooij",
+      "third_place": 105,
+      "third_place_name": "Jasper Philipsen"
+    },
+    {
+      "player_name": "Niels",
+      "prediction_type": "podium",
+      "stage_number": null,
+      "stage_name": null,
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 2,
+      "third_place_name": "Isaac del Toro"
+    },
+    {
+      "player_name": "Niels",
+      "prediction_type": "stage",
+      "stage_number": 1,
+      "stage_name": "Etappe 1 - 4 juli - Barcelona - Barcelona",
+      "first_place": 88,
+      "first_place_name": "Kévin Vauquelin",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 1,
+      "third_place_name": "Tadej Pogacar"
+    },
+    {
+      "player_name": "Niels",
+      "prediction_type": "stage",
+      "stage_number": 2,
+      "stage_name": "Etappe 2 - 5 juli - Tarragona - Barcelona",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 171,
+      "second_place_name": "Tom Pidcock",
+      "third_place": 51,
+      "third_place_name": "Paul Seixas"
+    },
+    {
+      "player_name": "Niels",
+      "prediction_type": "stage",
+      "stage_number": 3,
+      "stage_name": "Etappe 3 - 6 juli - Granollers - Les Angles",
+      "first_place": 37,
+      "first_place_name": "Mathias Vacek",
+      "second_place": 181,
+      "second_place_name": "Romain Gregoire",
+      "third_place": 117,
+      "third_place_name": "Luke Plapp"
+    },
+    {
+      "player_name": "Niels",
+      "prediction_type": "stage",
+      "stage_number": 4,
+      "stage_name": "Etappe 4 - 7 juli - Carcassonne - Foix",
+      "first_place": 101,
+      "first_place_name": "Mathieu van der Poel",
+      "second_place": 34,
+      "second_place_name": "Quinn Simmons",
+      "third_place": 33,
+      "third_place_name": "Mads Pedersen"
+    },
+    {
+      "player_name": "Niels",
+      "prediction_type": "stage",
+      "stage_number": 5,
+      "stage_name": "Etappe 5 - 8 juli - Lannemezan - Pau",
+      "first_place": 91,
+      "first_place_name": "Tim Merlier",
+      "second_place": 105,
+      "second_place_name": "Jasper Philipsen",
+      "third_place": 55,
+      "third_place_name": "Olav Kooij"
+    },
+    {
+      "player_name": "Niels",
+      "prediction_type": "stage",
+      "stage_number": 6,
+      "stage_name": "Etappe 6 - 9 juli - Pau - Gavarnie-Gèdre",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 21,
+      "third_place_name": "Remco Evenepoel"
+    },
+    {
+      "player_name": "Niels",
+      "prediction_type": "stage",
+      "stage_number": 7,
+      "stage_name": "Etappe 7 - 10 juli - Hagetmau - Bordeaux",
+      "first_place": 91,
+      "first_place_name": "Tim Merlier",
+      "second_place": 55,
+      "second_place_name": "Olav Kooij",
+      "third_place": 105,
+      "third_place_name": "Jasper Philipsen"
+    },
+    {
+      "player_name": "Peter",
+      "prediction_type": "podium",
+      "stage_number": null,
+      "stage_name": null,
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 2,
+      "third_place_name": "Isaac del Toro"
+    },
+    {
+      "player_name": "Peter",
+      "prediction_type": "stage",
+      "stage_number": 1,
+      "stage_name": "Etappe 1 - 4 juli - Barcelona - Barcelona",
+      "first_place": 88,
+      "first_place_name": "Kévin Vauquelin",
+      "second_place": 21,
+      "second_place_name": "Remco Evenepoel",
+      "third_place": 2,
+      "third_place_name": "Isaac del Toro"
+    },
+    {
+      "player_name": "Peter",
+      "prediction_type": "stage",
+      "stage_number": 2,
+      "stage_name": "Etappe 2 - 5 juli - Tarragona - Barcelona",
+      "first_place": 101,
+      "first_place_name": "Mathieu van der Poel",
+      "second_place": 37,
+      "second_place_name": "Mathias Vacek",
+      "third_place": 1,
+      "third_place_name": "Tadej Pogacar"
+    },
+    {
+      "player_name": "Peter",
+      "prediction_type": "stage",
+      "stage_number": 3,
+      "stage_name": "Etappe 3 - 6 juli - Granollers - Les Angles",
+      "first_place": 37,
+      "first_place_name": "Mathias Vacek",
+      "second_place": 181,
+      "second_place_name": "Romain Gregoire",
+      "third_place": 28,
+      "third_place_name": "Maxim van Gils"
+    },
+    {
+      "player_name": "Peter",
+      "prediction_type": "stage",
+      "stage_number": 4,
+      "stage_name": "Etappe 4 - 7 juli - Carcassonne - Foix",
+      "first_place": 101,
+      "first_place_name": "Mathieu van der Poel",
+      "second_place": 33,
+      "second_place_name": "Mads Pedersen",
+      "third_place": 85,
+      "third_place_name": "Dorian Godon"
+    },
+    {
+      "player_name": "Peter",
+      "prediction_type": "stage",
+      "stage_number": 5,
+      "stage_name": "Etappe 5 - 8 juli - Lannemezan - Pau",
+      "first_place": 105,
+      "first_place_name": "Jasper Philipsen",
+      "second_place": 91,
+      "second_place_name": "Tim Merlier",
+      "third_place": 55,
+      "third_place_name": "Olav Kooij"
+    },
+    {
+      "player_name": "Peter",
+      "prediction_type": "stage",
+      "stage_number": 6,
+      "stage_name": "Etappe 6 - 9 juli - Pau - Gavarnie-Gèdre",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 2,
+      "third_place_name": "Isaac del Toro"
+    },
+    {
+      "player_name": "Peter",
+      "prediction_type": "stage",
+      "stage_number": 7,
+      "stage_name": "Etappe 7 - 10 juli - Hagetmau - Bordeaux",
+      "first_place": 105,
+      "first_place_name": "Jasper Philipsen",
+      "second_place": 55,
+      "second_place_name": "Olav Kooij",
+      "third_place": 91,
+      "third_place_name": "Tim Merlier"
+    },
+    {
+      "player_name": "Rogier",
+      "prediction_type": "podium",
+      "stage_number": null,
+      "stage_name": null,
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 31,
+      "third_place_name": "Juan Ayuso"
+    },
+    {
+      "player_name": "Rogier",
+      "prediction_type": "stage",
+      "stage_number": 1,
+      "stage_name": "Etappe 1 - 4 juli - Barcelona - Barcelona",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 21,
+      "third_place_name": "Remco Evenepoel"
+    },
+    {
+      "player_name": "Rogier",
+      "prediction_type": "stage",
+      "stage_number": 4,
+      "stage_name": "Etappe 4 - 7 juli - Carcassonne - Foix",
+      "first_place": 101,
+      "first_place_name": "Mathieu van der Poel",
+      "second_place": 33,
+      "second_place_name": "Mads Pedersen",
+      "third_place": 181,
+      "third_place_name": "Romain Gregoire"
+    },
+    {
+      "player_name": "Sander",
+      "prediction_type": "podium",
+      "stage_number": null,
+      "stage_name": null,
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 25,
+      "third_place_name": "Florian Lipowitz"
+    },
+    {
+      "player_name": "Sander",
+      "prediction_type": "stage",
+      "stage_number": 1,
+      "stage_name": "Etappe 1 - 4 juli - Barcelona - Barcelona",
+      "first_place": 21,
+      "first_place_name": "Remco Evenepoel",
+      "second_place": 25,
+      "second_place_name": "Florian Lipowitz",
+      "third_place": 2,
+      "third_place_name": "Isaac del Toro"
+    },
+    {
+      "player_name": "Sander",
+      "prediction_type": "stage",
+      "stage_number": 2,
+      "stage_name": "Etappe 2 - 5 juli - Tarragona - Barcelona",
+      "first_place": 101,
+      "first_place_name": "Mathieu van der Poel",
+      "second_place": 171,
+      "second_place_name": "Tom Pidcock",
+      "third_place": 51,
+      "third_place_name": "Paul Seixas"
+    },
+    {
+      "player_name": "Sander",
+      "prediction_type": "stage",
+      "stage_number": 3,
+      "stage_name": "Etappe 3 - 6 juli - Granollers - Les Angles",
+      "first_place": 117,
+      "first_place_name": "Luke Plapp",
+      "second_place": 43,
+      "second_place_name": "Alex Baudin",
+      "third_place": 181,
+      "third_place_name": "Romain Gregoire"
+    },
+    {
+      "player_name": "Sander",
+      "prediction_type": "stage",
+      "stage_number": 4,
+      "stage_name": "Etappe 4 - 7 juli - Carcassonne - Foix",
+      "first_place": 33,
+      "first_place_name": "Mads Pedersen",
+      "second_place": 43,
+      "second_place_name": "Alex Baudin",
+      "third_place": 124,
+      "third_place_name": "Magnus Cort Nielsen"
+    },
+    {
+      "player_name": "Sander",
+      "prediction_type": "stage",
+      "stage_number": 5,
+      "stage_name": "Etappe 5 - 8 juli - Lannemezan - Pau",
+      "first_place": 105,
+      "first_place_name": "Jasper Philipsen",
+      "second_place": 91,
+      "second_place_name": "Tim Merlier",
+      "third_place": 55,
+      "third_place_name": "Olav Kooij"
+    },
+    {
+      "player_name": "Sander",
+      "prediction_type": "stage",
+      "stage_number": 6,
+      "stage_name": "Etappe 6 - 9 juli - Pau - Gavarnie-Gèdre",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 41,
+      "third_place_name": "Richard Carapaz"
+    },
+    {
+      "player_name": "Sander",
+      "prediction_type": "stage",
+      "stage_number": 7,
+      "stage_name": "Etappe 7 - 10 juli - Hagetmau - Bordeaux",
+      "first_place": 91,
+      "first_place_name": "Tim Merlier",
+      "second_place": 55,
+      "second_place_name": "Olav Kooij",
+      "third_place": 105,
+      "third_place_name": "Jasper Philipsen"
+    },
+    {
+      "player_name": "Theo",
+      "prediction_type": "podium",
+      "stage_number": null,
+      "stage_name": null,
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 2,
+      "third_place_name": "Isaac del Toro"
+    },
+    {
+      "player_name": "Theo",
+      "prediction_type": "stage",
+      "stage_number": 1,
+      "stage_name": "Etappe 1 - 4 juli - Barcelona - Barcelona",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 84,
+      "third_place_name": "Filippo Ganna"
+    },
+    {
+      "player_name": "Theo",
+      "prediction_type": "stage",
+      "stage_number": 2,
+      "stage_name": "Etappe 2 - 5 juli - Tarragona - Barcelona",
+      "first_place": 101,
+      "first_place_name": "Mathieu van der Poel",
+      "second_place": 181,
+      "second_place_name": "Romain Gregoire",
+      "third_place": 33,
+      "third_place_name": "Mads Pedersen"
+    },
+    {
+      "player_name": "Theo",
+      "prediction_type": "stage",
+      "stage_number": 3,
+      "stage_name": "Etappe 3 - 6 juli - Granollers - Les Angles",
+      "first_place": 111,
+      "first_place_name": "Ben O'connor",
+      "second_place": 88,
+      "second_place_name": "Kévin Vauquelin",
+      "third_place": 117,
+      "third_place_name": "Luke Plapp"
+    },
+    {
+      "player_name": "Theo",
+      "prediction_type": "stage",
+      "stage_number": 4,
+      "stage_name": "Etappe 4 - 7 juli - Carcassonne - Foix",
+      "first_place": 101,
+      "first_place_name": "Mathieu van der Poel",
+      "second_place": 181,
+      "second_place_name": "Romain Gregoire",
+      "third_place": 37,
+      "third_place_name": "Mathias Vacek"
+    },
+    {
+      "player_name": "Theo",
+      "prediction_type": "stage",
+      "stage_number": 5,
+      "stage_name": "Etappe 5 - 8 juli - Lannemezan - Pau",
+      "first_place": 91,
+      "first_place_name": "Tim Merlier",
+      "second_place": 105,
+      "second_place_name": "Jasper Philipsen",
+      "third_place": 55,
+      "third_place_name": "Olav Kooij"
+    },
+    {
+      "player_name": "Theo",
+      "prediction_type": "stage",
+      "stage_number": 6,
+      "stage_name": "Etappe 6 - 9 juli - Pau - Gavarnie-Gèdre",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 51,
+      "third_place_name": "Paul Seixas"
+    },
+    {
+      "player_name": "Theo",
+      "prediction_type": "stage",
+      "stage_number": 7,
+      "stage_name": "Etappe 7 - 10 juli - Hagetmau - Bordeaux",
+      "first_place": 91,
+      "first_place_name": "Tim Merlier",
+      "second_place": 105,
+      "second_place_name": "Jasper Philipsen",
+      "third_place": 55,
+      "third_place_name": "Olav Kooij"
+    },
+    {
+      "player_name": "Thomas",
+      "prediction_type": "podium",
+      "stage_number": null,
+      "stage_name": null,
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 25,
+      "third_place_name": "Florian Lipowitz"
+    },
+    {
+      "player_name": "Thomas",
+      "prediction_type": "stage",
+      "stage_number": 1,
+      "stage_name": "Etappe 1 - 4 juli - Barcelona - Barcelona",
+      "first_place": 11,
+      "first_place_name": "Jonas Vingegaard",
+      "second_place": 82,
+      "second_place_name": "Thymen Arensman",
+      "third_place": 1,
+      "third_place_name": "Tadej Pogacar"
+    },
+    {
+      "player_name": "Thomas",
+      "prediction_type": "stage",
+      "stage_number": 2,
+      "stage_name": "Etappe 2 - 5 juli - Tarragona - Barcelona",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 171,
+      "second_place_name": "Tom Pidcock",
+      "third_place": 21,
+      "third_place_name": "Remco Evenepoel"
+    },
+    {
+      "player_name": "Thomas",
+      "prediction_type": "stage",
+      "stage_number": 3,
+      "stage_name": "Etappe 3 - 6 juli - Granollers - Les Angles",
+      "first_place": 2,
+      "first_place_name": "Isaac del Toro",
+      "second_place": 21,
+      "second_place_name": "Remco Evenepoel",
+      "third_place": 181,
+      "third_place_name": "Romain Gregoire"
+    },
+    {
+      "player_name": "Thomas",
+      "prediction_type": "stage",
+      "stage_number": 4,
+      "stage_name": "Etappe 4 - 7 juli - Carcassonne - Foix",
+      "first_place": 181,
+      "first_place_name": "Romain Gregoire",
+      "second_place": 33,
+      "second_place_name": "Mads Pedersen",
+      "third_place": 163,
+      "third_place_name": "Alex Aranburu"
+    },
+    {
+      "player_name": "Thomas",
+      "prediction_type": "stage",
+      "stage_number": 5,
+      "stage_name": "Etappe 5 - 8 juli - Lannemezan - Pau",
+      "first_place": 91,
+      "first_place_name": "Tim Merlier",
+      "second_place": 55,
+      "second_place_name": "Olav Kooij",
+      "third_place": 33,
+      "third_place_name": "Mads Pedersen"
+    },
+    {
+      "player_name": "Thomas",
+      "prediction_type": "stage",
+      "stage_number": 6,
+      "stage_name": "Etappe 6 - 9 juli - Pau - Gavarnie-Gèdre",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 25,
+      "third_place_name": "Florian Lipowitz"
+    },
+    {
+      "player_name": "Thomas",
+      "prediction_type": "stage",
+      "stage_number": 7,
+      "stage_name": "Etappe 7 - 10 juli - Hagetmau - Bordeaux",
+      "first_place": 91,
+      "first_place_name": "Tim Merlier",
+      "second_place": 55,
+      "second_place_name": "Olav Kooij",
+      "third_place": 105,
+      "third_place_name": "Jasper Philipsen"
+    },
+    {
+      "player_name": "Trystan",
+      "prediction_type": "podium",
+      "stage_number": null,
+      "stage_name": null,
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 21,
+      "third_place_name": "Remco Evenepoel"
+    },
+    {
+      "player_name": "Trystan",
+      "prediction_type": "stage",
+      "stage_number": 1,
+      "stage_name": "Etappe 1 - 4 juli - Barcelona - Barcelona",
+      "first_place": 35,
+      "first_place_name": "Mattias Skjelmose",
+      "second_place": 51,
+      "second_place_name": "Paul Seixas",
+      "third_place": 101,
+      "third_place_name": "Mathieu van der Poel"
+    },
+    {
+      "player_name": "Trystan",
+      "prediction_type": "stage",
+      "stage_number": 2,
+      "stage_name": "Etappe 2 - 5 juli - Tarragona - Barcelona",
+      "first_place": 28,
+      "first_place_name": "Maxim van Gils",
+      "second_place": 51,
+      "second_place_name": "Paul Seixas",
+      "third_place": 172,
+      "third_place_name": "Xabier Azparren Irurzun"
+    },
+    {
+      "player_name": "Trystan",
+      "prediction_type": "stage",
+      "stage_number": 4,
+      "stage_name": "Etappe 4 - 7 juli - Carcassonne - Foix",
+      "first_place": 181,
+      "first_place_name": "Romain Gregoire",
+      "second_place": 6,
+      "second_place_name": "Florian Vermeersch",
+      "third_place": 31,
+      "third_place_name": "Juan Ayuso"
+    },
+    {
+      "player_name": "Trystan",
+      "prediction_type": "stage",
+      "stage_number": 5,
+      "stage_name": "Etappe 5 - 8 juli - Lannemezan - Pau",
+      "first_place": 33,
+      "first_place_name": "Mads Pedersen",
+      "second_place": 91,
+      "second_place_name": "Tim Merlier",
+      "third_place": 105,
+      "third_place_name": "Jasper Philipsen"
+    },
+    {
+      "player_name": "Trystan",
+      "prediction_type": "stage",
+      "stage_number": 6,
+      "stage_name": "Etappe 6 - 9 juli - Pau - Gavarnie-Gèdre",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 2,
+      "second_place_name": "Isaac del Toro",
+      "third_place": 11,
+      "third_place_name": "Jonas Vingegaard"
+    },
+    {
+      "player_name": "Trystan",
+      "prediction_type": "stage",
+      "stage_number": 7,
+      "stage_name": "Etappe 7 - 10 juli - Hagetmau - Bordeaux",
+      "first_place": 91,
+      "first_place_name": "Tim Merlier",
+      "second_place": 55,
+      "second_place_name": "Olav Kooij",
+      "third_place": 105,
+      "third_place_name": "Jasper Philipsen"
+    },
+    {
+      "player_name": "Wim",
+      "prediction_type": "podium",
+      "stage_number": null,
+      "stage_name": null,
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 2,
+      "third_place_name": "Isaac del Toro"
+    },
+    {
+      "player_name": "Wim",
+      "prediction_type": "stage",
+      "stage_number": 1,
+      "stage_name": "Etappe 1 - 4 juli - Barcelona - Barcelona",
+      "first_place": 88,
+      "first_place_name": "Kévin Vauquelin",
+      "second_place": 82,
+      "second_place_name": "Thymen Arensman",
+      "third_place": 2,
+      "third_place_name": "Isaac del Toro"
+    },
+    {
+      "player_name": "Wim",
+      "prediction_type": "stage",
+      "stage_number": 2,
+      "stage_name": "Etappe 2 - 5 juli - Tarragona - Barcelona",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 101,
+      "second_place_name": "Mathieu van der Poel",
+      "third_place": 171,
+      "third_place_name": "Tom Pidcock"
+    },
+    {
+      "player_name": "Wim",
+      "prediction_type": "stage",
+      "stage_number": 3,
+      "stage_name": "Etappe 3 - 6 juli - Granollers - Les Angles",
+      "first_place": 43,
+      "first_place_name": "Alex Baudin",
+      "second_place": 37,
+      "second_place_name": "Mathias Vacek",
+      "third_place": 18,
+      "third_place_name": "Davide Piganzoli"
+    },
+    {
+      "player_name": "Wim",
+      "prediction_type": "stage",
+      "stage_number": 4,
+      "stage_name": "Etappe 4 - 7 juli - Carcassonne - Foix",
+      "first_place": 44,
+      "first_place_name": "Ben Healy",
+      "second_place": 34,
+      "second_place_name": "Quinn Simmons",
+      "third_place": 37,
+      "third_place_name": "Mathias Vacek"
+    },
+    {
+      "player_name": "Wim",
+      "prediction_type": "stage",
+      "stage_number": 5,
+      "stage_name": "Etappe 5 - 8 juli - Lannemezan - Pau",
+      "first_place": 105,
+      "first_place_name": "Jasper Philipsen",
+      "second_place": 91,
+      "second_place_name": "Tim Merlier",
+      "third_place": 131,
+      "third_place_name": "Biniam Girmay"
+    },
+    {
+      "player_name": "Wim",
+      "prediction_type": "stage",
+      "stage_number": 6,
+      "stage_name": "Etappe 6 - 9 juli - Pau - Gavarnie-Gèdre",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 51,
+      "third_place_name": "Paul Seixas"
+    },
+    {
+      "player_name": "Wim",
+      "prediction_type": "stage",
+      "stage_number": 7,
+      "stage_name": "Etappe 7 - 10 juli - Hagetmau - Bordeaux",
+      "first_place": 55,
+      "first_place_name": "Olav Kooij",
+      "second_place": 105,
+      "second_place_name": "Jasper Philipsen",
+      "third_place": 91,
+      "third_place_name": "Tim Merlier"
+    },
+    {
+      "player_name": "Wouter",
+      "prediction_type": "podium",
+      "stage_number": null,
+      "stage_name": null,
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 31,
+      "third_place_name": "Juan Ayuso"
+    },
+    {
+      "player_name": "Wouter",
+      "prediction_type": "stage",
+      "stage_number": 1,
+      "stage_name": "Etappe 1 - 4 juli - Barcelona - Barcelona",
+      "first_place": 21,
+      "first_place_name": "Remco Evenepoel",
+      "second_place": 31,
+      "second_place_name": "Juan Ayuso",
+      "third_place": 82,
+      "third_place_name": "Thymen Arensman"
+    },
+    {
+      "player_name": "Wouter",
+      "prediction_type": "stage",
+      "stage_number": 2,
+      "stage_name": "Etappe 2 - 5 juli - Tarragona - Barcelona",
+      "first_place": 101,
+      "first_place_name": "Mathieu van der Poel",
+      "second_place": 156,
+      "second_place_name": "Lennert van Eetvelt",
+      "third_place": 171,
+      "third_place_name": "Tom Pidcock"
+    },
+    {
+      "player_name": "Wouter",
+      "prediction_type": "stage",
+      "stage_number": 3,
+      "stage_name": "Etappe 3 - 6 juli - Granollers - Les Angles",
+      "first_place": 65,
+      "first_place_name": "Harold Tejada",
+      "second_place": 82,
+      "second_place_name": "Thymen Arensman",
+      "third_place": 43,
+      "third_place_name": "Alex Baudin"
+    },
+    {
+      "player_name": "Wouter",
+      "prediction_type": "stage",
+      "stage_number": 4,
+      "stage_name": "Etappe 4 - 7 juli - Carcassonne - Foix",
+      "first_place": 122,
+      "first_place_name": "Jonas Abrahamsen",
+      "second_place": 211,
+      "second_place_name": "Warren Barguil",
+      "third_place": 201,
+      "third_place_name": "Jordan Jegat"
+    },
+    {
+      "player_name": "Wouter",
+      "prediction_type": "stage",
+      "stage_number": 5,
+      "stage_name": "Etappe 5 - 8 juli - Lannemezan - Pau",
+      "first_place": 105,
+      "first_place_name": "Jasper Philipsen",
+      "second_place": 55,
+      "second_place_name": "Olav Kooij",
+      "third_place": 131,
+      "third_place_name": "Biniam Girmay"
+    },
+    {
+      "player_name": "Wouter",
+      "prediction_type": "stage",
+      "stage_number": 6,
+      "stage_name": "Etappe 6 - 9 juli - Pau - Gavarnie-Gèdre",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 51,
+      "second_place_name": "Paul Seixas",
+      "third_place": 11,
+      "third_place_name": "Jonas Vingegaard"
+    },
+    {
+      "player_name": "Wouter",
+      "prediction_type": "stage",
+      "stage_number": 7,
+      "stage_name": "Etappe 7 - 10 juli - Hagetmau - Bordeaux",
+      "first_place": 55,
+      "first_place_name": "Olav Kooij",
+      "second_place": 91,
+      "second_place_name": "Tim Merlier",
+      "third_place": 64,
+      "third_place_name": "Max Kanter"
+    },
+    {
+      "player_name": "Yvo",
+      "prediction_type": "podium",
+      "stage_number": null,
+      "stage_name": null,
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 25,
+      "third_place_name": "Florian Lipowitz"
+    },
+    {
+      "player_name": "Yvo",
+      "prediction_type": "stage",
+      "stage_number": 1,
+      "stage_name": "Etappe 1 - 4 juli - Barcelona - Barcelona",
+      "first_place": 11,
+      "first_place_name": "Jonas Vingegaard",
+      "second_place": 21,
+      "second_place_name": "Remco Evenepoel",
+      "third_place": 16,
+      "third_place_name": "Matteo Jorgenson"
+    },
+    {
+      "player_name": "Yvo",
+      "prediction_type": "stage",
+      "stage_number": 2,
+      "stage_name": "Etappe 2 - 5 juli - Tarragona - Barcelona",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 171,
+      "third_place_name": "Tom Pidcock"
+    },
+    {
+      "player_name": "Yvo",
+      "prediction_type": "stage",
+      "stage_number": 3,
+      "stage_name": "Etappe 3 - 6 juli - Granollers - Les Angles",
+      "first_place": 171,
+      "first_place_name": "Tom Pidcock",
+      "second_place": 35,
+      "second_place_name": "Mattias Skjelmose",
+      "third_place": 156,
+      "third_place_name": "Lennert van Eetvelt"
+    },
+    {
+      "player_name": "Yvo",
+      "prediction_type": "stage",
+      "stage_number": 4,
+      "stage_name": "Etappe 4 - 7 juli - Carcassonne - Foix",
+      "first_place": 101,
+      "first_place_name": "Mathieu van der Poel",
+      "second_place": 44,
+      "second_place_name": "Ben Healy",
+      "third_place": 181,
+      "third_place_name": "Romain Gregoire"
+    },
+    {
+      "player_name": "Yvo",
+      "prediction_type": "stage",
+      "stage_number": 5,
+      "stage_name": "Etappe 5 - 8 juli - Lannemezan - Pau",
+      "first_place": 105,
+      "first_place_name": "Jasper Philipsen",
+      "second_place": 91,
+      "second_place_name": "Tim Merlier",
+      "third_place": 55,
+      "third_place_name": "Olav Kooij"
+    },
+    {
+      "player_name": "Yvo",
+      "prediction_type": "stage",
+      "stage_number": 6,
+      "stage_name": "Etappe 6 - 9 juli - Pau - Gavarnie-Gèdre",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 31,
+      "third_place_name": "Juan Ayuso"
+    },
+    {
+      "player_name": "Yvo",
+      "prediction_type": "stage",
+      "stage_number": 7,
+      "stage_name": "Etappe 7 - 10 juli - Hagetmau - Bordeaux",
+      "first_place": 55,
+      "first_place_name": "Olav Kooij",
+      "second_place": 91,
+      "second_place_name": "Tim Merlier",
+      "third_place": 105,
+      "third_place_name": "Jasper Philipsen"
+    },
+    {
+      "player_name": "Yvo",
+      "prediction_type": "stage",
+      "stage_number": 8,
+      "stage_name": "Etappe 8 - 11 juli - Périgueux - Bergerac",
+      "first_place": 91,
+      "first_place_name": "Tim Merlier",
+      "second_place": 105,
+      "second_place_name": "Jasper Philipsen",
+      "third_place": 55,
+      "third_place_name": "Olav Kooij"
+    },
+    {
+      "player_name": "Yvo",
+      "prediction_type": "stage",
+      "stage_number": 9,
+      "stage_name": "Etappe 9 - 12 juli - Malemort - Ussel",
+      "first_place": 44,
+      "first_place_name": "Ben Healy",
+      "second_place": 35,
+      "second_place_name": "Mattias Skjelmose",
+      "third_place": 134,
+      "third_place_name": "Marco Frigo"
+    }
+  ],
+  "stage_results": [
+    {
+      "stage_number": 1,
+      "result_type": "gc",
+      "position": 1,
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard"
+    },
+    {
+      "stage_number": 1,
+      "result_type": "gc",
+      "position": 2,
+      "rider_number": 84,
+      "rider_name": "Filippo Ganna"
+    },
+    {
+      "stage_number": 1,
+      "result_type": "gc",
+      "position": 3,
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar"
+    },
+    {
+      "stage_number": 1,
+      "result_type": "stage",
+      "position": 1,
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard"
+    },
+    {
+      "stage_number": 1,
+      "result_type": "stage",
+      "position": 2,
+      "rider_number": 84,
+      "rider_name": "Filippo Ganna"
+    },
+    {
+      "stage_number": 1,
+      "result_type": "stage",
+      "position": 3,
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar"
+    },
+    {
+      "stage_number": 1,
+      "result_type": "stage",
+      "position": 4,
+      "rider_number": 31,
+      "rider_name": "Juan Ayuso"
+    },
+    {
+      "stage_number": 1,
+      "result_type": "stage",
+      "position": 5,
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel"
+    },
+    {
+      "stage_number": 1,
+      "result_type": "stage",
+      "position": 6,
+      "rider_number": 2,
+      "rider_name": "Isaac del Toro"
+    },
+    {
+      "stage_number": 1,
+      "result_type": "stage",
+      "position": 7,
+      "rider_number": 18,
+      "rider_name": "Davide Piganzoli"
+    },
+    {
+      "stage_number": 1,
+      "result_type": "stage",
+      "position": 8,
+      "rider_number": 25,
+      "rider_name": "Florian Lipowitz"
+    },
+    {
+      "stage_number": 1,
+      "result_type": "stage",
+      "position": 9,
+      "rider_number": 83,
+      "rider_name": "Tobias Foss"
+    },
+    {
+      "stage_number": 1,
+      "result_type": "stage",
+      "position": 10,
+      "rider_number": 51,
+      "rider_name": "Paul Seixas"
+    },
+    {
+      "stage_number": 2,
+      "result_type": "gc",
+      "position": 1,
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard"
+    },
+    {
+      "stage_number": 2,
+      "result_type": "gc",
+      "position": 2,
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar"
+    },
+    {
+      "stage_number": 2,
+      "result_type": "gc",
+      "position": 3,
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel"
+    },
+    {
+      "stage_number": 2,
+      "result_type": "stage",
+      "position": 1,
+      "rider_number": 2,
+      "rider_name": "Isaac del Toro"
+    },
+    {
+      "stage_number": 2,
+      "result_type": "stage",
+      "position": 2,
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar"
+    },
+    {
+      "stage_number": 2,
+      "result_type": "stage",
+      "position": 3,
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel"
+    },
+    {
+      "stage_number": 2,
+      "result_type": "stage",
+      "position": 4,
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard"
+    },
+    {
+      "stage_number": 2,
+      "result_type": "stage",
+      "position": 5,
+      "rider_number": 35,
+      "rider_name": "Mattias Skjelmose"
+    },
+    {
+      "stage_number": 2,
+      "result_type": "stage",
+      "position": 6,
+      "rider_number": 121,
+      "rider_name": "Tobias Johannessen"
+    },
+    {
+      "stage_number": 2,
+      "result_type": "stage",
+      "position": 7,
+      "rider_number": 181,
+      "rider_name": "Romain Gregoire"
+    },
+    {
+      "stage_number": 2,
+      "result_type": "stage",
+      "position": 8,
+      "rider_number": 71,
+      "rider_name": "Lenny Martinez"
+    },
+    {
+      "stage_number": 2,
+      "result_type": "stage",
+      "position": 9,
+      "rider_number": 51,
+      "rider_name": "Paul Seixas"
+    },
+    {
+      "stage_number": 2,
+      "result_type": "stage",
+      "position": 10,
+      "rider_number": 171,
+      "rider_name": "Tom Pidcock"
+    },
+    {
+      "stage_number": 3,
+      "result_type": "gc",
+      "position": 1,
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar"
+    },
+    {
+      "stage_number": 3,
+      "result_type": "gc",
+      "position": 2,
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard"
+    },
+    {
+      "stage_number": 3,
+      "result_type": "gc",
+      "position": 3,
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel"
+    },
+    {
+      "stage_number": 3,
+      "result_type": "stage",
+      "position": 1,
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar"
+    },
+    {
+      "stage_number": 3,
+      "result_type": "stage",
+      "position": 2,
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard"
+    },
+    {
+      "stage_number": 3,
+      "result_type": "stage",
+      "position": 3,
+      "rider_number": 41,
+      "rider_name": "Richard Carapaz"
+    },
+    {
+      "stage_number": 3,
+      "result_type": "stage",
+      "position": 4,
+      "rider_number": 51,
+      "rider_name": "Paul Seixas"
+    },
+    {
+      "stage_number": 3,
+      "result_type": "stage",
+      "position": 5,
+      "rider_number": 121,
+      "rider_name": "Tobias Johannessen"
+    },
+    {
+      "stage_number": 3,
+      "result_type": "stage",
+      "position": 6,
+      "rider_number": 156,
+      "rider_name": "Lennert van Eetvelt"
+    },
+    {
+      "stage_number": 3,
+      "result_type": "stage",
+      "position": 7,
+      "rider_number": 25,
+      "rider_name": "Florian Lipowitz"
+    },
+    {
+      "stage_number": 3,
+      "result_type": "stage",
+      "position": 8,
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel"
+    },
+    {
+      "stage_number": 3,
+      "result_type": "stage",
+      "position": 9,
+      "rider_number": 2,
+      "rider_name": "Isaac del Toro"
+    },
+    {
+      "stage_number": 3,
+      "result_type": "stage",
+      "position": 10,
+      "rider_number": 31,
+      "rider_name": "Juan Ayuso"
+    },
+    {
+      "stage_number": 4,
+      "result_type": "gc",
+      "position": 1,
+      "rider_number": 127,
+      "rider_name": "Torstein Træen"
+    },
+    {
+      "stage_number": 4,
+      "result_type": "gc",
+      "position": 2,
+      "rider_number": 45,
+      "rider_name": "Sean Quinn"
+    },
+    {
+      "stage_number": 4,
+      "result_type": "gc",
+      "position": 3,
+      "rider_number": 37,
+      "rider_name": "Mathias Vacek"
+    },
+    {
+      "stage_number": 4,
+      "result_type": "stage",
+      "position": 1,
+      "rider_number": 33,
+      "rider_name": "Mads Pedersen"
+    },
+    {
+      "stage_number": 4,
+      "result_type": "stage",
+      "position": 2,
+      "rider_number": 34,
+      "rider_name": "Quinn Simmons"
+    },
+    {
+      "stage_number": 4,
+      "result_type": "stage",
+      "position": 3,
+      "rider_number": 144,
+      "rider_name": "Raul Garcia"
+    },
+    {
+      "stage_number": 4,
+      "result_type": "stage",
+      "position": 4,
+      "rider_number": 134,
+      "rider_name": "Marco Frigo"
+    },
+    {
+      "stage_number": 4,
+      "result_type": "stage",
+      "position": 5,
+      "rider_number": 102,
+      "rider_name": "Ramses Debruyne"
+    },
+    {
+      "stage_number": 4,
+      "result_type": "stage",
+      "position": 6,
+      "rider_number": 88,
+      "rider_name": "Kévin Vauquelin"
+    },
+    {
+      "stage_number": 4,
+      "result_type": "stage",
+      "position": 7,
+      "rider_number": 45,
+      "rider_name": "Sean Quinn"
+    },
+    {
+      "stage_number": 4,
+      "result_type": "stage",
+      "position": 8,
+      "rider_number": 127,
+      "rider_name": "Torstein Træen"
+    },
+    {
+      "stage_number": 4,
+      "result_type": "stage",
+      "position": 9,
+      "rider_number": 142,
+      "rider_name": "Pablo Castrillo"
+    },
+    {
+      "stage_number": 4,
+      "result_type": "stage",
+      "position": 10,
+      "rider_number": 37,
+      "rider_name": "Mathias Vacek"
+    },
+    {
+      "stage_number": 5,
+      "result_type": "gc",
+      "position": 1,
+      "rider_number": 127,
+      "rider_name": "Torstein Træen"
+    },
+    {
+      "stage_number": 5,
+      "result_type": "gc",
+      "position": 2,
+      "rider_number": 45,
+      "rider_name": "Sean Quinn"
+    },
+    {
+      "stage_number": 5,
+      "result_type": "gc",
+      "position": 3,
+      "rider_number": 37,
+      "rider_name": "Mathias Vacek"
+    },
+    {
+      "stage_number": 5,
+      "result_type": "stage",
+      "position": 1,
+      "rider_number": 55,
+      "rider_name": "Olav Kooij"
+    },
+    {
+      "stage_number": 5,
+      "result_type": "stage",
+      "position": 2,
+      "rider_number": 64,
+      "rider_name": "Max Kanter"
+    },
+    {
+      "stage_number": 5,
+      "result_type": "stage",
+      "position": 3,
+      "rider_number": 91,
+      "rider_name": "Tim Merlier"
+    },
+    {
+      "stage_number": 5,
+      "result_type": "stage",
+      "position": 4,
+      "rider_number": 152,
+      "rider_name": "Huub Artz"
+    },
+    {
+      "stage_number": 5,
+      "result_type": "stage",
+      "position": 5,
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen"
+    },
+    {
+      "stage_number": 5,
+      "result_type": "stage",
+      "position": 6,
+      "rider_number": 131,
+      "rider_name": "Biniam Girmay"
+    },
+    {
+      "stage_number": 5,
+      "result_type": "stage",
+      "position": 7,
+      "rider_number": 33,
+      "rider_name": "Mads Pedersen"
+    },
+    {
+      "stage_number": 5,
+      "result_type": "stage",
+      "position": 8,
+      "rider_number": 165,
+      "rider_name": "Milan Fretin"
+    },
+    {
+      "stage_number": 5,
+      "result_type": "stage",
+      "position": 9,
+      "rider_number": 207,
+      "rider_name": "Anthony Turgis"
+    },
+    {
+      "stage_number": 5,
+      "result_type": "stage",
+      "position": 10,
+      "rider_number": 128,
+      "rider_name": "Soren Waerenskjold"
+    },
+    {
+      "stage_number": 6,
+      "result_type": "gc",
+      "position": 1,
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar"
+    },
+    {
+      "stage_number": 6,
+      "result_type": "gc",
+      "position": 2,
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard"
+    },
+    {
+      "stage_number": 6,
+      "result_type": "gc",
+      "position": 3,
+      "rider_number": 2,
+      "rider_name": "Isaac del Toro"
+    },
+    {
+      "stage_number": 6,
+      "result_type": "stage",
+      "position": 1,
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar"
+    },
+    {
+      "stage_number": 6,
+      "result_type": "stage",
+      "position": 2,
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard"
+    },
+    {
+      "stage_number": 6,
+      "result_type": "stage",
+      "position": 3,
+      "rider_number": 2,
+      "rider_name": "Isaac del Toro"
+    },
+    {
+      "stage_number": 6,
+      "result_type": "stage",
+      "position": 4,
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel"
+    },
+    {
+      "stage_number": 6,
+      "result_type": "stage",
+      "position": 5,
+      "rider_number": 51,
+      "rider_name": "Paul Seixas"
+    },
+    {
+      "stage_number": 6,
+      "result_type": "stage",
+      "position": 6,
+      "rider_number": 25,
+      "rider_name": "Florian Lipowitz"
+    },
+    {
+      "stage_number": 6,
+      "result_type": "stage",
+      "position": 7,
+      "rider_number": 31,
+      "rider_name": "Juan Ayuso"
+    },
+    {
+      "stage_number": 6,
+      "result_type": "stage",
+      "position": 8,
+      "rider_number": 35,
+      "rider_name": "Mattias Skjelmose"
+    },
+    {
+      "stage_number": 6,
+      "result_type": "stage",
+      "position": 9,
+      "rider_number": 71,
+      "rider_name": "Lenny Martinez"
+    },
+    {
+      "stage_number": 6,
+      "result_type": "stage",
+      "position": 10,
+      "rider_number": 17,
+      "rider_name": "Sepp Kuss"
+    }
+  ]
+}
