@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T18:15:11.432289+00:00",
+  "updated_at": "2026-07-11T12:11:02.041196+00:00",
   "standings": [
     {
       "ranking": 1,
@@ -2186,6 +2186,18 @@
       "third_place_name": "Max Kanter"
     },
     {
+      "player_name": "Calvin",
+      "prediction_type": "stage",
+      "stage_number": 8,
+      "stage_name": "Etappe 8 - 11 juli - Périgueux - Bergerac",
+      "first_place": 105,
+      "first_place_name": "Jasper Philipsen",
+      "second_place": 91,
+      "second_place_name": "Tim Merlier",
+      "third_place": 55,
+      "third_place_name": "Olav Kooij"
+    },
+    {
       "player_name": "Ernst",
       "prediction_type": "podium",
       "stage_number": null,
@@ -2282,6 +2294,18 @@
       "third_place_name": "Biniam Girmay"
     },
     {
+      "player_name": "Ernst",
+      "prediction_type": "stage",
+      "stage_number": 8,
+      "stage_name": "Etappe 8 - 11 juli - Périgueux - Bergerac",
+      "first_place": 55,
+      "first_place_name": "Olav Kooij",
+      "second_place": 91,
+      "second_place_name": "Tim Merlier",
+      "third_place": 105,
+      "third_place_name": "Jasper Philipsen"
+    },
+    {
       "player_name": "Hugo",
       "prediction_type": "podium",
       "stage_number": null,
@@ -2376,6 +2400,30 @@
       "second_place_name": "Jasper Philipsen",
       "third_place": 55,
       "third_place_name": "Olav Kooij"
+    },
+    {
+      "player_name": "Hugo",
+      "prediction_type": "stage",
+      "stage_number": 8,
+      "stage_name": "Etappe 8 - 11 juli - Périgueux - Bergerac",
+      "first_place": 91,
+      "first_place_name": "Tim Merlier",
+      "second_place": 55,
+      "second_place_name": "Olav Kooij",
+      "third_place": 131,
+      "third_place_name": "Biniam Girmay"
+    },
+    {
+      "player_name": "Hugo",
+      "prediction_type": "stage",
+      "stage_number": 9,
+      "stage_name": "Etappe 9 - 12 juli - Malemort - Ussel",
+      "first_place": 44,
+      "first_place_name": "Ben Healy",
+      "second_place": 156,
+      "second_place_name": "Lennert van Eetvelt",
+      "third_place": 101,
+      "third_place_name": "Mathieu van der Poel"
     },
     {
       "player_name": "Loïc",
@@ -2690,6 +2738,18 @@
       "third_place_name": "Jasper Philipsen"
     },
     {
+      "player_name": "Michiel",
+      "prediction_type": "stage",
+      "stage_number": 8,
+      "stage_name": "Etappe 8 - 11 juli - Périgueux - Bergerac",
+      "first_place": 105,
+      "first_place_name": "Jasper Philipsen",
+      "second_place": 131,
+      "second_place_name": "Biniam Girmay",
+      "third_place": 91,
+      "third_place_name": "Tim Merlier"
+    },
+    {
       "player_name": "Niels",
       "prediction_type": "podium",
       "stage_number": null,
@@ -2786,6 +2846,18 @@
       "third_place_name": "Jasper Philipsen"
     },
     {
+      "player_name": "Niels",
+      "prediction_type": "stage",
+      "stage_number": 8,
+      "stage_name": "Etappe 8 - 11 juli - Périgueux - Bergerac",
+      "first_place": 105,
+      "first_place_name": "Jasper Philipsen",
+      "second_place": 91,
+      "second_place_name": "Tim Merlier",
+      "third_place": 131,
+      "third_place_name": "Biniam Girmay"
+    },
+    {
       "player_name": "Peter",
       "prediction_type": "podium",
       "stage_number": null,
@@ -2880,6 +2952,18 @@
       "second_place_name": "Olav Kooij",
       "third_place": 91,
       "third_place_name": "Tim Merlier"
+    },
+    {
+      "player_name": "Peter",
+      "prediction_type": "stage",
+      "stage_number": 8,
+      "stage_name": "Etappe 8 - 11 juli - Périgueux - Bergerac",
+      "first_place": 91,
+      "first_place_name": "Tim Merlier",
+      "second_place": 105,
+      "second_place_name": "Jasper Philipsen",
+      "third_place": 55,
+      "third_place_name": "Olav Kooij"
     },
     {
       "player_name": "Rogier",
@@ -3014,6 +3098,18 @@
       "third_place_name": "Jasper Philipsen"
     },
     {
+      "player_name": "Sander",
+      "prediction_type": "stage",
+      "stage_number": 8,
+      "stage_name": "Etappe 8 - 11 juli - Périgueux - Bergerac",
+      "first_place": 55,
+      "first_place_name": "Olav Kooij",
+      "second_place": 91,
+      "second_place_name": "Tim Merlier",
+      "third_place": 131,
+      "third_place_name": "Biniam Girmay"
+    },
+    {
       "player_name": "Theo",
       "prediction_type": "podium",
       "stage_number": null,
@@ -3108,6 +3204,18 @@
       "second_place_name": "Jasper Philipsen",
       "third_place": 55,
       "third_place_name": "Olav Kooij"
+    },
+    {
+      "player_name": "Theo",
+      "prediction_type": "stage",
+      "stage_number": 8,
+      "stage_name": "Etappe 8 - 11 juli - Périgueux - Bergerac",
+      "first_place": 91,
+      "first_place_name": "Tim Merlier",
+      "second_place": 55,
+      "second_place_name": "Olav Kooij",
+      "third_place": 64,
+      "third_place_name": "Max Kanter"
     },
     {
       "player_name": "Thomas",
@@ -3206,6 +3314,18 @@
       "third_place_name": "Jasper Philipsen"
     },
     {
+      "player_name": "Thomas",
+      "prediction_type": "stage",
+      "stage_number": 8,
+      "stage_name": "Etappe 8 - 11 juli - Périgueux - Bergerac",
+      "first_place": 91,
+      "first_place_name": "Tim Merlier",
+      "second_place": 55,
+      "second_place_name": "Olav Kooij",
+      "third_place": 105,
+      "third_place_name": "Jasper Philipsen"
+    },
+    {
       "player_name": "Trystan",
       "prediction_type": "podium",
       "stage_number": null,
@@ -3288,6 +3408,18 @@
       "second_place_name": "Olav Kooij",
       "third_place": 105,
       "third_place_name": "Jasper Philipsen"
+    },
+    {
+      "player_name": "Trystan",
+      "prediction_type": "stage",
+      "stage_number": 8,
+      "stage_name": "Etappe 8 - 11 juli - Périgueux - Bergerac",
+      "first_place": 105,
+      "first_place_name": "Jasper Philipsen",
+      "second_place": 55,
+      "second_place_name": "Olav Kooij",
+      "third_place": 91,
+      "third_place_name": "Tim Merlier"
     },
     {
       "player_name": "Wim",
@@ -3386,6 +3518,18 @@
       "third_place_name": "Tim Merlier"
     },
     {
+      "player_name": "Wim",
+      "prediction_type": "stage",
+      "stage_number": 8,
+      "stage_name": "Etappe 8 - 11 juli - Périgueux - Bergerac",
+      "first_place": 91,
+      "first_place_name": "Tim Merlier",
+      "second_place": 105,
+      "second_place_name": "Jasper Philipsen",
+      "third_place": 55,
+      "third_place_name": "Olav Kooij"
+    },
+    {
       "player_name": "Wouter",
       "prediction_type": "podium",
       "stage_number": null,
@@ -3480,6 +3624,18 @@
       "second_place_name": "Tim Merlier",
       "third_place": 64,
       "third_place_name": "Max Kanter"
+    },
+    {
+      "player_name": "Wouter",
+      "prediction_type": "stage",
+      "stage_number": 8,
+      "stage_name": "Etappe 8 - 11 juli - Périgueux - Bergerac",
+      "first_place": 91,
+      "first_place_name": "Tim Merlier",
+      "second_place": 105,
+      "second_place_name": "Jasper Philipsen",
+      "third_place": 55,
+      "third_place_name": "Olav Kooij"
     },
     {
       "player_name": "Yvo",
@@ -4356,8 +4512,22 @@
     },
     {
       "player_name": "Calvin",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
       "rider_number": 2,
       "rider_name": "Isaac del Toro",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -4377,8 +4547,8 @@
     },
     {
       "player_name": "Calvin",
-      "rider_number": 91,
-      "rider_name": "Tim Merlier",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -4386,13 +4556,6 @@
       "player_name": "Calvin",
       "rider_number": 43,
       "rider_name": "Alex Baudin",
-      "times_predicted": 1,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Calvin",
-      "rider_number": 105,
-      "rider_name": "Jasper Philipsen",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
@@ -4440,13 +4603,6 @@
     },
     {
       "player_name": "Calvin",
-      "rider_number": 55,
-      "rider_name": "Olav Kooij",
-      "times_predicted": 1,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Calvin",
       "rider_number": 51,
       "rider_name": "Paul Seixas",
       "times_predicted": 1,
@@ -4475,6 +4631,13 @@
     },
     {
       "player_name": "Ernst",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Ernst",
       "rider_number": 44,
       "rider_name": "Ben Healy",
       "times_predicted": 2,
@@ -4482,8 +4645,22 @@
     },
     {
       "player_name": "Ernst",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Ernst",
       "rider_number": 115,
       "rider_name": "Michael Matthews",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Ernst",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -4510,13 +4687,6 @@
     },
     {
       "player_name": "Ernst",
-      "rider_number": 91,
-      "rider_name": "Tim Merlier",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Ernst",
       "rider_number": 131,
       "rider_name": "Biniam Girmay",
       "times_predicted": 1,
@@ -4533,13 +4703,6 @@
       "player_name": "Ernst",
       "rider_number": 161,
       "rider_name": "Ion Izagirre",
-      "times_predicted": 1,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Ernst",
-      "rider_number": 105,
-      "rider_name": "Jasper Philipsen",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
@@ -4572,17 +4735,24 @@
       "exceeds_maximum": false
     },
     {
-      "player_name": "Ernst",
-      "rider_number": 55,
-      "rider_name": "Olav Kooij",
-      "times_predicted": 1,
+      "player_name": "Hugo",
+      "rider_number": 44,
+      "rider_name": "Ben Healy",
+      "times_predicted": 3,
       "exceeds_maximum": false
     },
     {
       "player_name": "Hugo",
-      "rider_number": 44,
-      "rider_name": "Ben Healy",
-      "times_predicted": 2,
+      "rider_number": 101,
+      "rider_name": "Mathieu van der Poel",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
+      "times_predicted": 3,
       "exceeds_maximum": false
     },
     {
@@ -4601,15 +4771,8 @@
     },
     {
       "player_name": "Hugo",
-      "rider_number": 101,
-      "rider_name": "Mathieu van der Poel",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Hugo",
-      "rider_number": 55,
-      "rider_name": "Olav Kooij",
+      "rider_number": 156,
+      "rider_name": "Lennert van Eetvelt",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -4618,6 +4781,20 @@
       "rider_number": 1,
       "rider_name": "Tadej Pogacar",
       "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
+      "rider_number": 131,
+      "rider_name": "Biniam Girmay",
+      "times_predicted": 1,
       "exceeds_maximum": false
     },
     {
@@ -4631,13 +4808,6 @@
       "player_name": "Hugo",
       "rider_number": 31,
       "rider_name": "Juan Ayuso",
-      "times_predicted": 1,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Hugo",
-      "rider_number": 156,
-      "rider_name": "Lennert van Eetvelt",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
@@ -4673,13 +4843,6 @@
       "player_name": "Hugo",
       "rider_number": 181,
       "rider_name": "Romain Gregoire",
-      "times_predicted": 1,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Hugo",
-      "rider_number": 91,
-      "rider_name": "Tim Merlier",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
@@ -4939,7 +5102,7 @@
       "player_name": "Michiel",
       "rider_number": 105,
       "rider_name": "Jasper Philipsen",
-      "times_predicted": 3,
+      "times_predicted": 4,
       "exceeds_maximum": false
     },
     {
@@ -4951,6 +5114,20 @@
     },
     {
       "player_name": "Michiel",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Michiel",
+      "rider_number": 131,
+      "rider_name": "Biniam Girmay",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Michiel",
       "rider_number": 101,
       "rider_name": "Mathieu van der Poel",
       "times_predicted": 2,
@@ -4958,22 +5135,8 @@
     },
     {
       "player_name": "Michiel",
-      "rider_number": 91,
-      "rider_name": "Tim Merlier",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Michiel",
       "rider_number": 8,
       "rider_name": "Adam Yates",
-      "times_predicted": 1,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Michiel",
-      "rider_number": 131,
-      "rider_name": "Biniam Girmay",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
@@ -5042,6 +5205,13 @@
     },
     {
       "player_name": "Niels",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Niels",
       "rider_number": 1,
       "rider_name": "Tadej Pogacar",
       "times_predicted": 3,
@@ -5049,9 +5219,9 @@
     },
     {
       "player_name": "Niels",
-      "rider_number": 105,
-      "rider_name": "Jasper Philipsen",
-      "times_predicted": 2,
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 3,
       "exceeds_maximum": false
     },
     {
@@ -5070,9 +5240,9 @@
     },
     {
       "player_name": "Niels",
-      "rider_number": 91,
-      "rider_name": "Tim Merlier",
-      "times_predicted": 2,
+      "rider_number": 131,
+      "rider_name": "Biniam Girmay",
+      "times_predicted": 1,
       "exceeds_maximum": false
     },
     {
@@ -5147,15 +5317,29 @@
     },
     {
       "player_name": "Peter",
-      "rider_number": 2,
-      "rider_name": "Isaac del Toro",
-      "times_predicted": 2,
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
+      "times_predicted": 3,
       "exceeds_maximum": false
     },
     {
       "player_name": "Peter",
-      "rider_number": 105,
-      "rider_name": "Jasper Philipsen",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Peter",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Peter",
+      "rider_number": 2,
+      "rider_name": "Isaac del Toro",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -5175,22 +5359,8 @@
     },
     {
       "player_name": "Peter",
-      "rider_number": 55,
-      "rider_name": "Olav Kooij",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Peter",
       "rider_number": 1,
       "rider_name": "Tadej Pogacar",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Peter",
-      "rider_number": 91,
-      "rider_name": "Tim Merlier",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -5287,6 +5457,20 @@
     },
     {
       "player_name": "Sander",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Sander",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Sander",
       "rider_number": 43,
       "rider_name": "Alex Baudin",
       "times_predicted": 2,
@@ -5301,16 +5485,9 @@
     },
     {
       "player_name": "Sander",
-      "rider_number": 55,
-      "rider_name": "Olav Kooij",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Sander",
-      "rider_number": 91,
-      "rider_name": "Tim Merlier",
-      "times_predicted": 2,
+      "rider_number": 131,
+      "rider_name": "Biniam Girmay",
+      "times_predicted": 1,
       "exceeds_maximum": false
     },
     {
@@ -5406,6 +5583,20 @@
     },
     {
       "player_name": "Theo",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Theo",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Theo",
       "rider_number": 105,
       "rider_name": "Jasper Philipsen",
       "times_predicted": 2,
@@ -5427,13 +5618,6 @@
     },
     {
       "player_name": "Theo",
-      "rider_number": 55,
-      "rider_name": "Olav Kooij",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Theo",
       "rider_number": 181,
       "rider_name": "Romain Gregoire",
       "times_predicted": 2,
@@ -5443,13 +5627,6 @@
       "player_name": "Theo",
       "rider_number": 1,
       "rider_name": "Tadej Pogacar",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Theo",
-      "rider_number": 91,
-      "rider_name": "Tim Merlier",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -5497,6 +5674,13 @@
     },
     {
       "player_name": "Theo",
+      "rider_number": 64,
+      "rider_name": "Max Kanter",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Theo",
       "rider_number": 51,
       "rider_name": "Paul Seixas",
       "times_predicted": 1,
@@ -5504,9 +5688,30 @@
     },
     {
       "player_name": "Thomas",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Thomas",
       "rider_number": 1,
       "rider_name": "Tadej Pogacar",
       "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Thomas",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Thomas",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
+      "times_predicted": 2,
       "exceeds_maximum": false
     },
     {
@@ -5525,13 +5730,6 @@
     },
     {
       "player_name": "Thomas",
-      "rider_number": 55,
-      "rider_name": "Olav Kooij",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Thomas",
       "rider_number": 21,
       "rider_name": "Remco Evenepoel",
       "times_predicted": 2,
@@ -5541,13 +5739,6 @@
       "player_name": "Thomas",
       "rider_number": 181,
       "rider_name": "Romain Gregoire",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Thomas",
-      "rider_number": 91,
-      "rider_name": "Tim Merlier",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -5574,13 +5765,6 @@
     },
     {
       "player_name": "Thomas",
-      "rider_number": 105,
-      "rider_name": "Jasper Philipsen",
-      "times_predicted": 1,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Thomas",
       "rider_number": 82,
       "rider_name": "Thymen Arensman",
       "times_predicted": 1,
@@ -5597,6 +5781,20 @@
       "player_name": "Trystan",
       "rider_number": 105,
       "rider_name": "Jasper Philipsen",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Trystan",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Trystan",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -5604,13 +5802,6 @@
       "player_name": "Trystan",
       "rider_number": 51,
       "rider_name": "Paul Seixas",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Trystan",
-      "rider_number": 91,
-      "rider_name": "Tim Merlier",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -5672,13 +5863,6 @@
     },
     {
       "player_name": "Trystan",
-      "rider_number": 55,
-      "rider_name": "Olav Kooij",
-      "times_predicted": 1,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Trystan",
       "rider_number": 181,
       "rider_name": "Romain Gregoire",
       "times_predicted": 1,
@@ -5702,7 +5886,14 @@
       "player_name": "Wim",
       "rider_number": 105,
       "rider_name": "Jasper Philipsen",
-      "times_predicted": 2,
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wim",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
+      "times_predicted": 3,
       "exceeds_maximum": false
     },
     {
@@ -5714,15 +5905,15 @@
     },
     {
       "player_name": "Wim",
-      "rider_number": 1,
-      "rider_name": "Tadej Pogacar",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
     {
       "player_name": "Wim",
-      "rider_number": 91,
-      "rider_name": "Tim Merlier",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -5784,13 +5975,6 @@
     },
     {
       "player_name": "Wim",
-      "rider_number": 55,
-      "rider_name": "Olav Kooij",
-      "times_predicted": 1,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Wim",
       "rider_number": 51,
       "rider_name": "Paul Seixas",
       "times_predicted": 1,
@@ -5821,6 +6005,13 @@
       "player_name": "Wouter",
       "rider_number": 55,
       "rider_name": "Olav Kooij",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 105,
+      "rider_name": "Jasper Philipsen",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -5828,6 +6019,13 @@
       "player_name": "Wouter",
       "rider_number": 82,
       "rider_name": "Thymen Arensman",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 91,
+      "rider_name": "Tim Merlier",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -5849,13 +6047,6 @@
       "player_name": "Wouter",
       "rider_number": 65,
       "rider_name": "Harold Tejada",
-      "times_predicted": 1,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Wouter",
-      "rider_number": 105,
-      "rider_name": "Jasper Philipsen",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
@@ -5926,13 +6117,6 @@
       "player_name": "Wouter",
       "rider_number": 1,
       "rider_name": "Tadej Pogacar",
-      "times_predicted": 1,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Wouter",
-      "rider_number": 91,
-      "rider_name": "Tim Merlier",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
