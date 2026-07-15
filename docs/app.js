@@ -75,9 +75,12 @@ async function loadResults() {
       item.classList.toggle('inactive', hidden);
     }));
   }
-  const players = [...new Set((data.predictions || []).map(row => row.player_name))].sort();
+  const stageResults = data.stage_results || [];
+  const stagesWithResults = new Set(stageResults.filter(row => row.result_type === 'stage').map(row => row.stage_number));
+  const publicPredictions = (data.predictions || []).filter(row => row.prediction_type !== 'stage' || stagesWithResults.has(row.stage_number));
+  const players = [...new Set(publicPredictions.map(row => row.player_name))].sort();
   const predictionCounts = data.prediction_counts || [];
-  const stages = [...new Set([...stagePoints.map(row => row.stage_number), ...data.stage_results.map(row => row.stage_number)])].sort((a, b) => a - b);
+  const stages = [...new Set([...stagePoints.map(row => row.stage_number), ...stageResults.map(row => row.stage_number)])].sort((a, b) => a - b);
   const playerSelect = document.querySelector('#player-select');
   const stageSelect = document.querySelector('#stage-select');
   players.forEach(player => playerSelect.add(new Option(player, player)));
@@ -85,7 +88,7 @@ async function loadResults() {
 
   const renderPlayer = player => {
     if (!player) { document.querySelector('#player-view').innerHTML = ''; return; }
-    const predictions = data.predictions.filter(row => row.player_name === player && row.prediction_type === 'stage');
+    const predictions = publicPredictions.filter(row => row.player_name === player && row.prediction_type === 'stage');
     const scores = stagePoints.filter(row => row.player_name === player);
     const total = scores.reduce((sum, row) => sum + Number(row.total_points || 0), 0);
     const categories = scores.reduce((result, row) => { ['points_1a', 'points_1b', 'points_1c', 'points_1d'].forEach(key => result[key] += Number(row[key] || 0)); return result; }, {points_1a: 0, points_1b: 0, points_1c: 0, points_1d: 0});
@@ -101,7 +104,7 @@ async function loadResults() {
   const renderStage = stage => {
     if (!stage) { document.querySelector('#stage-view').innerHTML = ''; return; }
     const scores = data.stage_points.filter(row => row.stage_number == stage);
-    const actual = data.stage_results.filter(row => row.stage_number == stage);
+    const actual = stageResults.filter(row => row.stage_number == stage);
     const list = type => actual.filter(row => row.result_type === type).map(row => `<li><span>${text(row.rider_name)}</span></li>`).join('');
     document.querySelector('#stage-view').innerHTML = `<div class="stage-grid"><article class="stage"><h3>Stage ${stage} scoreboard</h3><ol>${scores.map(row => `<li><span>${text(row.player_name)}</span><strong>${row.total_points}</strong></li>`).join('')}</ol></article><article class="stage"><h3>Actual stage result</h3><ol>${list('stage')}</ol><h3>General classification</h3><ol>${list('gc')}</ol></article></div>`;
   };
