@@ -1,80 +1,116 @@
 {
-  "updated_at": "2026-07-17T16:25:23.225208+00:00",
+  "updated_at": "2026-07-18T15:49:01.737864+00:00",
   "standings": [
     {
       "ranking": 1,
-      "player_name": "Thomas",
-      "points_1a": 378,
-      "points_1b": 79,
-      "points_1c": 16,
-      "points_1d": 80,
-      "total_points": 553
+      "player_name": "Niels",
+      "points_1a": 431,
+      "points_1b": 57,
+      "points_1c": 18,
+      "points_1d": 100,
+      "total_points": 606
     },
     {
       "ranking": 2,
-      "player_name": "Niels",
-      "points_1a": 397,
-      "points_1b": 47,
-      "points_1c": 14,
-      "points_1d": 80,
-      "total_points": 538
+      "player_name": "Thomas",
+      "points_1a": 399,
+      "points_1b": 81,
+      "points_1c": 18,
+      "points_1d": 100,
+      "total_points": 598
     },
     {
       "ranking": 3,
       "player_name": "Sander",
-      "points_1a": 341,
-      "points_1b": 77,
-      "points_1c": 10,
+      "points_1a": 381,
+      "points_1b": 87,
+      "points_1c": 13,
       "points_1d": 80,
-      "total_points": 508
+      "total_points": 561
     },
     {
       "ranking": 4,
       "player_name": "Calvin",
-      "points_1a": 351,
+      "points_1a": 356,
       "points_1b": 52,
       "points_1c": 8,
-      "points_1d": 80,
-      "total_points": 491
+      "points_1d": 100,
+      "total_points": 516
     },
     {
       "ranking": 5,
       "player_name": "Hugo",
-      "points_1a": 326,
-      "points_1b": 55,
-      "points_1c": 10,
+      "points_1a": 369,
+      "points_1b": 67,
+      "points_1c": 15,
       "points_1d": 20,
-      "total_points": 411
+      "total_points": 471
     },
     {
       "ranking": 6,
+      "player_name": "Theo",
+      "points_1a": 310,
+      "points_1b": 51,
+      "points_1c": 17,
+      "points_1d": 60,
+      "total_points": 438
+    },
+    {
+      "ranking": 7,
       "player_name": "Peter",
-      "points_1a": 302,
+      "points_1a": 315,
       "points_1b": 44,
-      "points_1c": 13,
+      "points_1c": 14,
+      "points_1d": 60,
+      "total_points": 433
+    },
+    {
+      "ranking": 8,
+      "player_name": "Wim",
+      "points_1a": 276,
+      "points_1b": 52,
+      "points_1c": 8,
+      "points_1d": 80,
+      "total_points": 416
+    },
+    {
+      "ranking": 9,
+      "player_name": "Michiel",
+      "points_1a": 274,
+      "points_1b": 47,
+      "points_1c": 14,
+      "points_1d": 80,
+      "total_points": 415
+    },
+    {
+      "ranking": 10,
+      "player_name": "Yvo",
+      "points_1a": 291,
+      "points_1b": 52,
+      "points_1c": 16,
       "points_1d": 40,
       "total_points": 399
     },
     {
-      "ranking": 7,
-      "player_name": "Wim",
-      "points_1a": 271,
-      "points_1b": 52,
-      "points_1c": 8,
-      "points_1d": 60,
-      "total_points": 391
+      "ranking": 11,
+      "player_name": "Wouter",
+      "points_1a": 292,
+      "points_1b": 47,
+      "points_1c": 15,
+      "points_1d": 40,
+      "total_points": 394
     },
     {
-      "ranking": 8,
-      "player_name": "Theo",
-      "points_1a": 267,
-      "points_1b": 39,
-      "points_1c": 12,
-      "points_1d": 60,
-      "total_points": 378
+      "ranking": 12,
+      "player_name": "Arnout",
+      "points_1a": 266,
+      "points_1b": 20,
+      "points_1c": 10,
+      "points_1d": 80,
+      "total_points": 376
     },
     {
-      "ranking": 9,
+      "ranking": 13,
       "player_name": "Ernst",
       "points_1a": 291,
       "points_1b": 29,
@@ -83,58 +119,22 @@
       "total_points": 371
     },
     {
-      "ranking": 10,
-      "player_name": "Yvo",
-      "points_1a": 252,
-      "points_1b": 42,
-      "points_1c": 13,
-      "points_1d": 40,
-      "total_points": 347
-    },
-    {
-      "ranking": 11,
-      "player_name": "Michiel",
-      "points_1a": 238,
-      "points_1b": 37,
-      "points_1c": 9,
-      "points_1d": 60,
-      "total_points": 344
-    },
-    {
-      "ranking": 12,
+      "ranking": 14,
       "player_name": "Loïc",
-      "points_1a": 283,
+      "points_1a": 286,
       "points_1b": 30,
       "points_1c": 9,
-      "points_1d": 20,
-      "total_points": 342
-    },
-    {
-      "ranking": 13,
-      "player_name": "Wouter",
-      "points_1a": 254,
-      "points_1b": 37,
-      "points_1c": 10,
       "points_1d": 40,
-      "total_points": 341
-    },
-    {
-      "ranking": 14,
-      "player_name": "Arnout",
-      "points_1a": 250,
-      "points_1b": 20,
-      "points_1c": 8,
-      "points_1d": 60,
-      "total_points": 338
+      "total_points": 365
     },
     {
       "ranking": 15,
       "player_name": "Trystan",
-      "points_1a": 197,
-      "points_1b": 25,
-      "points_1c": 6,
+      "points_1a": 236,
+      "points_1b": 35,
+      "points_1c": 12,
       "points_1d": 40,
-      "total_points": 268
+      "total_points": 323
     },
     {
       "ranking": 16,
@@ -2144,6 +2144,159 @@
       "points_1c": 0,
       "points_1d": 0,
       "total_points": 0
+    },
+    {
+      "player_name": "Michiel",
+      "stage_number": 14,
+      "points_1a": 36,
+      "points_1b": 10,
+      "points_1c": 5,
+      "points_1d": 20,
+      "total_points": 71
+    },
+    {
+      "player_name": "Niels",
+      "stage_number": 14,
+      "points_1a": 34,
+      "points_1b": 10,
+      "points_1c": 4,
+      "points_1d": 20,
+      "total_points": 68
+    },
+    {
+      "player_name": "Hugo",
+      "stage_number": 14,
+      "points_1a": 43,
+      "points_1b": 12,
+      "points_1c": 5,
+      "points_1d": 0,
+      "total_points": 60
+    },
+    {
+      "player_name": "Theo",
+      "stage_number": 14,
+      "points_1a": 43,
+      "points_1b": 12,
+      "points_1c": 5,
+      "points_1d": 0,
+      "total_points": 60
+    },
+    {
+      "player_name": "Trystan",
+      "stage_number": 14,
+      "points_1a": 39,
+      "points_1b": 10,
+      "points_1c": 6,
+      "points_1d": 0,
+      "total_points": 55
+    },
+    {
+      "player_name": "Sander",
+      "stage_number": 14,
+      "points_1a": 40,
+      "points_1b": 10,
+      "points_1c": 3,
+      "points_1d": 0,
+      "total_points": 53
+    },
+    {
+      "player_name": "Wouter",
+      "stage_number": 14,
+      "points_1a": 38,
+      "points_1b": 10,
+      "points_1c": 5,
+      "points_1d": 0,
+      "total_points": 53
+    },
+    {
+      "player_name": "Yvo",
+      "stage_number": 14,
+      "points_1a": 39,
+      "points_1b": 10,
+      "points_1c": 3,
+      "points_1d": 0,
+      "total_points": 52
+    },
+    {
+      "player_name": "Thomas",
+      "stage_number": 14,
+      "points_1a": 21,
+      "points_1b": 2,
+      "points_1c": 2,
+      "points_1d": 20,
+      "total_points": 45
+    },
+    {
+      "player_name": "Arnout",
+      "stage_number": 14,
+      "points_1a": 16,
+      "points_1b": 0,
+      "points_1c": 2,
+      "points_1d": 20,
+      "total_points": 38
+    },
+    {
+      "player_name": "Peter",
+      "stage_number": 14,
+      "points_1a": 13,
+      "points_1b": 0,
+      "points_1c": 1,
+      "points_1d": 20,
+      "total_points": 34
+    },
+    {
+      "player_name": "Calvin",
+      "stage_number": 14,
+      "points_1a": 5,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 20,
+      "total_points": 25
+    },
+    {
+      "player_name": "Wim",
+      "stage_number": 14,
+      "points_1a": 5,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 20,
+      "total_points": 25
+    },
+    {
+      "player_name": "Loïc",
+      "stage_number": 14,
+      "points_1a": 3,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 20,
+      "total_points": 23
+    },
+    {
+      "player_name": "Ernst",
+      "stage_number": 14,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Matthijs",
+      "stage_number": 14,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Rogier",
+      "stage_number": 14,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
     }
   ],
   "cumulative_points": [
@@ -3251,6 +3404,91 @@
       "player_name": "Yvo",
       "stage_number": 13,
       "cumulative_total_points": 347
+    },
+    {
+      "player_name": "Arnout",
+      "stage_number": 14,
+      "cumulative_total_points": 376
+    },
+    {
+      "player_name": "Calvin",
+      "stage_number": 14,
+      "cumulative_total_points": 516
+    },
+    {
+      "player_name": "Ernst",
+      "stage_number": 14,
+      "cumulative_total_points": 371
+    },
+    {
+      "player_name": "Hugo",
+      "stage_number": 14,
+      "cumulative_total_points": 471
+    },
+    {
+      "player_name": "Loïc",
+      "stage_number": 14,
+      "cumulative_total_points": 365
+    },
+    {
+      "player_name": "Matthijs",
+      "stage_number": 14,
+      "cumulative_total_points": 198
+    },
+    {
+      "player_name": "Michiel",
+      "stage_number": 14,
+      "cumulative_total_points": 415
+    },
+    {
+      "player_name": "Niels",
+      "stage_number": 14,
+      "cumulative_total_points": 606
+    },
+    {
+      "player_name": "Peter",
+      "stage_number": 14,
+      "cumulative_total_points": 433
+    },
+    {
+      "player_name": "Rogier",
+      "stage_number": 14,
+      "cumulative_total_points": 70
+    },
+    {
+      "player_name": "Sander",
+      "stage_number": 14,
+      "cumulative_total_points": 561
+    },
+    {
+      "player_name": "Theo",
+      "stage_number": 14,
+      "cumulative_total_points": 438
+    },
+    {
+      "player_name": "Thomas",
+      "stage_number": 14,
+      "cumulative_total_points": 598
+    },
+    {
+      "player_name": "Trystan",
+      "stage_number": 14,
+      "cumulative_total_points": 323
+    },
+    {
+      "player_name": "Wim",
+      "stage_number": 14,
+      "cumulative_total_points": 416
+    },
+    {
+      "player_name": "Wouter",
+      "stage_number": 14,
+      "cumulative_total_points": 394
+    },
+    {
+      "player_name": "Yvo",
+      "stage_number": 14,
+      "cumulative_total_points": 399
     }
   ],
   "stage_status": [
@@ -3374,11 +3612,11 @@
     {
       "stage_number": 14,
       "stage_name": "Etappe 14 - 18 juli - Mulhouse - Le Markstein",
-      "latest_import_status": null,
-      "latest_imported_at": null,
-      "has_stage_results": false,
-      "has_gc_results": false,
-      "has_combativity_result": false
+      "latest_import_status": "success",
+      "latest_imported_at": "2026-07-18T15:48:38.740432+00:00",
+      "has_stage_results": true,
+      "has_gc_results": true,
+      "has_combativity_result": true
     },
     {
       "stage_number": 15,
@@ -3590,6 +3828,18 @@
       "third_place_name": "Florian Lipowitz"
     },
     {
+      "player_name": "Arnout",
+      "prediction_type": "stage",
+      "stage_number": 14,
+      "stage_name": "Etappe 14 - 18 juli - Mulhouse - Le Markstein",
+      "first_place": 41,
+      "first_place_name": "Richard Carapaz",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 31,
+      "third_place_name": "Juan Ayuso"
+    },
+    {
       "player_name": "Calvin",
       "prediction_type": "podium",
       "stage_number": null,
@@ -3756,6 +4006,18 @@
       "second_place_name": "Tom Pidcock",
       "third_place": 93,
       "third_place_name": "Valentin Paret Peintre"
+    },
+    {
+      "player_name": "Calvin",
+      "prediction_type": "stage",
+      "stage_number": 14,
+      "stage_name": "Etappe 14 - 18 juli - Mulhouse - Le Markstein",
+      "first_place": 41,
+      "first_place_name": "Richard Carapaz",
+      "second_place": 82,
+      "second_place_name": "Thymen Arensman",
+      "third_place": 121,
+      "third_place_name": "Tobias Johannessen"
     },
     {
       "player_name": "Ernst",
@@ -4094,6 +4356,18 @@
       "third_place_name": "Valentin Paret Peintre"
     },
     {
+      "player_name": "Hugo",
+      "prediction_type": "stage",
+      "stage_number": 14,
+      "stage_name": "Etappe 14 - 18 juli - Mulhouse - Le Markstein",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 51,
+      "third_place_name": "Paul Seixas"
+    },
+    {
       "player_name": "Loïc",
       "prediction_type": "podium",
       "stage_number": null,
@@ -4260,6 +4534,18 @@
       "second_place_name": "Mads Pedersen",
       "third_place": 34,
       "third_place_name": "Quinn Simmons"
+    },
+    {
+      "player_name": "Loïc",
+      "prediction_type": "stage",
+      "stage_number": 14,
+      "stage_name": "Etappe 14 - 18 juli - Mulhouse - Le Markstein",
+      "first_place": 82,
+      "first_place_name": "Thymen Arensman",
+      "second_place": 41,
+      "second_place_name": "Richard Carapaz",
+      "third_place": 93,
+      "third_place_name": "Valentin Paret Peintre"
     },
     {
       "player_name": "Matthijs",
@@ -4538,6 +4824,18 @@
       "third_place_name": "Mads Pedersen"
     },
     {
+      "player_name": "Michiel",
+      "prediction_type": "stage",
+      "stage_number": 14,
+      "stage_name": "Etappe 14 - 18 juli - Mulhouse - Le Markstein",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 41,
+      "third_place_name": "Richard Carapaz"
+    },
+    {
       "player_name": "Niels",
       "prediction_type": "podium",
       "stage_number": null,
@@ -4706,6 +5004,18 @@
       "third_place_name": "Tobias Johannessen"
     },
     {
+      "player_name": "Niels",
+      "prediction_type": "stage",
+      "stage_number": 14,
+      "stage_name": "Etappe 14 - 18 juli - Mulhouse - Le Markstein",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 41,
+      "second_place_name": "Richard Carapaz",
+      "third_place": 21,
+      "third_place_name": "Remco Evenepoel"
+    },
+    {
       "player_name": "Peter",
       "prediction_type": "podium",
       "stage_number": null,
@@ -4872,6 +5182,18 @@
       "second_place_name": "Tom Pidcock",
       "third_place": 33,
       "third_place_name": "Mads Pedersen"
+    },
+    {
+      "player_name": "Peter",
+      "prediction_type": "stage",
+      "stage_number": 14,
+      "stage_name": "Etappe 14 - 18 juli - Mulhouse - Le Markstein",
+      "first_place": 41,
+      "first_place_name": "Richard Carapaz",
+      "second_place": 25,
+      "second_place_name": "Florian Lipowitz",
+      "third_place": 21,
+      "third_place_name": "Remco Evenepoel"
     },
     {
       "player_name": "Rogier",
@@ -5078,6 +5400,18 @@
       "third_place_name": "Robert Stannard"
     },
     {
+      "player_name": "Sander",
+      "prediction_type": "stage",
+      "stage_number": 14,
+      "stage_name": "Etappe 14 - 18 juli - Mulhouse - Le Markstein",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 51,
+      "second_place_name": "Paul Seixas",
+      "third_place": 31,
+      "third_place_name": "Juan Ayuso"
+    },
+    {
       "player_name": "Theo",
       "prediction_type": "podium",
       "stage_number": null,
@@ -5244,6 +5578,18 @@
       "second_place_name": "Richard Carapaz",
       "third_place": 171,
       "third_place_name": "Tom Pidcock"
+    },
+    {
+      "player_name": "Theo",
+      "prediction_type": "stage",
+      "stage_number": 14,
+      "stage_name": "Etappe 14 - 18 juli - Mulhouse - Le Markstein",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 51,
+      "third_place_name": "Paul Seixas"
     },
     {
       "player_name": "Thomas",
@@ -5414,6 +5760,18 @@
       "third_place_name": "Tobias Johannessen"
     },
     {
+      "player_name": "Thomas",
+      "prediction_type": "stage",
+      "stage_number": 14,
+      "stage_name": "Etappe 14 - 18 juli - Mulhouse - Le Markstein",
+      "first_place": 41,
+      "first_place_name": "Richard Carapaz",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 51,
+      "third_place_name": "Paul Seixas"
+    },
+    {
       "player_name": "Trystan",
       "prediction_type": "podium",
       "stage_number": null,
@@ -5568,6 +5926,18 @@
       "second_place_name": "Paul Seixas",
       "third_place": 181,
       "third_place_name": "Romain Gregoire"
+    },
+    {
+      "player_name": "Trystan",
+      "prediction_type": "stage",
+      "stage_number": 14,
+      "stage_name": "Etappe 14 - 18 juli - Mulhouse - Le Markstein",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 21,
+      "third_place_name": "Remco Evenepoel"
     },
     {
       "player_name": "Wim",
@@ -5738,6 +6108,18 @@
       "third_place_name": "Alex Baudin"
     },
     {
+      "player_name": "Wim",
+      "prediction_type": "stage",
+      "stage_number": 14,
+      "stage_name": "Etappe 14 - 18 juli - Mulhouse - Le Markstein",
+      "first_place": 82,
+      "first_place_name": "Thymen Arensman",
+      "second_place": 41,
+      "second_place_name": "Richard Carapaz",
+      "third_place": 121,
+      "third_place_name": "Tobias Johannessen"
+    },
+    {
       "player_name": "Wouter",
       "prediction_type": "podium",
       "stage_number": null,
@@ -5906,6 +6288,18 @@
       "third_place_name": "Romain Gregoire"
     },
     {
+      "player_name": "Wouter",
+      "prediction_type": "stage",
+      "stage_number": 14,
+      "stage_name": "Etappe 14 - 18 juli - Mulhouse - Le Markstein",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 11,
+      "second_place_name": "Jonas Vingegaard",
+      "third_place": 31,
+      "third_place_name": "Juan Ayuso"
+    },
+    {
       "player_name": "Yvo",
       "prediction_type": "podium",
       "stage_number": null,
@@ -6072,6 +6466,18 @@
       "second_place_name": "Quinn Simmons",
       "third_place": 43,
       "third_place_name": "Alex Baudin"
+    },
+    {
+      "player_name": "Yvo",
+      "prediction_type": "stage",
+      "stage_number": 14,
+      "stage_name": "Etappe 14 - 18 juli - Mulhouse - Le Markstein",
+      "first_place": 1,
+      "first_place_name": "Tadej Pogacar",
+      "second_place": 51,
+      "second_place_name": "Paul Seixas",
+      "third_place": 25,
+      "third_place_name": "Florian Lipowitz"
     }
   ],
   "stage_results": [
@@ -7257,6 +7663,97 @@
       "position": 10,
       "rider_number": 117,
       "rider_name": "Luke Plapp"
+    },
+    {
+      "stage_number": 14,
+      "result_type": "gc",
+      "position": 1,
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar"
+    },
+    {
+      "stage_number": 14,
+      "result_type": "gc",
+      "position": 2,
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard"
+    },
+    {
+      "stage_number": 14,
+      "result_type": "gc",
+      "position": 3,
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel"
+    },
+    {
+      "stage_number": 14,
+      "result_type": "stage",
+      "position": 1,
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar"
+    },
+    {
+      "stage_number": 14,
+      "result_type": "stage",
+      "position": 2,
+      "rider_number": 2,
+      "rider_name": "Isaac del Toro"
+    },
+    {
+      "stage_number": 14,
+      "result_type": "stage",
+      "position": 3,
+      "rider_number": 51,
+      "rider_name": "Paul Seixas"
+    },
+    {
+      "stage_number": 14,
+      "result_type": "stage",
+      "position": 4,
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard"
+    },
+    {
+      "stage_number": 14,
+      "result_type": "stage",
+      "position": 5,
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel"
+    },
+    {
+      "stage_number": 14,
+      "result_type": "stage",
+      "position": 6,
+      "rider_number": 31,
+      "rider_name": "Juan Ayuso"
+    },
+    {
+      "stage_number": 14,
+      "result_type": "stage",
+      "position": 7,
+      "rider_number": 25,
+      "rider_name": "Florian Lipowitz"
+    },
+    {
+      "stage_number": 14,
+      "result_type": "stage",
+      "position": 8,
+      "rider_number": 41,
+      "rider_name": "Richard Carapaz"
+    },
+    {
+      "stage_number": 14,
+      "result_type": "stage",
+      "position": 9,
+      "rider_number": 121,
+      "rider_name": "Tobias Johannessen"
+    },
+    {
+      "stage_number": 14,
+      "result_type": "stage",
+      "position": 10,
+      "rider_number": 35,
+      "rider_name": "Mattias Skjelmose"
     }
   ],
   "prediction_counts": [
@@ -7276,8 +7773,22 @@
     },
     {
       "player_name": "Arnout",
+      "rider_number": 31,
+      "rider_name": "Juan Ayuso",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Arnout",
       "rider_number": 55,
       "rider_name": "Olav Kooij",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Arnout",
+      "rider_number": 41,
+      "rider_name": "Richard Carapaz",
       "times_predicted": 3,
       "exceeds_maximum": false
     },
@@ -7290,8 +7801,8 @@
     },
     {
       "player_name": "Arnout",
-      "rider_number": 31,
-      "rider_name": "Juan Ayuso",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -7299,13 +7810,6 @@
       "player_name": "Arnout",
       "rider_number": 118,
       "rider_name": "Mauro Schmid",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Arnout",
-      "rider_number": 41,
-      "rider_name": "Richard Carapaz",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -7348,13 +7852,6 @@
       "player_name": "Arnout",
       "rider_number": 218,
       "rider_name": "Frank van Den Broek",
-      "times_predicted": 1,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Arnout",
-      "rider_number": 11,
-      "rider_name": "Jonas Vingegaard",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
@@ -7472,6 +7969,13 @@
     },
     {
       "player_name": "Calvin",
+      "rider_number": 41,
+      "rider_name": "Richard Carapaz",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
       "rider_number": 1,
       "rider_name": "Tadej Pogacar",
       "times_predicted": 2,
@@ -7556,15 +8060,22 @@
     },
     {
       "player_name": "Calvin",
-      "rider_number": 41,
-      "rider_name": "Richard Carapaz",
+      "rider_number": 181,
+      "rider_name": "Romain Gregoire",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
     {
       "player_name": "Calvin",
-      "rider_number": 181,
-      "rider_name": "Romain Gregoire",
+      "rider_number": 82,
+      "rider_name": "Thymen Arensman",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Calvin",
+      "rider_number": 121,
+      "rider_name": "Tobias Johannessen",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
@@ -7738,8 +8249,29 @@
     },
     {
       "player_name": "Hugo",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
       "rider_number": 101,
       "rider_name": "Mathieu van der Poel",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
+      "rider_number": 51,
+      "rider_name": "Paul Seixas",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Hugo",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
       "times_predicted": 3,
       "exceeds_maximum": false
     },
@@ -7752,29 +8284,8 @@
     },
     {
       "player_name": "Hugo",
-      "rider_number": 11,
-      "rider_name": "Jonas Vingegaard",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Hugo",
       "rider_number": 156,
       "rider_name": "Lennert van Eetvelt",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Hugo",
-      "rider_number": 51,
-      "rider_name": "Paul Seixas",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Hugo",
-      "rider_number": 1,
-      "rider_name": "Tadej Pogacar",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -7892,6 +8403,13 @@
     },
     {
       "player_name": "Loïc",
+      "rider_number": 82,
+      "rider_name": "Thymen Arensman",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Loïc",
       "rider_number": 131,
       "rider_name": "Biniam Girmay",
       "times_predicted": 2,
@@ -7934,8 +8452,8 @@
     },
     {
       "player_name": "Loïc",
-      "rider_number": 82,
-      "rider_name": "Thymen Arensman",
+      "rider_number": 93,
+      "rider_name": "Valentin Paret Peintre",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -7997,8 +8515,8 @@
     },
     {
       "player_name": "Loïc",
-      "rider_number": 93,
-      "rider_name": "Valentin Paret Peintre",
+      "rider_number": 41,
+      "rider_name": "Richard Carapaz",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
@@ -8165,6 +8683,13 @@
     },
     {
       "player_name": "Michiel",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Michiel",
       "rider_number": 33,
       "rider_name": "Mads Pedersen",
       "times_predicted": 3,
@@ -8179,15 +8704,15 @@
     },
     {
       "player_name": "Michiel",
-      "rider_number": 11,
-      "rider_name": "Jonas Vingegaard",
+      "rider_number": 55,
+      "rider_name": "Olav Kooij",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
     {
       "player_name": "Michiel",
-      "rider_number": 55,
-      "rider_name": "Olav Kooij",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -8235,15 +8760,15 @@
     },
     {
       "player_name": "Michiel",
-      "rider_number": 181,
-      "rider_name": "Romain Gregoire",
+      "rider_number": 41,
+      "rider_name": "Richard Carapaz",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
     {
       "player_name": "Michiel",
-      "rider_number": 1,
-      "rider_name": "Tadej Pogacar",
+      "rider_number": 181,
+      "rider_name": "Romain Gregoire",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
@@ -8252,6 +8777,13 @@
       "rider_number": 211,
       "rider_name": "Warren Barguil",
       "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Niels",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 5,
       "exceeds_maximum": false
     },
     {
@@ -8270,13 +8802,6 @@
     },
     {
       "player_name": "Niels",
-      "rider_number": 1,
-      "rider_name": "Tadej Pogacar",
-      "times_predicted": 4,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Niels",
       "rider_number": 131,
       "rider_name": "Biniam Girmay",
       "times_predicted": 3,
@@ -8286,6 +8811,13 @@
       "player_name": "Niels",
       "rider_number": 105,
       "rider_name": "Jasper Philipsen",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Niels",
+      "rider_number": 41,
+      "rider_name": "Richard Carapaz",
       "times_predicted": 3,
       "exceeds_maximum": false
     },
@@ -8319,8 +8851,8 @@
     },
     {
       "player_name": "Niels",
-      "rider_number": 41,
-      "rider_name": "Richard Carapaz",
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -8363,13 +8895,6 @@
       "player_name": "Niels",
       "rider_number": 51,
       "rider_name": "Paul Seixas",
-      "times_predicted": 1,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Niels",
-      "rider_number": 21,
-      "rider_name": "Remco Evenepoel",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
@@ -8466,6 +8991,20 @@
     },
     {
       "player_name": "Peter",
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Peter",
+      "rider_number": 41,
+      "rider_name": "Richard Carapaz",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Peter",
       "rider_number": 181,
       "rider_name": "Romain Gregoire",
       "times_predicted": 2,
@@ -8480,22 +9019,15 @@
     },
     {
       "player_name": "Peter",
+      "rider_number": 25,
+      "rider_name": "Florian Lipowitz",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Peter",
       "rider_number": 88,
       "rider_name": "Kévin Vauquelin",
-      "times_predicted": 1,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Peter",
-      "rider_number": 21,
-      "rider_name": "Remco Evenepoel",
-      "times_predicted": 1,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Peter",
-      "rider_number": 41,
-      "rider_name": "Richard Carapaz",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
@@ -8718,15 +9250,22 @@
     },
     {
       "player_name": "Theo",
-      "rider_number": 131,
-      "rider_name": "Biniam Girmay",
-      "times_predicted": 2,
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 3,
       "exceeds_maximum": false
     },
     {
       "player_name": "Theo",
-      "rider_number": 11,
-      "rider_name": "Jonas Vingegaard",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Theo",
+      "rider_number": 131,
+      "rider_name": "Biniam Girmay",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -8760,6 +9299,13 @@
     },
     {
       "player_name": "Theo",
+      "rider_number": 51,
+      "rider_name": "Paul Seixas",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Theo",
       "rider_number": 41,
       "rider_name": "Richard Carapaz",
       "times_predicted": 2,
@@ -8769,13 +9315,6 @@
       "player_name": "Theo",
       "rider_number": 181,
       "rider_name": "Romain Gregoire",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Theo",
-      "rider_number": 1,
-      "rider_name": "Tadej Pogacar",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -8811,13 +9350,6 @@
       "player_name": "Theo",
       "rider_number": 117,
       "rider_name": "Luke Plapp",
-      "times_predicted": 1,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Theo",
-      "rider_number": 51,
-      "rider_name": "Paul Seixas",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
@@ -8879,6 +9411,20 @@
     },
     {
       "player_name": "Thomas",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Thomas",
+      "rider_number": 41,
+      "rider_name": "Richard Carapaz",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Thomas",
       "rider_number": 171,
       "rider_name": "Tom Pidcock",
       "times_predicted": 3,
@@ -8893,22 +9439,8 @@
     },
     {
       "player_name": "Thomas",
-      "rider_number": 11,
-      "rider_name": "Jonas Vingegaard",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Thomas",
       "rider_number": 21,
       "rider_name": "Remco Evenepoel",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Thomas",
-      "rider_number": 41,
-      "rider_name": "Richard Carapaz",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -8951,6 +9483,13 @@
       "player_name": "Thomas",
       "rider_number": 101,
       "rider_name": "Mathieu van der Poel",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Thomas",
+      "rider_number": 51,
+      "rider_name": "Paul Seixas",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
@@ -9019,6 +9558,13 @@
     },
     {
       "player_name": "Trystan",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 2,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Trystan",
       "rider_number": 33,
       "rider_name": "Mads Pedersen",
       "times_predicted": 2,
@@ -9033,15 +9579,15 @@
     },
     {
       "player_name": "Trystan",
-      "rider_number": 6,
-      "rider_name": "Florian Vermeersch",
-      "times_predicted": 1,
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 2,
       "exceeds_maximum": false
     },
     {
       "player_name": "Trystan",
-      "rider_number": 11,
-      "rider_name": "Jonas Vingegaard",
+      "rider_number": 6,
+      "rider_name": "Florian Vermeersch",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
@@ -9082,6 +9628,13 @@
     },
     {
       "player_name": "Trystan",
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Trystan",
       "rider_number": 41,
       "rider_name": "Richard Carapaz",
       "times_predicted": 1,
@@ -9098,13 +9651,6 @@
       "player_name": "Trystan",
       "rider_number": 128,
       "rider_name": "Soren Waerenskjold",
-      "times_predicted": 1,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Trystan",
-      "rider_number": 1,
-      "rider_name": "Tadej Pogacar",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
@@ -9145,6 +9691,20 @@
     },
     {
       "player_name": "Wim",
+      "rider_number": 41,
+      "rider_name": "Richard Carapaz",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wim",
+      "rider_number": 121,
+      "rider_name": "Tobias Johannessen",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wim",
       "rider_number": 43,
       "rider_name": "Alex Baudin",
       "times_predicted": 2,
@@ -9180,13 +9740,6 @@
     },
     {
       "player_name": "Wim",
-      "rider_number": 41,
-      "rider_name": "Richard Carapaz",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Wim",
       "rider_number": 1,
       "rider_name": "Tadej Pogacar",
       "times_predicted": 2,
@@ -9194,8 +9747,8 @@
     },
     {
       "player_name": "Wim",
-      "rider_number": 121,
-      "rider_name": "Tobias Johannessen",
+      "rider_number": 82,
+      "rider_name": "Thymen Arensman",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -9264,13 +9817,6 @@
     },
     {
       "player_name": "Wim",
-      "rider_number": 82,
-      "rider_name": "Thymen Arensman",
-      "times_predicted": 1,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Wim",
       "rider_number": 171,
       "rider_name": "Tom Pidcock",
       "times_predicted": 1,
@@ -9281,6 +9827,20 @@
       "rider_number": 55,
       "rider_name": "Olav Kooij",
       "times_predicted": 5,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 11,
+      "rider_name": "Jonas Vingegaard",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Wouter",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 3,
       "exceeds_maximum": false
     },
     {
@@ -9306,8 +9866,8 @@
     },
     {
       "player_name": "Wouter",
-      "rider_number": 11,
-      "rider_name": "Jonas Vingegaard",
+      "rider_number": 31,
+      "rider_name": "Juan Ayuso",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -9315,13 +9875,6 @@
       "player_name": "Wouter",
       "rider_number": 101,
       "rider_name": "Mathieu van der Poel",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Wouter",
-      "rider_number": 1,
-      "rider_name": "Tadej Pogacar",
       "times_predicted": 2,
       "exceeds_maximum": false
     },
@@ -9385,13 +9938,6 @@
       "player_name": "Wouter",
       "rider_number": 201,
       "rider_name": "Jordan Jegat",
-      "times_predicted": 1,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Wouter",
-      "rider_number": 31,
-      "rider_name": "Juan Ayuso",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
@@ -9495,6 +10041,13 @@
     },
     {
       "player_name": "Yvo",
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar",
+      "times_predicted": 3,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Yvo",
       "rider_number": 44,
       "rider_name": "Ben Healy",
       "times_predicted": 2,
@@ -9516,13 +10069,6 @@
     },
     {
       "player_name": "Yvo",
-      "rider_number": 1,
-      "rider_name": "Tadej Pogacar",
-      "times_predicted": 2,
-      "exceeds_maximum": false
-    },
-    {
-      "player_name": "Yvo",
       "rider_number": 171,
       "rider_name": "Tom Pidcock",
       "times_predicted": 2,
@@ -9539,6 +10085,13 @@
       "player_name": "Yvo",
       "rider_number": 131,
       "rider_name": "Biniam Girmay",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Yvo",
+      "rider_number": 25,
+      "rider_name": "Florian Lipowitz",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
@@ -9581,6 +10134,13 @@
       "player_name": "Yvo",
       "rider_number": 142,
       "rider_name": "Pablo Castrillo",
+      "times_predicted": 1,
+      "exceeds_maximum": false
+    },
+    {
+      "player_name": "Yvo",
+      "rider_number": 51,
+      "rider_name": "Paul Seixas",
       "times_predicted": 1,
       "exceeds_maximum": false
     },
