@@ -1,71 +1,89 @@
 {
-  "updated_at": "2026-07-19T14:24:52.419601+00:00",
+  "updated_at": "2026-07-19T15:56:53.639040+00:00",
   "standings": [
     {
       "ranking": 1,
       "player_name": "Niels",
-      "points_1a": 431,
-      "points_1b": 57,
-      "points_1c": 18,
+      "points_1a": 449,
+      "points_1b": 59,
+      "points_1c": 19,
       "points_1d": 100,
-      "total_points": 606
+      "total_points": 627
     },
     {
       "ranking": 2,
       "player_name": "Thomas",
-      "points_1a": 399,
+      "points_1a": 417,
       "points_1b": 81,
-      "points_1c": 18,
+      "points_1c": 19,
       "points_1d": 100,
-      "total_points": 598
+      "total_points": 617
     },
     {
       "ranking": 3,
       "player_name": "Sander",
-      "points_1a": 381,
+      "points_1a": 404,
       "points_1b": 87,
-      "points_1c": 13,
+      "points_1c": 16,
       "points_1d": 80,
-      "total_points": 561
+      "total_points": 587
     },
     {
       "ranking": 4,
       "player_name": "Calvin",
-      "points_1a": 356,
+      "points_1a": 379,
       "points_1b": 52,
-      "points_1c": 8,
+      "points_1c": 11,
       "points_1d": 100,
-      "total_points": 516
+      "total_points": 542
     },
     {
       "ranking": 5,
       "player_name": "Hugo",
-      "points_1a": 369,
+      "points_1a": 375,
       "points_1b": 67,
       "points_1c": 15,
       "points_1d": 20,
-      "total_points": 471
+      "total_points": 477
     },
     {
       "ranking": 6,
       "player_name": "Theo",
-      "points_1a": 310,
-      "points_1b": 51,
-      "points_1c": 17,
+      "points_1a": 331,
+      "points_1b": 53,
+      "points_1c": 18,
       "points_1d": 60,
-      "total_points": 438
+      "total_points": 462
     },
     {
       "ranking": 7,
       "player_name": "Peter",
-      "points_1a": 315,
+      "points_1a": 338,
       "points_1b": 44,
-      "points_1c": 14,
+      "points_1c": 17,
       "points_1d": 60,
-      "total_points": 433
+      "total_points": 459
     },
     {
       "ranking": 8,
+      "player_name": "Michiel",
+      "points_1a": 299,
+      "points_1b": 47,
+      "points_1c": 16,
+      "points_1d": 80,
+      "total_points": 442
+    },
+    {
+      "ranking": 9,
+      "player_name": "Wouter",
+      "points_1a": 317,
+      "points_1b": 49,
+      "points_1c": 19,
+      "points_1d": 40,
+      "total_points": 425
+    },
+    {
+      "ranking": 10,
       "player_name": "Wim",
       "points_1a": 276,
       "points_1b": 52,
@@ -74,16 +92,16 @@
       "total_points": 416
     },
     {
-      "ranking": 9,
-      "player_name": "Michiel",
-      "points_1a": 274,
-      "points_1b": 47,
-      "points_1c": 14,
+      "ranking": 11,
+      "player_name": "Arnout",
+      "points_1a": 292,
+      "points_1b": 20,
+      "points_1c": 13,
       "points_1d": 80,
-      "total_points": 415
+      "total_points": 405
     },
     {
-      "ranking": 10,
+      "ranking": 12,
       "player_name": "Yvo",
       "points_1a": 291,
       "points_1b": 52,
@@ -92,49 +110,31 @@
       "total_points": 399
     },
     {
-      "ranking": 11,
-      "player_name": "Wouter",
-      "points_1a": 292,
-      "points_1b": 47,
-      "points_1c": 15,
-      "points_1d": 40,
-      "total_points": 394
-    },
-    {
-      "ranking": 12,
-      "player_name": "Arnout",
-      "points_1a": 266,
-      "points_1b": 20,
-      "points_1c": 10,
-      "points_1d": 80,
-      "total_points": 376
-    },
-    {
       "ranking": 13,
       "player_name": "Ernst",
-      "points_1a": 291,
+      "points_1a": 314,
       "points_1b": 29,
-      "points_1c": 11,
+      "points_1c": 14,
       "points_1d": 40,
-      "total_points": 371
+      "total_points": 397
     },
     {
       "ranking": 14,
       "player_name": "Loïc",
-      "points_1a": 286,
+      "points_1a": 289,
       "points_1b": 30,
       "points_1c": 9,
       "points_1d": 40,
-      "total_points": 365
+      "total_points": 368
     },
     {
       "ranking": 15,
       "player_name": "Trystan",
-      "points_1a": 236,
+      "points_1a": 261,
       "points_1b": 35,
-      "points_1c": 12,
+      "points_1c": 16,
       "points_1d": 40,
-      "total_points": 323
+      "total_points": 352
     },
     {
       "ranking": 16,
@@ -2297,6 +2297,159 @@
       "points_1c": 0,
       "points_1d": 0,
       "total_points": 0
+    },
+    {
+      "player_name": "Wouter",
+      "stage_number": 15,
+      "points_1a": 25,
+      "points_1b": 2,
+      "points_1c": 4,
+      "points_1d": 0,
+      "total_points": 31
+    },
+    {
+      "player_name": "Arnout",
+      "stage_number": 15,
+      "points_1a": 26,
+      "points_1b": 0,
+      "points_1c": 3,
+      "points_1d": 0,
+      "total_points": 29
+    },
+    {
+      "player_name": "Trystan",
+      "stage_number": 15,
+      "points_1a": 25,
+      "points_1b": 0,
+      "points_1c": 4,
+      "points_1d": 0,
+      "total_points": 29
+    },
+    {
+      "player_name": "Michiel",
+      "stage_number": 15,
+      "points_1a": 25,
+      "points_1b": 0,
+      "points_1c": 2,
+      "points_1d": 0,
+      "total_points": 27
+    },
+    {
+      "player_name": "Calvin",
+      "stage_number": 15,
+      "points_1a": 23,
+      "points_1b": 0,
+      "points_1c": 3,
+      "points_1d": 0,
+      "total_points": 26
+    },
+    {
+      "player_name": "Ernst",
+      "stage_number": 15,
+      "points_1a": 23,
+      "points_1b": 0,
+      "points_1c": 3,
+      "points_1d": 0,
+      "total_points": 26
+    },
+    {
+      "player_name": "Peter",
+      "stage_number": 15,
+      "points_1a": 23,
+      "points_1b": 0,
+      "points_1c": 3,
+      "points_1d": 0,
+      "total_points": 26
+    },
+    {
+      "player_name": "Sander",
+      "stage_number": 15,
+      "points_1a": 23,
+      "points_1b": 0,
+      "points_1c": 3,
+      "points_1d": 0,
+      "total_points": 26
+    },
+    {
+      "player_name": "Theo",
+      "stage_number": 15,
+      "points_1a": 21,
+      "points_1b": 2,
+      "points_1c": 1,
+      "points_1d": 0,
+      "total_points": 24
+    },
+    {
+      "player_name": "Niels",
+      "stage_number": 15,
+      "points_1a": 18,
+      "points_1b": 2,
+      "points_1c": 1,
+      "points_1d": 0,
+      "total_points": 21
+    },
+    {
+      "player_name": "Thomas",
+      "stage_number": 15,
+      "points_1a": 18,
+      "points_1b": 0,
+      "points_1c": 1,
+      "points_1d": 0,
+      "total_points": 19
+    },
+    {
+      "player_name": "Hugo",
+      "stage_number": 15,
+      "points_1a": 6,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 6
+    },
+    {
+      "player_name": "Loïc",
+      "stage_number": 15,
+      "points_1a": 3,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 3
+    },
+    {
+      "player_name": "Matthijs",
+      "stage_number": 15,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Rogier",
+      "stage_number": 15,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Wim",
+      "stage_number": 15,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
+    },
+    {
+      "player_name": "Yvo",
+      "stage_number": 15,
+      "points_1a": 0,
+      "points_1b": 0,
+      "points_1c": 0,
+      "points_1d": 0,
+      "total_points": 0
     }
   ],
   "cumulative_points": [
@@ -3489,6 +3642,91 @@
       "player_name": "Yvo",
       "stage_number": 14,
       "cumulative_total_points": 399
+    },
+    {
+      "player_name": "Arnout",
+      "stage_number": 15,
+      "cumulative_total_points": 405
+    },
+    {
+      "player_name": "Calvin",
+      "stage_number": 15,
+      "cumulative_total_points": 542
+    },
+    {
+      "player_name": "Ernst",
+      "stage_number": 15,
+      "cumulative_total_points": 397
+    },
+    {
+      "player_name": "Hugo",
+      "stage_number": 15,
+      "cumulative_total_points": 477
+    },
+    {
+      "player_name": "Loïc",
+      "stage_number": 15,
+      "cumulative_total_points": 368
+    },
+    {
+      "player_name": "Matthijs",
+      "stage_number": 15,
+      "cumulative_total_points": 198
+    },
+    {
+      "player_name": "Michiel",
+      "stage_number": 15,
+      "cumulative_total_points": 442
+    },
+    {
+      "player_name": "Niels",
+      "stage_number": 15,
+      "cumulative_total_points": 627
+    },
+    {
+      "player_name": "Peter",
+      "stage_number": 15,
+      "cumulative_total_points": 459
+    },
+    {
+      "player_name": "Rogier",
+      "stage_number": 15,
+      "cumulative_total_points": 70
+    },
+    {
+      "player_name": "Sander",
+      "stage_number": 15,
+      "cumulative_total_points": 587
+    },
+    {
+      "player_name": "Theo",
+      "stage_number": 15,
+      "cumulative_total_points": 462
+    },
+    {
+      "player_name": "Thomas",
+      "stage_number": 15,
+      "cumulative_total_points": 617
+    },
+    {
+      "player_name": "Trystan",
+      "stage_number": 15,
+      "cumulative_total_points": 352
+    },
+    {
+      "player_name": "Wim",
+      "stage_number": 15,
+      "cumulative_total_points": 416
+    },
+    {
+      "player_name": "Wouter",
+      "stage_number": 15,
+      "cumulative_total_points": 425
+    },
+    {
+      "player_name": "Yvo",
+      "stage_number": 15,
+      "cumulative_total_points": 399
     }
   ],
   "stage_status": [
@@ -3621,11 +3859,11 @@
     {
       "stage_number": 15,
       "stage_name": "Etappe 15 - 19 juli - Champagnole - Plateau de Solaison",
-      "latest_import_status": null,
-      "latest_imported_at": null,
-      "has_stage_results": false,
-      "has_gc_results": false,
-      "has_combativity_result": false
+      "latest_import_status": "success",
+      "latest_imported_at": "2026-07-19T15:56:46.818264+00:00",
+      "has_stage_results": true,
+      "has_gc_results": true,
+      "has_combativity_result": true
     },
     {
       "stage_number": 16,
@@ -7934,6 +8172,97 @@
       "position": 10,
       "rider_number": 35,
       "rider_name": "Mattias Skjelmose"
+    },
+    {
+      "stage_number": 15,
+      "result_type": "gc",
+      "position": 1,
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar"
+    },
+    {
+      "stage_number": 15,
+      "result_type": "gc",
+      "position": 2,
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel"
+    },
+    {
+      "stage_number": 15,
+      "result_type": "gc",
+      "position": 3,
+      "rider_number": 2,
+      "rider_name": "Isaac del Toro"
+    },
+    {
+      "stage_number": 15,
+      "result_type": "stage",
+      "position": 1,
+      "rider_number": 21,
+      "rider_name": "Remco Evenepoel"
+    },
+    {
+      "stage_number": 15,
+      "result_type": "stage",
+      "position": 2,
+      "rider_number": 1,
+      "rider_name": "Tadej Pogacar"
+    },
+    {
+      "stage_number": 15,
+      "result_type": "stage",
+      "position": 3,
+      "rider_number": 2,
+      "rider_name": "Isaac del Toro"
+    },
+    {
+      "stage_number": 15,
+      "result_type": "stage",
+      "position": 4,
+      "rider_number": 51,
+      "rider_name": "Paul Seixas"
+    },
+    {
+      "stage_number": 15,
+      "result_type": "stage",
+      "position": 5,
+      "rider_number": 25,
+      "rider_name": "Florian Lipowitz"
+    },
+    {
+      "stage_number": 15,
+      "result_type": "stage",
+      "position": 6,
+      "rider_number": 71,
+      "rider_name": "Lenny Martinez"
+    },
+    {
+      "stage_number": 15,
+      "result_type": "stage",
+      "position": 7,
+      "rider_number": 35,
+      "rider_name": "Mattias Skjelmose"
+    },
+    {
+      "stage_number": 15,
+      "result_type": "stage",
+      "position": 8,
+      "rider_number": 31,
+      "rider_name": "Juan Ayuso"
+    },
+    {
+      "stage_number": 15,
+      "result_type": "stage",
+      "position": 9,
+      "rider_number": 8,
+      "rider_name": "Adam Yates"
+    },
+    {
+      "stage_number": 15,
+      "result_type": "stage",
+      "position": 10,
+      "rider_number": 34,
+      "rider_name": "Quinn Simmons"
     }
   ],
   "prediction_counts": [
