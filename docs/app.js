@@ -77,10 +77,26 @@ async function loadResults() {
   }
   const stageResults = data.stage_results || [];
   const stagesWithResults = new Set(stageResults.filter(row => row.result_type === 'stage').map(row => row.stage_number));
-  const publicPredictions = (data.predictions || []).filter(row => row.prediction_type !== 'stage' || stagesWithResults.has(row.stage_number));
+  const monthNumbers = {januari: 1, februari: 2, maart: 3, april: 4, mei: 5, juni: 6, juli: 7, augustus: 8, september: 9, oktober: 10, november: 11, december: 12};
+  const nowParts = Object.fromEntries(new Intl.DateTimeFormat('en-GB', {
+    timeZone: 'Europe/Amsterdam', year: 'numeric', month: '2-digit', day: '2-digit',
+    hour: '2-digit', minute: '2-digit', hourCycle: 'h23'
+  }).formatToParts(new Date()).filter(part => part.type !== 'literal').map(part => [part.type, Number(part.value)]));
+  const stageDate = stageName => {
+    const match = String(stageName || '').match(/Etappe \d+ - (\d{1,2}) ([a-z]+)/i);
+    if (!match || !monthNumbers[match[2].toLowerCase()]) return null;
+    return {day: Number(match[1]), month: monthNumbers[match[2].toLowerCase()]};
+  };
+  const isStageOverviewWindow = row => {
+    const date = stageDate(row.stage_name);
+    return date && date.day === nowParts.day && date.month === nowParts.month
+      && nowParts.hour * 60 + nowParts.minute >= 13 * 60;
+  };
+  const publicPredictions = (data.predictions || []).filter(row =>
+    row.prediction_type !== 'stage' || stagesWithResults.has(row.stage_number) || isStageOverviewWindow(row));
   const players = [...new Set(publicPredictions.map(row => row.player_name))].sort();
   const predictionCounts = data.prediction_counts || [];
-  const stages = [...new Set([...stagePoints.map(row => row.stage_number), ...stageResults.map(row => row.stage_number)])].sort((a, b) => a - b);
+  const stages = [...new Set([...publicPredictions.map(row => row.stage_number), ...stagePoints.map(row => row.stage_number), ...stageResults.map(row => row.stage_number)])].filter(Boolean).sort((a, b) => a - b);
   const playerSelect = document.querySelector('#player-select');
   const stageSelect = document.querySelector('#stage-select');
   players.forEach(player => playerSelect.add(new Option(player, player)));
